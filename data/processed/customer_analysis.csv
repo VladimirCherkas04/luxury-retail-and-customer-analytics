@@ -1,0 +1,2161 @@
+customer_id;orders;total_revenue;average_order_value;average_satisfaction;repeat_orders;is_repeat_customer;customer_segment;loyalty_level;age_group;gender;region_id
+1;5;9679.01;1935.8;2.8;5;1;Occasional;Silver;25-34;Female;6
+2;3;35445.6;11815.2;3.33;3;1;Regular;Bronze;25-34;Male;1
+4;4;25992.54;6498.13;3.75;4;1;New Client;Silver;18-24;Female;1
+5;4;12975.81;3243.95;3.75;4;1;Regular;Gold;55+;Female;1
+6;3;31094.05;10364.68;2.67;3;1;Occasional;Silver;45-54;Male;10
+7;3;28734.44;9578.15;3.67;3;1;Regular;Platinum;45-54;Female;10
+8;5;10414.3;2082.86;3.2;5;1;Occasional;Bronze;35-44;Female;8
+9;3;9195.85;3065.28;3.67;3;1;VIP;Silver;55+;Female;2
+10;3;9887.53;3295.84;3.33;3;1;Occasional;Silver;25-34;Male;1
+11;2;4916.92;2458.46;4.0;2;1;New Client;Platinum;25-34;Male;6
+12;2;6587.36;3293.68;2.5;2;1;Occasional;Bronze;25-34;Female;4
+13;3;12560.91;4186.97;3.33;3;1;Regular;Silver;45-54;Male;1
+14;2;7660.63;3830.32;4.0;2;1;Regular;Gold;18-24;Male;5
+15;2;22735.83;11367.92;4.0;2;1;Occasional;Bronze;35-44;Female;1
+16;6;29327.86;4887.98;4.17;6;1;VIP;Gold;55+;Female;9
+17;8;58317.5;7289.69;2.88;8;1;New Client;Bronze;45-54;Female;2
+18;6;31040.92;5173.49;4.0;6;1;Occasional;Gold;35-44;Male;6
+19;7;43489.17;6212.74;4.29;7;1;VIP;Platinum;25-34;Female;2
+20;2;23336.86;11668.43;3.0;2;1;VIP;Silver;45-54;Male;5
+21;5;28458.38;5691.68;3.6;5;1;Regular;Silver;35-44;Female;5
+22;1;2122.72;2122.72;2.0;0;0;Regular;Bronze;25-34;Male;1
+23;5;24367.65;4873.53;3.8;5;1;New Client;Platinum;25-34;Female;10
+24;5;9700.64;1940.13;2.8;5;1;Regular;Silver;55+;Female;7
+25;2;4069.44;2034.72;2.5;2;1;Occasional;Bronze;45-54;Male;9
+26;3;10201.78;3400.59;3.33;3;1;New Client;Silver;45-54;Male;9
+27;4;18436.47;4609.12;3.5;4;1;New Client;Silver;55+;Male;6
+28;7;52838.41;7548.34;3.14;7;1;Occasional;Bronze;35-44;Female;9
+29;4;4913.52;1228.38;2.75;4;1;New Client;Bronze;35-44;Male;1
+30;4;24152.53;6038.13;3.5;4;1;Occasional;Bronze;35-44;Female;1
+31;6;19548.99;3258.16;3.17;6;1;New Client;Silver;35-44;Female;1
+32;6;16528.14;2754.69;3.17;6;1;New Client;Silver;35-44;Female;2
+33;4;17027.33;4256.83;3.25;4;1;Occasional;Silver;45-54;Female;3
+34;4;10733.04;2683.26;4.0;4;1;Occasional;Gold;35-44;Female;2
+35;1;1255.12;1255.12;4.0;0;0;Occasional;Gold;55+;Male;8
+36;2;15494.95;7747.48;4.0;2;1;Regular;Silver;35-44;Female;3
+37;3;10077.29;3359.1;3.33;3;1;VIP;Bronze;35-44;Male;2
+38;6;29287.69;4881.28;3.5;6;1;Regular;Silver;45-54;Female;5
+39;5;13493.55;2698.71;3.8;5;1;Occasional;Silver;35-44;Female;1
+40;2;7512.24;3756.12;3.5;2;1;Regular;Silver;45-54;Female;8
+41;5;22742.28;4548.46;2.8;5;1;New Client;Silver;25-34;Male;1
+42;7;33490.72;4784.39;3.43;7;1;New Client;Bronze;35-44;Male;10
+43;2;4328.66;2164.33;2.5;2;1;Occasional;Gold;25-34;Male;7
+44;7;75776.1;10825.16;3.29;7;1;Regular;Bronze;35-44;Male;1
+45;3;20175.84;6725.28;3.33;3;1;New Client;Silver;35-44;Female;1
+46;3;12833.6;4277.87;3.33;3;1;New Client;Bronze;45-54;Female;8
+47;5;18200.83;3640.17;4.8;5;1;New Client;Platinum;55+;Male;6
+48;3;6836.92;2278.97;3.33;3;1;Regular;Bronze;35-44;Female;6
+49;1;855.73;855.73;2.0;0;0;Regular;Bronze;45-54;Female;7
+50;6;15645.9;2607.65;3.0;6;1;New Client;Bronze;35-44;Female;1
+51;5;25866.23;5173.25;3.0;5;1;Occasional;Bronze;45-54;Male;3
+52;5;22480.89;4496.18;3.6;5;1;Occasional;Bronze;25-34;Female;1
+53;1;1255.8;1255.8;3.0;0;0;Regular;Silver;25-34;Female;8
+54;2;6371.17;3185.58;3.5;2;1;New Client;Silver;35-44;Female;6
+55;6;16437.6;2739.6;2.83;6;1;Regular;Bronze;35-44;Female;3
+56;4;18835.75;4708.94;3.0;4;1;Occasional;Bronze;18-24;Female;1
+57;3;11365.56;3788.52;3.67;3;1;Regular;Gold;25-34;Female;2
+58;3;12964.39;4321.46;4.0;3;1;New Client;Silver;25-34;Male;2
+59;6;42657.27;7109.55;4.0;6;1;Occasional;Gold;55+;Female;6
+60;4;14278.95;3569.74;3.5;4;1;Occasional;Silver;35-44;Female;6
+61;2;11718.51;5859.26;3.0;2;1;Occasional;Bronze;35-44;Male;9
+62;2;1593.42;796.71;2.5;2;1;New Client;Bronze;25-34;Female;5
+63;7;11610.74;1658.68;3.43;7;1;Regular;Bronze;45-54;Female;1
+64;4;13883.01;3470.75;3.75;4;1;New Client;Gold;25-34;Male;6
+65;2;13303.29;6651.64;4.5;2;1;Regular;Platinum;25-34;Female;7
+66;5;10907.08;2181.42;3.4;5;1;Regular;Silver;35-44;Male;6
+67;2;2128.0;1064.0;3.5;2;1;Occasional;Bronze;18-24;Male;7
+68;5;25660.65;5132.13;3.2;5;1;Regular;Bronze;18-24;Male;5
+69;4;6016.49;1504.12;2.75;4;1;Regular;Bronze;25-34;Female;5
+70;2;5159.28;2579.64;3.0;2;1;Occasional;Silver;18-24;Female;4
+71;7;30828.29;4404.04;2.86;7;1;Regular;Bronze;25-34;Female;1
+72;6;22724.75;3787.46;4.67;6;1;New Client;Platinum;35-44;Female;1
+73;3;5204.08;1734.69;3.67;3;1;Occasional;Bronze;45-54;Male;1
+74;6;27258.59;4543.1;3.5;6;1;Regular;Gold;35-44;Female;6
+76;4;39737.48;9934.37;4.25;4;1;Occasional;Gold;25-34;Female;5
+77;5;34548.18;6909.64;3.4;5;1;Occasional;Silver;55+;Female;9
+79;10;59580.22;5958.02;3.2;10;1;VIP;Silver;25-34;Male;4
+80;6;40270.1;6711.68;3.17;6;1;Occasional;Silver;45-54;Female;7
+81;4;18214.35;4553.59;3.75;4;1;Regular;Silver;25-34;Male;1
+82;3;17015.31;5671.77;4.33;3;1;VIP;Platinum;35-44;Male;1
+83;2;3964.14;1982.07;4.0;2;1;New Client;Gold;35-44;Female;2
+84;4;21544.82;5386.2;3.75;4;1;New Client;Gold;55+;Female;1
+85;6;21209.92;3534.99;3.67;6;1;Regular;Gold;35-44;Female;9
+86;4;14468.11;3617.03;3.75;4;1;Regular;Bronze;45-54;Male;8
+87;4;25962.79;6490.7;3.0;4;1;Regular;Bronze;55+;Female;6
+88;3;20473.1;6824.37;3.67;3;1;Occasional;Silver;25-34;Female;8
+89;6;48858.74;8143.12;3.17;6;1;New Client;Silver;25-34;Female;8
+90;3;11525.33;3841.78;3.0;3;1;Occasional;Gold;35-44;Male;1
+91;1;3004.48;3004.48;3.0;0;0;New Client;Silver;35-44;Female;9
+92;4;14635.32;3658.83;3.5;4;1;New Client;Silver;35-44;Female;5
+93;3;7630.22;2543.41;3.67;3;1;Regular;Silver;55+;Male;8
+94;3;19628.09;6542.7;3.0;3;1;New Client;Bronze;45-54;Female;9
+95;5;56619.74;11323.95;4.2;5;1;Regular;Silver;35-44;Male;2
+96;5;11452.88;2290.58;3.8;5;1;Occasional;Gold;35-44;Male;1
+97;1;5733.43;5733.43;4.0;0;0;Occasional;Bronze;45-54;Male;1
+98;6;24009.11;4001.52;3.5;6;1;New Client;Silver;55+;Female;4
+99;5;11425.17;2285.03;3.8;5;1;Occasional;Silver;45-54;Male;8
+100;2;8597.09;4298.54;3.5;2;1;New Client;Bronze;18-24;Male;8
+102;4;26677.97;6669.49;4.0;4;1;Regular;Platinum;18-24;Female;5
+103;10;43565.11;4356.51;3.2;10;1;Occasional;Silver;25-34;Female;4
+104;5;25553.72;5110.74;3.4;5;1;New Client;Bronze;18-24;Female;1
+105;2;16642.38;8321.19;4.0;2;1;VIP;Bronze;35-44;Female;1
+106;6;33201.37;5533.56;3.0;6;1;Occasional;Silver;45-54;Female;3
+107;10;52639.51;5263.95;3.7;10;1;New Client;Silver;25-34;Female;10
+108;3;5953.8;1984.6;3.33;3;1;Occasional;Silver;35-44;Male;2
+109;3;9824.13;3274.71;3.0;3;1;VIP;Bronze;35-44;Female;5
+110;7;54475.67;7782.24;3.29;7;1;New Client;Gold;35-44;Male;6
+111;7;31868.55;4552.65;3.43;7;1;New Client;Silver;25-34;Female;3
+112;9;53708.74;5967.64;3.78;9;1;VIP;Bronze;35-44;Female;10
+113;5;14099.23;2819.85;3.0;5;1;New Client;Silver;45-54;Female;10
+114;3;5192.04;1730.68;3.67;3;1;New Client;Silver;25-34;Female;2
+115;6;28492.26;4748.71;4.33;6;1;Occasional;Gold;25-34;Female;5
+116;3;3927.77;1309.26;4.67;3;1;Regular;Platinum;35-44;Female;2
+117;7;34452.02;4921.72;3.43;7;1;Occasional;Bronze;55+;Female;2
+118;4;34097.94;8524.48;4.25;4;1;VIP;Gold;45-54;Male;1
+119;2;12165.75;6082.88;4.0;2;1;Regular;Gold;45-54;Female;6
+120;3;18975.59;6325.2;4.67;3;1;New Client;Platinum;35-44;Male;5
+121;1;4582.69;4582.69;3.0;0;0;VIP;Bronze;35-44;Male;1
+122;3;30809.99;10270.0;3.0;3;1;Occasional;Silver;18-24;Male;2
+123;6;28171.58;4695.26;3.33;6;1;New Client;Bronze;45-54;Male;9
+124;5;34682.89;6936.58;3.8;5;1;Occasional;Gold;55+;Female;1
+125;3;28093.08;9364.36;3.33;3;1;Occasional;Bronze;45-54;Female;1
+126;8;35024.54;4378.07;3.12;8;1;New Client;Silver;55+;Male;5
+127;2;38209.51;19104.76;3.0;2;1;New Client;Bronze;45-54;Female;10
+128;3;28155.31;9385.1;3.0;3;1;Occasional;Bronze;25-34;Female;1
+129;9;71242.38;7915.82;3.67;9;1;Regular;Silver;55+;Male;6
+130;5;19553.27;3910.65;3.2;5;1;Occasional;Gold;25-34;Male;7
+131;3;13216.88;4405.63;4.0;3;1;VIP;Silver;35-44;Male;1
+132;6;40655.82;6775.97;3.5;6;1;New Client;Gold;25-34;Male;6
+133;7;42396.39;6056.63;2.86;7;1;New Client;Bronze;18-24;Male;3
+134;5;16615.6;3323.12;3.6;5;1;New Client;Silver;35-44;Female;6
+135;2;11925.04;5962.52;4.0;2;1;New Client;Silver;25-34;Male;6
+136;9;58431.01;6492.33;3.11;9;1;New Client;Bronze;35-44;Female;5
+137;2;10902.45;5451.22;4.0;2;1;Regular;Silver;35-44;Female;1
+138;2;10286.47;5143.24;4.0;2;1;VIP;Silver;18-24;Male;8
+139;5;16230.9;3246.18;4.0;5;1;VIP;Silver;25-34;Female;2
+140;3;12129.94;4043.31;4.0;3;1;New Client;Gold;35-44;Female;1
+141;4;18253.43;4563.36;3.75;4;1;VIP;Silver;35-44;Female;1
+142;2;4510.19;2255.1;3.5;2;1;Occasional;Bronze;45-54;Male;6
+143;4;11697.65;2924.41;2.5;4;1;New Client;Bronze;45-54;Female;6
+144;3;4032.92;1344.31;3.33;3;1;Regular;Silver;45-54;Male;1
+145;4;26169.65;6542.41;2.75;4;1;Regular;Bronze;45-54;Female;5
+146;4;15165.22;3791.3;3.0;4;1;New Client;Bronze;35-44;Male;1
+147;3;14806.87;4935.62;3.33;3;1;Occasional;Silver;45-54;Male;6
+148;3;34106.87;11368.96;3.33;3;1;New Client;Silver;25-34;Female;1
+149;7;41112.83;5873.26;2.86;7;1;Regular;Bronze;35-44;Female;6
+150;7;41597.14;5942.45;4.0;7;1;Occasional;Gold;45-54;Female;3
+151;2;6370.41;3185.2;3.5;2;1;VIP;Silver;35-44;Male;9
+152;3;28046.22;9348.74;2.67;3;1;New Client;Bronze;45-54;Male;1
+153;1;4203.87;4203.87;4.0;0;0;Occasional;Gold;45-54;Male;3
+154;3;12166.9;4055.63;3.33;3;1;Occasional;Silver;45-54;Female;1
+155;4;10413.22;2603.31;3.75;4;1;Occasional;Silver;55+;Male;9
+156;3;9448.87;3149.62;2.67;3;1;Occasional;Silver;35-44;Male;8
+157;3;3231.61;1077.2;3.0;3;1;Regular;Bronze;35-44;Male;2
+158;2;27362.09;13681.04;3.0;2;1;Regular;Silver;35-44;Male;6
+159;3;7999.17;2666.39;2.67;3;1;VIP;Bronze;35-44;Female;8
+160;6;12655.79;2109.3;4.17;6;1;Regular;Platinum;35-44;Female;6
+161;7;39678.13;5668.3;4.0;7;1;Regular;Gold;45-54;Male;5
+162;11;66372.9;6033.9;3.36;11;1;Occasional;Silver;45-54;Male;1
+163;3;2447.36;815.79;3.33;3;1;Regular;Bronze;35-44;Female;1
+164;2;4946.3;2473.15;3.0;2;1;Occasional;Bronze;25-34;Female;9
+165;6;22670.53;3778.42;3.33;6;1;Occasional;Bronze;35-44;Female;9
+166;5;25027.2;5005.44;3.0;5;1;Occasional;Silver;25-34;Female;6
+167;4;22177.88;5544.47;3.75;4;1;Occasional;Bronze;55+;Female;3
+168;3;8101.48;2700.49;3.67;3;1;New Client;Silver;35-44;Male;3
+169;5;19022.67;3804.53;3.2;5;1;VIP;Bronze;25-34;Male;6
+170;5;18273.54;3654.71;4.4;5;1;Occasional;Platinum;18-24;Female;9
+171;5;14947.82;2989.56;3.4;5;1;New Client;Bronze;45-54;Female;9
+172;1;7388.15;7388.15;5.0;0;0;Occasional;Platinum;45-54;Female;7
+173;6;29218.76;4869.79;3.83;6;1;New Client;Gold;35-44;Female;6
+174;2;9394.13;4697.07;3.5;2;1;New Client;Silver;25-34;Male;1
+175;4;44982.38;11245.6;4.0;4;1;New Client;Gold;35-44;Male;1
+176;7;39076.92;5582.42;3.57;7;1;Occasional;Silver;35-44;Female;9
+177;6;22097.11;3682.85;3.67;6;1;Occasional;Silver;45-54;Male;6
+178;2;4166.49;2083.24;3.5;2;1;Regular;Bronze;35-44;Male;1
+179;6;16811.93;2801.99;2.83;6;1;Regular;Bronze;35-44;Male;1
+180;3;7464.22;2488.07;3.33;3;1;Occasional;Silver;25-34;Female;6
+181;2;16509.87;8254.94;3.5;2;1;Occasional;Silver;55+;Male;1
+182;5;44201.64;8840.33;3.6;5;1;Occasional;Silver;35-44;Female;1
+183;4;14255.5;3563.88;2.75;4;1;Regular;Bronze;45-54;Female;5
+184;1;402.79;402.79;2.0;0;0;New Client;Bronze;25-34;Female;6
+185;5;43760.28;8752.06;3.8;5;1;New Client;Bronze;35-44;Female;6
+186;5;17079.58;3415.92;2.6;5;1;Regular;Bronze;18-24;Female;1
+187;2;13155.24;6577.62;3.0;2;1;Occasional;Bronze;35-44;Female;6
+188;4;10550.9;2637.72;2.75;4;1;New Client;Bronze;55+;Female;1
+189;5;32701.65;6540.33;2.8;5;1;New Client;Bronze;35-44;Male;2
+190;1;22010.31;22010.31;2.0;0;0;VIP;Gold;18-24;Male;7
+191;7;25450.13;3635.73;3.29;7;1;Regular;Bronze;18-24;Female;6
+192;1;4424.08;4424.08;3.0;0;0;Regular;Silver;35-44;Male;8
+193;2;14173.83;7086.92;4.5;2;1;Occasional;Bronze;25-34;Male;6
+194;4;14230.8;3557.7;3.5;4;1;Occasional;Gold;18-24;Male;6
+195;2;12716.68;6358.34;4.0;2;1;VIP;Silver;45-54;Female;1
+196;6;22403.85;3733.98;2.67;6;1;VIP;Bronze;35-44;Male;3
+197;2;14794.57;7397.28;3.5;2;1;New Client;Silver;25-34;Male;2
+198;5;36121.97;7224.39;3.8;5;1;Regular;Silver;55+;Male;1
+199;4;14732.27;3683.07;3.5;4;1;New Client;Silver;25-34;Female;10
+200;1;4315.87;4315.87;4.0;0;0;New Client;Bronze;55+;Female;3
+201;2;4452.57;2226.28;5.0;2;1;Regular;Platinum;35-44;Male;9
+202;7;58770.96;8395.85;3.14;7;1;Occasional;Silver;55+;Female;6
+203;5;8817.66;1763.53;3.6;5;1;VIP;Bronze;35-44;Female;8
+204;4;9876.3;2469.07;3.5;4;1;New Client;Gold;45-54;Female;5
+205;5;18125.31;3625.06;3.4;5;1;Occasional;Bronze;55+;Male;6
+206;3;30795.38;10265.13;4.67;3;1;VIP;Gold;25-34;Male;5
+207;5;34835.18;6967.04;3.4;5;1;VIP;Silver;55+;Female;1
+208;4;5992.52;1498.13;3.75;4;1;New Client;Gold;35-44;Male;6
+209;4;7259.08;1814.77;2.75;4;1;Occasional;Bronze;35-44;Female;2
+210;5;11750.65;2350.13;3.8;5;1;Regular;Gold;35-44;Male;1
+211;1;343.32;343.32;5.0;0;0;New Client;Gold;35-44;Male;6
+212;5;34969.46;6993.89;3.4;5;1;VIP;Bronze;25-34;Male;1
+213;1;1593.07;1593.07;4.0;0;0;VIP;Bronze;35-44;Male;10
+214;7;25916.11;3702.3;3.29;7;1;New Client;Bronze;35-44;Female;10
+215;5;26014.69;5202.94;3.8;5;1;New Client;Platinum;45-54;Male;9
+216;4;22008.41;5502.1;2.75;4;1;New Client;Bronze;45-54;Female;3
+217;4;29305.12;7326.28;3.5;4;1;VIP;Silver;35-44;Male;1
+218;2;6786.83;3393.42;3.0;2;1;New Client;Bronze;35-44;Male;9
+219;5;13455.62;2691.12;3.6;5;1;Occasional;Silver;25-34;Male;4
+220;6;48639.3;8106.55;3.67;6;1;Occasional;Silver;25-34;Female;10
+221;4;21421.28;5355.32;4.0;4;1;Occasional;Platinum;18-24;Male;10
+222;4;10098.8;2524.7;4.0;4;1;New Client;Silver;35-44;Female;8
+223;9;61185.04;6798.34;4.11;9;1;New Client;Gold;25-34;Female;2
+224;1;8684.46;8684.46;3.0;0;0;VIP;Silver;55+;Male;3
+225;5;24762.43;4952.49;3.2;5;1;VIP;Bronze;35-44;Female;8
+226;4;11772.14;2943.04;3.25;4;1;Regular;Bronze;35-44;Male;2
+227;2;20368.11;10184.06;3.0;2;1;New Client;Silver;35-44;Female;1
+228;5;14695.63;2939.13;4.2;5;1;Occasional;Platinum;25-34;Female;6
+229;4;14159.04;3539.76;2.75;4;1;Regular;Gold;35-44;Male;9
+230;4;28996.72;7249.18;2.75;4;1;New Client;Bronze;45-54;Female;6
+231;5;16805.64;3361.13;3.0;5;1;VIP;Bronze;35-44;Female;6
+232;6;52667.29;8777.88;3.33;6;1;Regular;Bronze;35-44;Male;1
+233;4;12600.82;3150.2;4.25;4;1;New Client;Platinum;55+;Female;6
+234;6;24492.51;4082.08;3.67;6;1;VIP;Gold;55+;Male;10
+235;1;8029.6;8029.6;4.0;0;0;VIP;Gold;45-54;Female;1
+236;1;1290.35;1290.35;4.0;0;0;New Client;Silver;35-44;Male;5
+237;2;7874.4;3937.2;3.0;2;1;Occasional;Silver;45-54;Male;8
+238;3;22707.86;7569.29;3.33;3;1;Occasional;Silver;25-34;Male;7
+239;8;45173.13;5646.64;2.88;8;1;Occasional;Bronze;35-44;Female;6
+240;5;32042.15;6408.43;3.8;5;1;New Client;Silver;18-24;Male;6
+241;5;13458.22;2691.64;3.4;5;1;Occasional;Bronze;35-44;Male;3
+242;4;19364.67;4841.17;3.0;4;1;VIP;Bronze;35-44;Male;2
+243;5;13749.21;2749.84;3.4;5;1;Occasional;Gold;25-34;Female;8
+244;2;8894.94;4447.47;3.5;2;1;New Client;Gold;55+;Male;8
+245;6;20434.23;3405.7;3.83;6;1;Regular;Silver;55+;Male;8
+246;3;23123.62;7707.87;3.33;3;1;Occasional;Silver;45-54;Female;9
+247;4;16896.05;4224.01;2.75;4;1;Regular;Bronze;35-44;Female;5
+248;1;1342.53;1342.53;4.0;0;0;Occasional;Gold;55+;Male;5
+249;2;9327.19;4663.6;4.0;2;1;New Client;Gold;25-34;Female;8
+250;4;29845.43;7461.36;3.5;4;1;New Client;Gold;45-54;Male;6
+251;1;1498.84;1498.84;4.0;0;0;Regular;Gold;25-34;Male;6
+252;2;7595.0;3797.5;2.5;2;1;New Client;Bronze;45-54;Male;8
+253;4;28782.25;7195.56;2.5;4;1;Regular;Bronze;25-34;Female;9
+254;8;45031.38;5628.92;3.5;8;1;New Client;Silver;55+;Female;3
+255;5;15601.85;3120.37;3.0;5;1;Occasional;Bronze;55+;Male;3
+256;4;15249.83;3812.46;3.5;4;1;Occasional;Gold;25-34;Female;1
+257;9;22970.57;2552.29;3.33;9;1;VIP;Bronze;35-44;Male;6
+258;5;15561.03;3112.21;2.8;5;1;VIP;Bronze;55+;Female;1
+259;5;29019.71;5803.94;4.2;5;1;New Client;Silver;35-44;Female;4
+260;6;36463.35;6077.22;4.0;6;1;Occasional;Platinum;55+;Female;5
+261;5;53459.74;10691.95;3.4;5;1;New Client;Bronze;35-44;Female;2
+262;5;37196.07;7439.21;3.8;5;1;Occasional;Silver;35-44;Male;6
+263;5;30770.46;6154.09;4.0;5;1;Occasional;Silver;25-34;Female;1
+264;2;3090.58;1545.29;3.5;2;1;VIP;Bronze;25-34;Female;1
+265;7;37208.16;5315.45;3.43;7;1;VIP;Silver;45-54;Female;8
+266;3;12477.22;4159.07;3.67;3;1;Occasional;Gold;35-44;Female;3
+267;2;3189.02;1594.51;4.0;2;1;Occasional;Silver;35-44;Female;1
+268;2;6263.9;3131.95;3.5;2;1;VIP;Gold;35-44;Male;5
+269;6;37111.93;6185.32;3.33;6;1;Regular;Bronze;35-44;Female;7
+270;5;13747.79;2749.56;2.6;5;1;New Client;Bronze;55+;Female;1
+271;5;6494.38;1298.88;4.2;5;1;Occasional;Platinum;55+;Female;6
+272;4;9785.12;2446.28;3.25;4;1;Occasional;Bronze;35-44;Male;1
+273;5;28827.74;5765.55;3.4;5;1;New Client;Silver;45-54;Female;1
+274;3;15360.89;5120.3;4.0;3;1;New Client;Gold;45-54;Female;5
+275;5;44679.84;8935.97;2.8;5;1;New Client;Bronze;35-44;Male;5
+276;6;45476.62;7579.44;3.83;6;1;Regular;Gold;55+;Male;6
+277;2;14164.51;7082.26;3.5;2;1;New Client;Bronze;25-34;Female;6
+278;10;57529.95;5753.0;3.3;10;1;New Client;Bronze;25-34;Female;10
+279;3;13991.7;4663.9;3.33;3;1;New Client;Bronze;45-54;Male;5
+280;1;397.13;397.13;4.0;0;0;Regular;Gold;35-44;Female;2
+281;4;29399.96;7349.99;3.0;4;1;Regular;Bronze;45-54;Male;8
+282;2;3388.43;1694.22;3.0;2;1;Occasional;Gold;55+;Male;2
+283;5;21384.83;4276.97;4.2;5;1;Occasional;Platinum;25-34;Female;4
+284;1;1365.48;1365.48;3.0;0;0;VIP;Silver;55+;Female;1
+285;6;37124.27;6187.38;3.67;6;1;New Client;Silver;35-44;Female;1
+286;2;7153.42;3576.71;3.5;2;1;New Client;Silver;35-44;Male;10
+287;3;29345.69;9781.9;3.0;3;1;New Client;Bronze;45-54;Female;8
+288;5;22784.1;4556.82;3.6;5;1;New Client;Silver;55+;Female;6
+290;7;30172.4;4310.34;4.14;7;1;VIP;Platinum;35-44;Male;1
+291;4;16060.41;4015.1;4.25;4;1;Regular;Platinum;45-54;Female;1
+292;4;38758.74;9689.68;3.75;4;1;Occasional;Gold;45-54;Male;2
+293;7;64223.47;9174.78;3.57;7;1;VIP;Gold;45-54;Female;5
+294;4;20413.79;5103.45;3.25;4;1;New Client;Silver;25-34;Female;6
+295;4;30660.99;7665.25;3.25;4;1;New Client;Silver;25-34;Female;6
+296;3;12660.6;4220.2;4.0;3;1;Occasional;Gold;35-44;Female;2
+297;3;33738.99;11246.33;2.67;3;1;Regular;Silver;45-54;Female;10
+298;1;2862.38;2862.38;5.0;0;0;New Client;Platinum;25-34;Female;7
+299;2;4309.75;2154.88;4.0;2;1;Occasional;Silver;25-34;Male;6
+300;5;22275.81;4455.16;3.8;5;1;Regular;Silver;55+;Male;6
+301;4;11863.0;2965.75;3.75;4;1;Regular;Gold;18-24;Male;4
+302;5;13904.42;2780.88;4.2;5;1;Regular;Platinum;55+;Female;1
+303;3;5981.49;1993.83;3.33;3;1;Occasional;Bronze;45-54;Female;3
+304;4;12283.79;3070.95;3.75;4;1;New Client;Gold;45-54;Female;7
+305;3;11049.89;3683.3;3.0;3;1;Occasional;Silver;25-34;Male;1
+306;8;31981.93;3997.74;3.5;8;1;New Client;Bronze;18-24;Male;1
+307;1;8144.11;8144.11;3.0;0;0;VIP;Gold;45-54;Female;1
+308;7;24579.78;3511.4;3.29;7;1;Occasional;Silver;45-54;Female;1
+309;1;3091.04;3091.04;4.0;0;0;Occasional;Silver;45-54;Female;8
+310;2;5246.93;2623.46;3.0;2;1;Regular;Bronze;25-34;Female;6
+311;2;13222.55;6611.28;3.0;2;1;Occasional;Silver;45-54;Female;5
+312;5;26953.31;5390.66;3.6;5;1;Occasional;Silver;45-54;Male;1
+313;1;1439.44;1439.44;3.0;0;0;Regular;Silver;45-54;Male;5
+314;5;16249.04;3249.81;3.2;5;1;Regular;Bronze;45-54;Female;5
+315;4;8520.98;2130.24;3.75;4;1;Regular;Platinum;45-54;Female;1
+316;4;11403.19;2850.8;3.0;4;1;New Client;Silver;45-54;Male;4
+317;4;24757.9;6189.48;4.25;4;1;Occasional;Gold;25-34;Female;3
+318;1;1952.2;1952.2;2.0;0;0;Regular;Silver;35-44;Female;6
+319;3;40198.57;13399.52;3.0;3;1;New Client;Bronze;25-34;Female;6
+320;2;1737.14;868.57;4.0;2;1;New Client;Silver;35-44;Female;1
+321;3;13922.6;4640.87;4.0;3;1;VIP;Silver;35-44;Female;3
+322;2;14969.86;7484.93;3.0;2;1;New Client;Silver;25-34;Male;6
+323;4;10584.75;2646.19;3.25;4;1;Regular;Silver;35-44;Female;5
+325;3;17893.29;5964.43;3.67;3;1;Occasional;Bronze;45-54;Male;6
+326;3;5822.91;1940.97;3.33;3;1;New Client;Silver;55+;Female;1
+327;4;16644.21;4161.05;3.5;4;1;Regular;Bronze;25-34;Male;1
+328;5;10969.35;2193.87;2.6;5;1;Occasional;Bronze;55+;Male;6
+329;5;42402.27;8480.45;4.2;5;1;Occasional;Platinum;35-44;Female;1
+330;2;4297.64;2148.82;4.0;2;1;Regular;Silver;25-34;Male;6
+331;3;21385.84;7128.61;3.67;3;1;Regular;Silver;25-34;Female;10
+332;3;10560.75;3520.25;4.0;3;1;VIP;Silver;35-44;Male;6
+333;7;25670.05;3667.15;4.14;7;1;Occasional;Gold;45-54;Female;3
+334;5;26231.49;5246.3;3.0;5;1;Occasional;Silver;45-54;Male;6
+335;3;9526.89;3175.63;3.67;3;1;VIP;Gold;18-24;Male;4
+336;6;46716.98;7786.16;3.0;6;1;Regular;Bronze;25-34;Female;5
+337;3;11171.75;3723.92;4.67;3;1;New Client;Platinum;35-44;Female;10
+338;1;441.58;441.58;5.0;0;0;New Client;Gold;25-34;Male;3
+339;8;17905.0;2238.12;3.62;8;1;Regular;Gold;25-34;Male;10
+340;7;63314.53;9044.93;3.57;7;1;Occasional;Bronze;25-34;Female;9
+341;3;14369.83;4789.94;3.33;3;1;Regular;Bronze;45-54;Male;1
+343;1;4438.31;4438.31;3.0;0;0;New Client;Bronze;35-44;Female;1
+344;6;8744.15;1457.36;4.33;6;1;Regular;Gold;55+;Female;1
+345;1;2341.81;2341.81;3.0;0;0;New Client;Bronze;35-44;Female;1
+346;2;9392.15;4696.08;3.5;2;1;Occasional;Bronze;35-44;Male;6
+347;5;22176.28;4435.26;3.0;5;1;Occasional;Bronze;25-34;Female;1
+348;3;15301.45;5100.48;4.0;3;1;Occasional;Bronze;45-54;Male;2
+349;6;32105.03;5350.84;3.17;6;1;Regular;Bronze;55+;Female;8
+350;5;23818.44;4763.69;4.0;5;1;Regular;Gold;35-44;Female;1
+351;3;15840.71;5280.24;3.33;3;1;Regular;Silver;35-44;Female;8
+352;3;18975.35;6325.12;3.33;3;1;New Client;Bronze;45-54;Female;2
+353;2;11461.49;5730.74;4.0;2;1;New Client;Silver;25-34;Female;1
+354;2;3371.38;1685.69;3.5;2;1;Occasional;Silver;55+;Female;6
+355;5;14369.3;2873.86;3.4;5;1;VIP;Bronze;35-44;Female;6
+356;5;19819.48;3963.9;3.8;5;1;Regular;Silver;35-44;Female;8
+357;4;15790.71;3947.68;4.25;4;1;Regular;Gold;35-44;Female;7
+358;7;28993.57;4141.94;3.71;7;1;Occasional;Gold;45-54;Female;8
+359;5;8520.4;1704.08;3.4;5;1;Occasional;Gold;25-34;Male;2
+360;6;18997.34;3166.22;3.5;6;1;Occasional;Bronze;45-54;Male;1
+361;8;47634.65;5954.33;4.25;8;1;New Client;Platinum;25-34;Female;7
+362;3;4856.27;1618.76;4.33;3;1;New Client;Gold;45-54;Female;8
+363;2;4606.77;2303.38;4.5;2;1;VIP;Gold;45-54;Female;10
+364;5;29540.88;5908.18;2.8;5;1;New Client;Bronze;45-54;Male;4
+365;5;21619.36;4323.87;4.2;5;1;New Client;Platinum;35-44;Female;3
+367;5;28106.97;5621.39;3.6;5;1;VIP;Gold;25-34;Female;3
+368;5;30099.66;6019.93;3.2;5;1;Occasional;Bronze;45-54;Female;9
+369;5;16066.21;3213.24;3.4;5;1;Regular;Gold;25-34;Female;8
+370;2;31923.27;15961.63;5.0;2;1;VIP;Platinum;35-44;Male;4
+371;3;11017.77;3672.59;3.0;3;1;Occasional;Silver;25-34;Female;7
+372;3;10511.94;3503.98;3.33;3;1;Regular;Silver;25-34;Male;7
+373;6;39252.77;6542.13;4.83;6;1;New Client;Platinum;45-54;Female;1
+374;2;9387.29;4693.64;3.5;2;1;New Client;Silver;18-24;Female;9
+375;5;11510.87;2302.17;3.6;5;1;Regular;Silver;45-54;Male;5
+376;6;12471.63;2078.6;3.33;6;1;Regular;Silver;35-44;Female;8
+377;5;29606.82;5921.36;4.8;5;1;Occasional;Platinum;18-24;Male;2
+378;2;789.75;394.88;3.0;2;1;Occasional;Bronze;35-44;Female;9
+379;3;24178.63;8059.54;3.0;3;1;Occasional;Silver;18-24;Female;3
+380;3;10835.49;3611.83;3.0;3;1;New Client;Silver;25-34;Male;1
+381;4;8862.58;2215.64;3.75;4;1;New Client;Gold;45-54;Female;9
+382;6;11527.28;1921.21;3.5;6;1;New Client;Silver;25-34;Male;1
+383;3;3553.81;1184.6;3.33;3;1;New Client;Gold;45-54;Female;2
+384;3;9625.23;3208.41;4.0;3;1;Regular;Platinum;18-24;Male;10
+385;4;42940.42;10735.1;2.5;4;1;New Client;Bronze;25-34;Female;10
+386;3;11868.92;3956.31;3.67;3;1;New Client;Silver;45-54;Female;6
+387;5;15279.61;3055.92;2.8;5;1;Occasional;Bronze;35-44;Male;6
+388;2;12650.82;6325.41;2.0;2;1;Regular;Bronze;25-34;Male;4
+389;3;28631.45;9543.82;3.67;3;1;New Client;Silver;35-44;Male;2
+390;3;14053.92;4684.64;3.67;3;1;New Client;Gold;25-34;Male;2
+391;4;22560.44;5640.11;3.75;4;1;Occasional;Gold;45-54;Male;6
+392;12;48037.99;4003.17;3.33;12;1;Regular;Bronze;35-44;Female;7
+393;7;24448.02;3492.57;3.29;7;1;Occasional;Bronze;45-54;Female;8
+394;8;35031.7;4378.96;3.12;8;1;Regular;Silver;55+;Female;8
+395;4;22342.67;5585.67;3.25;4;1;VIP;Silver;35-44;Female;1
+396;2;14458.36;7229.18;3.0;2;1;Regular;Bronze;55+;Female;5
+397;7;15854.94;2264.99;3.86;7;1;Regular;Gold;35-44;Female;1
+398;1;987.06;987.06;4.0;0;0;Occasional;Platinum;55+;Female;5
+399;10;67072.88;6707.29;3.4;10;1;New Client;Silver;25-34;Male;4
+400;2;5861.42;2930.71;4.5;2;1;VIP;Gold;45-54;Female;9
+401;2;12212.84;6106.42;3.5;2;1;Occasional;Silver;35-44;Female;3
+402;3;17826.02;5942.01;3.0;3;1;New Client;Gold;35-44;Female;1
+403;5;30618.71;6123.74;3.4;5;1;Regular;Silver;45-54;Male;1
+404;5;12639.12;2527.82;2.4;5;1;New Client;Bronze;45-54;Male;7
+405;2;30830.81;15415.4;4.0;2;1;Occasional;Platinum;18-24;Male;6
+406;2;794.37;397.18;3.5;2;1;Occasional;Silver;25-34;Female;1
+407;1;1723.13;1723.13;4.0;0;0;Occasional;Gold;45-54;Female;1
+408;5;59925.39;11985.08;3.0;5;1;Regular;Bronze;45-54;Female;6
+409;4;21340.12;5335.03;3.5;4;1;New Client;Bronze;55+;Female;1
+410;3;15348.39;5116.13;4.0;3;1;Occasional;Bronze;45-54;Female;8
+411;4;45614.11;11403.53;2.25;4;1;Occasional;Silver;55+;Female;6
+412;9;27249.31;3027.7;3.44;9;1;Regular;Silver;45-54;Female;1
+413;2;6183.33;3091.66;3.0;2;1;Regular;Bronze;25-34;Male;1
+414;4;16033.69;4008.42;3.25;4;1;Occasional;Silver;25-34;Male;10
+415;4;12873.56;3218.39;3.25;4;1;Regular;Silver;45-54;Female;3
+416;7;33404.16;4772.02;4.0;7;1;New Client;Gold;45-54;Female;3
+417;3;27487.12;9162.37;3.0;3;1;VIP;Silver;18-24;Female;8
+418;1;3469.29;3469.29;4.0;0;0;Occasional;Gold;35-44;Female;10
+419;3;5818.0;1939.33;3.0;3;1;Regular;Silver;55+;Male;10
+420;7;40111.22;5730.17;3.43;7;1;New Client;Silver;35-44;Female;7
+421;6;15337.53;2556.26;3.17;6;1;New Client;Bronze;35-44;Male;3
+422;5;38345.45;7669.09;3.2;5;1;Occasional;Bronze;35-44;Female;1
+423;6;7669.42;1278.24;3.0;6;1;Regular;Bronze;25-34;Male;7
+425;3;19688.59;6562.86;3.33;3;1;VIP;Bronze;35-44;Male;4
+426;7;30680.52;4382.93;2.86;7;1;Occasional;Bronze;18-24;Female;9
+427;3;20753.62;6917.87;3.33;3;1;Occasional;Gold;45-54;Male;1
+428;6;24429.83;4071.64;3.0;6;1;New Client;Bronze;35-44;Female;5
+430;8;28406.37;3550.8;3.0;8;1;New Client;Bronze;45-54;Male;4
+431;4;11533.08;2883.27;4.25;4;1;VIP;Gold;25-34;Male;1
+432;7;14091.07;2013.01;3.43;7;1;VIP;Bronze;45-54;Male;1
+433;3;16956.65;5652.22;4.0;3;1;VIP;Silver;35-44;Male;1
+434;4;36229.05;9057.26;3.75;4;1;Occasional;Silver;55+;Male;6
+435;5;42752.91;8550.58;3.2;5;1;Regular;Silver;25-34;Female;7
+436;2;6798.44;3399.22;4.0;2;1;Regular;Silver;45-54;Female;6
+437;2;2608.26;1304.13;3.5;2;1;New Client;Gold;35-44;Female;10
+438;6;14603.1;2433.85;3.67;6;1;Regular;Bronze;25-34;Male;3
+439;2;30367.28;15183.64;3.0;2;1;New Client;Bronze;25-34;Female;2
+440;3;10957.79;3652.6;3.67;3;1;Occasional;Bronze;45-54;Female;8
+441;6;15312.66;2552.11;3.5;6;1;New Client;Bronze;45-54;Male;1
+442;4;6959.71;1739.93;2.5;4;1;New Client;Bronze;35-44;Male;10
+443;3;24955.42;8318.47;3.0;3;1;Occasional;Bronze;45-54;Female;1
+444;5;15878.33;3175.67;3.4;5;1;Occasional;Silver;35-44;Female;10
+446;3;10658.59;3552.86;4.33;3;1;New Client;Silver;25-34;Female;9
+447;8;63223.34;7902.92;3.5;8;1;Occasional;Gold;55+;Female;5
+448;2;3806.91;1903.46;4.5;2;1;New Client;Bronze;25-34;Male;10
+449;7;40879.45;5839.92;2.86;7;1;Occasional;Bronze;35-44;Male;1
+450;6;63203.44;10533.91;3.0;6;1;Regular;Silver;18-24;Male;6
+451;4;38682.05;9670.51;3.25;4;1;Occasional;Bronze;25-34;Female;10
+452;2;19431.71;9715.86;4.0;2;1;Regular;Bronze;35-44;Male;5
+453;5;34754.42;6950.88;3.6;5;1;Occasional;Silver;25-34;Female;6
+454;7;54074.55;7724.94;4.29;7;1;Regular;Platinum;45-54;Female;6
+455;6;21674.31;3612.38;4.17;6;1;Occasional;Gold;18-24;Male;4
+456;3;13547.88;4515.96;4.0;3;1;Occasional;Bronze;35-44;Female;6
+457;4;24310.53;6077.63;3.5;4;1;Regular;Gold;35-44;Female;6
+458;3;24652.41;8217.47;4.33;3;1;New Client;Gold;18-24;Male;9
+459;3;14682.26;4894.09;4.0;3;1;Regular;Silver;25-34;Female;1
+460;3;13824.97;4608.32;4.0;3;1;Regular;Gold;35-44;Male;2
+461;3;3798.41;1266.14;4.0;3;1;Occasional;Silver;35-44;Female;10
+462;6;57759.86;9626.64;2.83;6;1;New Client;Bronze;35-44;Male;9
+463;4;15234.32;3808.58;3.75;4;1;New Client;Silver;35-44;Female;4
+464;6;24596.77;4099.46;3.17;6;1;VIP;Silver;35-44;Female;6
+465;5;24848.02;4969.6;3.8;5;1;Regular;Silver;18-24;Male;2
+466;7;29341.01;4191.57;3.14;7;1;New Client;Silver;35-44;Female;1
+467;3;13244.28;4414.76;3.67;3;1;Occasional;Platinum;55+;Female;4
+468;3;13982.79;4660.93;3.0;3;1;Occasional;Gold;35-44;Female;3
+469;3;6228.02;2076.01;3.33;3;1;Regular;Gold;45-54;Female;6
+470;1;2025.57;2025.57;4.0;0;0;New Client;Gold;35-44;Female;1
+471;4;35345.31;8836.33;4.0;4;1;New Client;Platinum;45-54;Female;10
+472;2;30810.46;15405.23;3.0;2;1;VIP;Bronze;45-54;Male;10
+473;4;29946.17;7486.54;3.25;4;1;New Client;Bronze;35-44;Female;6
+474;3;10675.65;3558.55;3.0;3;1;New Client;Silver;55+;Female;5
+475;2;4042.47;2021.24;4.0;2;1;VIP;Gold;25-34;Female;2
+476;4;25206.26;6301.56;4.0;4;1;Regular;Silver;18-24;Female;8
+477;5;20849.85;4169.97;4.2;5;1;New Client;Gold;45-54;Male;6
+478;3;33189.53;11063.18;3.67;3;1;New Client;Bronze;45-54;Female;1
+479;6;48699.33;8116.56;3.0;6;1;New Client;Bronze;25-34;Male;9
+480;3;7987.4;2662.47;4.67;3;1;New Client;Gold;25-34;Female;8
+481;6;33493.87;5582.31;2.83;6;1;VIP;Bronze;18-24;Male;10
+482;5;23938.39;4787.68;3.2;5;1;Occasional;Bronze;25-34;Female;6
+483;7;29000.63;4142.95;3.0;7;1;Regular;Bronze;45-54;Male;6
+484;3;12816.27;4272.09;3.0;3;1;VIP;Bronze;35-44;Female;4
+485;4;18692.01;4673.0;3.75;4;1;Occasional;Gold;35-44;Female;9
+486;3;26891.23;8963.74;3.0;3;1;New Client;Bronze;35-44;Female;8
+487;3;9700.93;3233.64;3.67;3;1;Occasional;Silver;18-24;Female;1
+488;5;20513.04;4102.61;2.8;5;1;VIP;Bronze;25-34;Male;1
+489;3;14061.33;4687.11;3.0;3;1;Regular;Gold;45-54;Female;3
+490;6;37762.99;6293.83;2.83;6;1;New Client;Bronze;55+;Female;8
+491;3;3648.12;1216.04;2.33;3;1;Regular;Silver;45-54;Male;10
+492;2;11522.16;5761.08;3.5;2;1;Occasional;Gold;18-24;Female;1
+493;2;15404.11;7702.06;2.5;2;1;VIP;Bronze;55+;Male;6
+494;3;17411.94;5803.98;4.67;3;1;New Client;Gold;45-54;Male;3
+495;2;4452.66;2226.33;3.5;2;1;Occasional;Silver;45-54;Male;10
+496;3;11673.28;3891.09;4.33;3;1;Regular;Silver;35-44;Male;8
+497;2;5654.73;2827.36;3.0;2;1;Occasional;Bronze;35-44;Female;8
+498;8;29383.53;3672.94;4.38;8;1;Occasional;Platinum;35-44;Female;4
+499;2;21183.41;10591.7;4.0;2;1;New Client;Gold;25-34;Female;4
+500;1;3804.04;3804.04;3.0;0;0;New Client;Bronze;25-34;Female;2
+501;4;15465.28;3866.32;3.0;4;1;Occasional;Bronze;25-34;Male;1
+502;1;4306.56;4306.56;4.0;0;0;VIP;Gold;35-44;Male;8
+503;2;8431.5;4215.75;4.0;2;1;New Client;Silver;45-54;Female;8
+504;2;3904.45;1952.22;3.5;2;1;Occasional;Gold;35-44;Female;10
+505;4;24953.28;6238.32;3.0;4;1;Regular;Silver;18-24;Male;10
+506;3;7144.86;2381.62;3.33;3;1;New Client;Gold;55+;Female;6
+507;4;21014.97;5253.74;3.5;4;1;Occasional;Silver;55+;Female;7
+508;3;4043.95;1347.98;3.33;3;1;Regular;Bronze;45-54;Female;10
+509;6;22270.34;3711.72;3.5;6;1;Regular;Silver;55+;Male;8
+510;2;4654.98;2327.49;3.5;2;1;Regular;Platinum;35-44;Female;1
+511;3;5609.41;1869.8;3.33;3;1;Regular;Bronze;55+;Male;4
+512;4;52236.88;13059.22;4.25;4;1;New Client;Silver;25-34;Male;1
+513;1;14260.72;14260.72;4.0;0;0;VIP;Silver;35-44;Female;10
+514;3;18664.94;6221.65;4.33;3;1;New Client;Silver;25-34;Female;6
+515;5;42781.61;8556.32;3.6;5;1;Regular;Gold;25-34;Male;1
+516;5;33614.25;6722.85;4.2;5;1;New Client;Gold;25-34;Female;6
+518;7;18223.41;2603.34;4.14;7;1;Regular;Platinum;45-54;Male;3
+519;5;27785.31;5557.06;3.8;5;1;Regular;Gold;35-44;Male;1
+520;2;10677.26;5338.63;3.5;2;1;New Client;Gold;25-34;Male;6
+521;2;13206.6;6603.3;4.0;2;1;Occasional;Silver;45-54;Male;5
+522;2;2597.85;1298.93;4.0;2;1;Regular;Gold;45-54;Male;7
+523;5;16786.89;3357.38;3.0;5;1;Regular;Bronze;35-44;Female;5
+524;4;6359.26;1589.82;3.75;4;1;New Client;Bronze;45-54;Female;8
+525;3;11788.98;3929.66;3.67;3;1;VIP;Gold;25-34;Female;6
+526;4;14513.71;3628.43;2.75;4;1;VIP;Bronze;35-44;Male;6
+527;6;51104.72;8517.45;3.0;6;1;New Client;Bronze;55+;Female;8
+528;6;22078.14;3679.69;4.0;6;1;Regular;Gold;25-34;Male;4
+529;4;6740.27;1685.07;4.25;4;1;Occasional;Gold;35-44;Female;1
+530;4;8449.05;2112.26;2.75;4;1;Occasional;Bronze;55+;Male;1
+531;7;24713.5;3530.5;3.86;7;1;Occasional;Gold;45-54;Female;7
+532;4;6139.36;1534.84;3.25;4;1;Occasional;Silver;25-34;Male;6
+533;6;33711.2;5618.53;3.33;6;1;Regular;Silver;25-34;Female;6
+534;2;21692.8;10846.4;4.5;2;1;Occasional;Gold;18-24;Female;1
+535;4;21222.7;5305.68;3.5;4;1;Regular;Silver;45-54;Female;1
+536;6;21241.8;3540.3;2.5;6;1;Regular;Bronze;35-44;Male;1
+537;2;6986.69;3493.34;3.0;2;1;Regular;Bronze;25-34;Female;3
+538;2;4883.27;2441.63;4.0;2;1;New Client;Silver;55+;Female;6
+539;2;12497.67;6248.84;3.0;2;1;Regular;Silver;35-44;Male;3
+540;5;14591.61;2918.32;3.8;5;1;Occasional;Gold;25-34;Male;4
+541;1;4108.39;4108.39;4.0;0;0;New Client;Gold;35-44;Male;9
+542;4;14530.08;3632.52;3.5;4;1;New Client;Silver;45-54;Female;3
+543;4;16913.36;4228.34;3.75;4;1;Occasional;Gold;25-34;Female;5
+544;1;1499.33;1499.33;3.0;0;0;VIP;Bronze;25-34;Male;8
+545;4;37748.95;9437.24;3.25;4;1;Occasional;Bronze;45-54;Female;3
+546;3;10563.64;3521.21;3.33;3;1;Regular;Gold;35-44;Male;6
+547;4;12750.78;3187.7;3.0;4;1;New Client;Bronze;35-44;Female;8
+548;4;25137.4;6284.35;3.75;4;1;Occasional;Bronze;35-44;Female;10
+549;3;7049.36;2349.79;3.67;3;1;VIP;Silver;18-24;Female;1
+550;2;3527.64;1763.82;3.0;2;1;Regular;Silver;25-34;Female;9
+551;1;6123.85;6123.85;4.0;0;0;New Client;Gold;35-44;Female;5
+552;6;48259.43;8043.24;2.83;6;1;Occasional;Bronze;25-34;Female;2
+553;4;21076.08;5269.02;3.0;4;1;New Client;Bronze;18-24;Male;4
+554;6;27819.88;4636.65;3.17;6;1;Occasional;Bronze;45-54;Female;10
+555;6;6626.4;1104.4;3.0;6;1;Regular;Silver;55+;Male;5
+556;3;22223.87;7407.96;3.0;3;1;Regular;Bronze;45-54;Male;2
+557;6;24107.41;4017.9;3.83;6;1;New Client;Silver;45-54;Female;6
+558;3;15674.82;5224.94;3.67;3;1;VIP;Gold;25-34;Female;1
+559;3;20244.43;6748.14;4.0;3;1;Occasional;Gold;55+;Male;1
+560;6;28116.21;4686.04;2.67;6;1;Occasional;Bronze;25-34;Male;1
+561;4;22888.9;5722.22;3.5;4;1;Occasional;Silver;55+;Male;1
+562;8;19398.77;2424.85;3.5;8;1;Regular;Silver;55+;Male;1
+563;4;38481.23;9620.31;4.0;4;1;Occasional;Platinum;45-54;Male;1
+564;1;13660.78;13660.78;4.0;0;0;Occasional;Platinum;55+;Female;6
+565;4;10294.22;2573.56;4.0;4;1;Occasional;Bronze;35-44;Female;1
+566;5;15349.96;3069.99;3.8;5;1;New Client;Gold;25-34;Male;3
+567;3;16964.7;5654.9;3.33;3;1;Regular;Bronze;35-44;Female;9
+568;4;4787.08;1196.77;2.75;4;1;Occasional;Bronze;35-44;Male;5
+569;5;28618.63;5723.73;3.4;5;1;New Client;Bronze;25-34;Female;6
+570;5;32067.86;6413.57;3.2;5;1;Regular;Silver;45-54;Female;1
+571;3;9732.31;3244.1;3.67;3;1;VIP;Silver;55+;Male;1
+572;4;5974.3;1493.57;3.75;4;1;VIP;Bronze;25-34;Male;1
+573;2;951.0;475.5;3.5;2;1;Occasional;Silver;45-54;Female;1
+574;2;12670.03;6335.02;3.0;2;1;New Client;Bronze;55+;Female;2
+575;8;57288.4;7161.05;3.38;8;1;Occasional;Silver;55+;Male;1
+576;6;19715.19;3285.86;3.17;6;1;New Client;Bronze;55+;Female;1
+577;3;10446.01;3482.0;3.67;3;1;VIP;Bronze;35-44;Male;1
+578;3;9080.56;3026.85;3.33;3;1;New Client;Silver;55+;Female;4
+579;5;30449.25;6089.85;3.4;5;1;New Client;Bronze;45-54;Male;1
+580;5;16016.22;3203.24;3.8;5;1;Occasional;Silver;25-34;Male;3
+581;3;25332.73;8444.24;3.0;3;1;Occasional;Bronze;35-44;Female;5
+582;4;19490.39;4872.6;3.25;4;1;Regular;Silver;45-54;Female;6
+583;7;33219.61;4745.66;2.86;7;1;Occasional;Bronze;25-34;Female;1
+584;3;25033.73;8344.58;3.33;3;1;New Client;Silver;45-54;Male;8
+585;7;53103.63;7586.23;4.14;7;1;New Client;Gold;45-54;Female;6
+586;5;34246.13;6849.23;2.8;5;1;Occasional;Bronze;25-34;Male;1
+587;5;6270.17;1254.03;2.8;5;1;New Client;Silver;35-44;Female;8
+588;2;7051.54;3525.77;3.0;2;1;Regular;Bronze;45-54;Female;9
+589;4;12205.73;3051.43;4.0;4;1;Occasional;Silver;35-44;Female;1
+590;5;16381.23;3276.25;3.2;5;1;Regular;Bronze;18-24;Female;2
+591;2;14167.13;7083.56;3.5;2;1;VIP;Silver;18-24;Female;8
+592;4;17022.81;4255.7;3.25;4;1;VIP;Silver;35-44;Male;7
+593;3;9623.19;3207.73;4.33;3;1;VIP;Platinum;55+;Male;1
+594;2;11171.93;5585.96;3.0;2;1;New Client;Silver;25-34;Female;1
+595;5;18763.79;3752.76;3.6;5;1;New Client;Silver;45-54;Male;3
+596;5;55157.65;11031.53;3.8;5;1;Occasional;Silver;25-34;Male;5
+597;4;3215.4;803.85;3.5;4;1;VIP;Platinum;35-44;Male;6
+598;4;10259.03;2564.76;3.75;4;1;VIP;Gold;45-54;Female;3
+599;6;15648.34;2608.06;3.5;6;1;Regular;Bronze;45-54;Female;4
+600;12;99703.99;8308.67;3.67;12;1;New Client;Gold;25-34;Female;7
+601;5;12059.09;2411.82;3.8;5;1;VIP;Silver;35-44;Male;1
+602;3;2795.96;931.99;3.67;3;1;Occasional;Gold;18-24;Female;2
+603;6;17447.49;2907.91;4.17;6;1;New Client;Gold;35-44;Female;6
+604;1;4194.26;4194.26;3.0;0;0;Occasional;Bronze;45-54;Female;9
+605;6;33897.61;5649.6;3.0;6;1;New Client;Gold;25-34;Female;5
+606;6;37500.8;6250.13;2.83;6;1;Occasional;Bronze;25-34;Male;5
+607;3;19696.96;6565.65;2.33;3;1;Occasional;Bronze;35-44;Female;1
+608;4;5343.4;1335.85;3.0;4;1;Occasional;Bronze;55+;Female;4
+609;3;2361.92;787.31;4.33;3;1;Regular;Gold;55+;Male;5
+610;4;10200.23;2550.06;3.75;4;1;Regular;Bronze;18-24;Male;1
+611;2;22251.65;11125.82;3.0;2;1;Regular;Bronze;45-54;Male;2
+612;4;44364.77;11091.19;3.75;4;1;Occasional;Gold;35-44;Male;3
+613;4;7048.04;1762.01;3.25;4;1;Regular;Bronze;35-44;Male;1
+614;5;26261.63;5252.33;3.2;5;1;VIP;Bronze;45-54;Male;2
+615;5;9321.2;1864.24;2.6;5;1;New Client;Bronze;55+;Female;1
+616;3;6107.62;2035.87;3.0;3;1;Occasional;Bronze;55+;Male;2
+617;5;10461.61;2092.32;3.4;5;1;New Client;Silver;35-44;Male;1
+618;4;8425.76;2106.44;2.75;4;1;New Client;Bronze;35-44;Male;9
+619;5;18448.95;3689.79;4.2;5;1;Regular;Platinum;45-54;Female;6
+620;4;8483.7;2120.93;4.25;4;1;Regular;Gold;25-34;Female;6
+621;4;25488.98;6372.24;3.5;4;1;New Client;Bronze;35-44;Female;8
+622;3;10875.05;3625.02;4.0;3;1;Regular;Bronze;35-44;Female;5
+623;5;24753.67;4950.73;3.4;5;1;Regular;Silver;45-54;Female;1
+624;7;18169.17;2595.6;2.86;7;1;VIP;Silver;25-34;Male;5
+625;4;14885.15;3721.29;4.0;4;1;New Client;Bronze;25-34;Female;6
+626;6;50798.53;8466.42;3.33;6;1;VIP;Bronze;55+;Female;7
+627;2;2076.37;1038.18;4.5;2;1;Occasional;Gold;25-34;Female;4
+628;7;18718.31;2674.04;3.0;7;1;Occasional;Bronze;35-44;Male;1
+629;2;15098.74;7549.37;2.5;2;1;New Client;Silver;25-34;Female;2
+630;2;4289.3;2144.65;4.5;2;1;New Client;Gold;18-24;Female;3
+631;2;25420.57;12710.28;2.5;2;1;Regular;Silver;18-24;Female;6
+632;3;13756.04;4585.35;3.33;3;1;Occasional;Bronze;25-34;Female;6
+633;3;6068.13;2022.71;3.67;3;1;New Client;Silver;55+;Male;3
+634;4;4110.34;1027.58;3.25;4;1;New Client;Bronze;25-34;Male;10
+635;3;13104.06;4368.02;3.33;3;1;Regular;Gold;55+;Female;6
+636;4;11957.65;2989.41;3.75;4;1;New Client;Silver;35-44;Female;1
+637;3;15103.3;5034.43;4.0;3;1;Regular;Gold;35-44;Male;1
+638;7;17534.25;2504.89;4.0;7;1;New Client;Platinum;35-44;Female;1
+639;6;20593.21;3432.2;4.0;6;1;New Client;Platinum;35-44;Female;1
+640;5;47789.93;9557.99;3.6;5;1;Occasional;Gold;45-54;Female;1
+641;2;13934.55;6967.28;3.5;2;1;Occasional;Silver;25-34;Male;1
+642;1;4083.45;4083.45;4.0;0;0;Occasional;Bronze;35-44;Female;2
+643;2;10429.44;5214.72;4.0;2;1;Occasional;Silver;55+;Female;1
+644;4;4768.69;1192.17;3.75;4;1;VIP;Silver;55+;Male;9
+645;2;4552.93;2276.46;3.5;2;1;Regular;Gold;55+;Female;1
+646;4;22482.06;5620.52;2.5;4;1;New Client;Bronze;35-44;Female;5
+647;3;2393.61;797.87;3.67;3;1;Occasional;Gold;45-54;Male;4
+648;8;37369.17;4671.15;3.75;8;1;Regular;Gold;35-44;Female;10
+649;3;24344.01;8114.67;4.0;3;1;Occasional;Platinum;35-44;Male;1
+650;4;14930.32;3732.58;3.75;4;1;New Client;Gold;25-34;Female;3
+651;5;25062.49;5012.5;2.8;5;1;Regular;Bronze;35-44;Female;10
+652;5;29367.26;5873.45;3.4;5;1;Regular;Bronze;25-34;Female;8
+653;1;571.22;571.22;4.0;0;0;Occasional;Bronze;35-44;Female;8
+654;4;24906.31;6226.58;3.5;4;1;New Client;Bronze;45-54;Female;2
+655;5;33571.43;6714.29;3.4;5;1;New Client;Silver;25-34;Male;1
+656;4;14691.05;3672.76;4.0;4;1;Regular;Gold;25-34;Female;6
+657;7;24610.84;3515.83;3.43;7;1;New Client;Gold;25-34;Female;9
+658;3;27993.22;9331.07;3.33;3;1;Occasional;Silver;55+;Female;6
+659;4;8890.67;2222.67;2.75;4;1;Occasional;Bronze;35-44;Male;6
+660;2;18032.71;9016.36;3.0;2;1;New Client;Bronze;35-44;Female;2
+661;5;15872.01;3174.4;2.8;5;1;VIP;Bronze;45-54;Female;7
+662;3;20831.55;6943.85;3.0;3;1;Regular;Bronze;45-54;Female;1
+663;8;34805.69;4350.71;3.38;8;1;Regular;Silver;35-44;Female;2
+664;5;18742.6;3748.52;3.4;5;1;New Client;Bronze;45-54;Female;4
+665;6;22232.8;3705.47;3.0;6;1;New Client;Bronze;45-54;Male;5
+666;3;5129.99;1710.0;3.67;3;1;Occasional;Bronze;45-54;Female;1
+667;2;9679.43;4839.72;3.0;2;1;New Client;Silver;25-34;Female;1
+668;2;12136.92;6068.46;3.5;2;1;VIP;Silver;55+;Female;6
+669;3;10015.5;3338.5;3.33;3;1;New Client;Silver;35-44;Male;2
+670;5;7810.78;1562.16;3.2;5;1;Occasional;Silver;25-34;Female;6
+671;5;30217.06;6043.41;4.4;5;1;Occasional;Platinum;35-44;Female;1
+672;6;9665.48;1610.91;3.0;6;1;Regular;Bronze;18-24;Female;5
+673;4;13635.62;3408.9;4.25;4;1;New Client;Silver;25-34;Female;5
+674;2;5922.32;2961.16;3.5;2;1;Occasional;Gold;45-54;Female;1
+675;2;6491.12;3245.56;3.5;2;1;New Client;Silver;18-24;Female;3
+676;2;19375.2;9687.6;4.5;2;1;VIP;Platinum;35-44;Female;1
+677;2;7422.34;3711.17;3.5;2;1;New Client;Bronze;35-44;Female;1
+678;5;8269.15;1653.83;3.2;5;1;VIP;Silver;18-24;Female;10
+679;3;11663.59;3887.86;3.0;3;1;Regular;Bronze;55+;Female;2
+680;4;18361.12;4590.28;3.0;4;1;New Client;Silver;25-34;Female;8
+681;1;463.63;463.63;3.0;0;0;Regular;Bronze;35-44;Male;2
+682;2;1055.4;527.7;4.0;2;1;New Client;Bronze;35-44;Male;6
+683;5;35132.68;7026.54;3.0;5;1;VIP;Silver;25-34;Male;7
+684;5;17544.07;3508.81;3.6;5;1;Occasional;Silver;18-24;Male;6
+685;9;33710.51;3745.61;3.33;9;1;Occasional;Bronze;45-54;Male;5
+686;2;8493.49;4246.74;3.5;2;1;Occasional;Silver;55+;Male;4
+687;7;30135.03;4305.0;3.43;7;1;New Client;Silver;25-34;Female;3
+688;2;17693.09;8846.54;3.0;2;1;VIP;Bronze;45-54;Male;9
+689;3;21513.75;7171.25;3.67;3;1;New Client;Silver;45-54;Female;8
+690;6;38670.12;6445.02;3.83;6;1;Regular;Gold;45-54;Female;10
+691;5;50135.67;10027.13;3.2;5;1;Occasional;Silver;35-44;Male;1
+692;6;19789.26;3298.21;4.0;6;1;VIP;Silver;35-44;Female;7
+693;2;8018.6;4009.3;3.5;2;1;New Client;Bronze;35-44;Female;9
+694;7;27586.41;3940.92;3.14;7;1;Occasional;Silver;45-54;Male;1
+695;2;2400.55;1200.28;4.5;2;1;Occasional;Platinum;45-54;Female;1
+696;3;8267.46;2755.82;3.67;3;1;Regular;Silver;25-34;Female;7
+697;1;5474.31;5474.31;4.0;0;0;New Client;Bronze;35-44;Male;6
+698;4;20332.69;5083.17;2.75;4;1;New Client;Silver;55+;Male;8
+699;2;5734.03;2867.02;4.0;2;1;New Client;Gold;45-54;Female;1
+700;3;24918.35;8306.12;3.33;3;1;Regular;Bronze;55+;Female;8
+701;7;13040.14;1862.88;4.14;7;1;New Client;Platinum;45-54;Female;1
+702;8;30902.04;3862.76;4.12;8;1;Occasional;Platinum;35-44;Male;1
+703;3;19684.02;6561.34;3.0;3;1;New Client;Bronze;35-44;Female;1
+704;4;19083.56;4770.89;4.0;4;1;Regular;Platinum;45-54;Female;8
+705;6;23518.36;3919.73;3.5;6;1;VIP;Bronze;25-34;Female;6
+706;2;8449.59;4224.8;3.5;2;1;Occasional;Gold;35-44;Female;5
+707;2;28781.05;14390.52;3.5;2;1;Occasional;Silver;45-54;Male;3
+708;6;29677.45;4946.24;3.17;6;1;New Client;Silver;25-34;Female;8
+709;5;19334.67;3866.93;3.6;5;1;New Client;Silver;45-54;Male;3
+710;3;3522.77;1174.26;3.0;3;1;New Client;Gold;35-44;Female;8
+711;5;32386.93;6477.39;3.0;5;1;Regular;Bronze;55+;Male;4
+712;8;42059.52;5257.44;3.62;8;1;Occasional;Silver;18-24;Male;3
+713;3;5152.73;1717.58;3.33;3;1;VIP;Bronze;25-34;Female;4
+714;2;13863.21;6931.6;2.5;2;1;Occasional;Bronze;35-44;Female;2
+715;5;25031.5;5006.3;3.0;5;1;Regular;Bronze;25-34;Male;7
+716;4;20824.13;5206.03;3.0;4;1;Occasional;Silver;45-54;Male;5
+717;3;9444.47;3148.16;3.0;3;1;Occasional;Bronze;45-54;Female;1
+718;2;6930.3;3465.15;2.5;2;1;New Client;Bronze;25-34;Male;9
+719;3;9248.53;3082.84;3.33;3;1;Occasional;Bronze;35-44;Male;3
+720;4;28203.59;7050.9;2.75;4;1;Occasional;Bronze;35-44;Male;5
+721;6;22415.13;3735.86;3.33;6;1;Regular;Silver;35-44;Male;9
+722;4;12856.17;3214.04;3.75;4;1;VIP;Platinum;55+;Female;6
+723;6;51353.36;8558.89;3.33;6;1;Occasional;Bronze;45-54;Female;1
+724;4;14051.85;3512.96;5.0;4;1;New Client;Platinum;45-54;Female;9
+725;3;15728.75;5242.92;4.0;3;1;Occasional;Gold;45-54;Male;6
+726;4;26302.72;6575.68;3.75;4;1;Occasional;Silver;35-44;Male;3
+727;3;2651.74;883.91;3.0;3;1;New Client;Silver;55+;Male;1
+728;4;39221.64;9805.41;4.0;4;1;Regular;Gold;45-54;Female;8
+729;2;3994.58;1997.29;3.5;2;1;VIP;Bronze;45-54;Female;6
+730;4;14512.48;3628.12;3.25;4;1;VIP;Silver;55+;Male;5
+731;4;17282.71;4320.68;3.25;4;1;New Client;Silver;25-34;Female;9
+732;2;9564.38;4782.19;4.0;2;1;Regular;Silver;45-54;Female;8
+733;9;30623.33;3402.59;3.44;9;1;Regular;Gold;25-34;Male;1
+734;2;2251.43;1125.71;3.0;2;1;Occasional;Bronze;35-44;Female;2
+735;2;2017.75;1008.88;4.0;2;1;Occasional;Silver;35-44;Female;1
+736;3;11398.03;3799.34;3.33;3;1;Regular;Silver;55+;Female;7
+737;2;10290.73;5145.36;3.0;2;1;Occasional;Bronze;45-54;Female;1
+738;2;6817.92;3408.96;3.0;2;1;Occasional;Bronze;45-54;Male;6
+739;3;29236.76;9745.59;3.33;3;1;Occasional;Silver;45-54;Female;7
+740;4;17804.17;4451.04;3.75;4;1;Occasional;Gold;35-44;Female;8
+741;6;33459.96;5576.66;3.83;6;1;New Client;Silver;55+;Female;3
+742;6;22670.96;3778.49;4.17;6;1;VIP;Gold;35-44;Male;8
+743;4;10454.79;2613.7;2.75;4;1;Regular;Silver;35-44;Female;1
+744;9;44003.2;4889.24;3.33;9;1;Regular;Bronze;25-34;Female;8
+745;7;18152.95;2593.28;3.0;7;1;New Client;Bronze;45-54;Female;1
+746;5;41792.81;8358.56;3.4;5;1;Regular;Bronze;45-54;Female;3
+747;4;8385.68;2096.42;3.5;4;1;New Client;Silver;35-44;Female;8
+748;2;5911.59;2955.8;3.0;2;1;New Client;Bronze;18-24;Male;1
+749;1;9186.74;9186.74;4.0;0;0;Occasional;Gold;45-54;Male;1
+750;5;18799.09;3759.82;3.4;5;1;Occasional;Gold;18-24;Female;6
+751;4;8427.1;2106.78;3.25;4;1;Occasional;Bronze;45-54;Female;6
+752;3;10462.59;3487.53;2.33;3;1;New Client;Bronze;55+;Male;6
+753;4;16328.26;4082.06;2.75;4;1;Occasional;Bronze;35-44;Female;6
+754;10;48937.85;4893.78;3.4;10;1;New Client;Silver;25-34;Male;5
+755;2;5847.44;2923.72;3.5;2;1;VIP;Bronze;45-54;Female;2
+756;3;16493.98;5497.99;3.0;3;1;Occasional;Bronze;45-54;Male;3
+757;6;23498.13;3916.36;4.17;6;1;Regular;Platinum;35-44;Male;1
+758;7;21264.61;3037.8;3.71;7;1;Occasional;Gold;55+;Male;9
+759;3;25045.13;8348.38;3.67;3;1;New Client;Bronze;18-24;Male;6
+760;5;14561.3;2912.26;3.8;5;1;VIP;Silver;35-44;Female;4
+761;3;26056.05;8685.35;3.33;3;1;New Client;Bronze;45-54;Male;4
+762;5;34786.2;6957.24;3.8;5;1;Occasional;Gold;55+;Female;10
+763;3;29809.42;9936.47;3.67;3;1;Regular;Silver;25-34;Female;1
+764;5;9419.95;1883.99;3.2;5;1;New Client;Bronze;45-54;Male;6
+765;6;23546.09;3924.35;3.83;6;1;Regular;Gold;35-44;Male;5
+766;2;899.14;449.57;3.5;2;1;Occasional;Silver;35-44;Male;6
+767;6;32157.4;5359.57;2.5;6;1;New Client;Bronze;25-34;Female;1
+768;3;16355.0;5451.67;2.67;3;1;New Client;Bronze;55+;Male;8
+769;3;13610.55;4536.85;3.33;3;1;New Client;Silver;25-34;Male;9
+770;4;9999.87;2499.97;3.5;4;1;VIP;Bronze;35-44;Female;6
+771;5;38069.42;7613.88;3.6;5;1;Regular;Bronze;25-34;Female;6
+772;2;4109.85;2054.93;2.5;2;1;New Client;Silver;55+;Female;9
+773;5;9635.68;1927.14;3.6;5;1;New Client;Bronze;45-54;Female;6
+774;2;9051.04;4525.52;4.0;2;1;Regular;Gold;45-54;Male;1
+775;2;10450.42;5225.21;3.0;2;1;Occasional;Bronze;25-34;Male;6
+776;1;4355.75;4355.75;3.0;0;0;Occasional;Bronze;45-54;Male;6
+777;3;13675.02;4558.34;4.33;3;1;Occasional;Silver;35-44;Male;4
+778;5;16104.44;3220.89;3.8;5;1;New Client;Gold;45-54;Female;7
+779;2;8265.99;4133.0;4.0;2;1;Regular;Gold;55+;Male;9
+780;2;15915.42;7957.71;3.5;2;1;VIP;Silver;18-24;Female;9
+781;5;25551.86;5110.37;2.6;5;1;New Client;Bronze;45-54;Male;4
+782;3;13304.86;4434.95;4.0;3;1;Occasional;Gold;18-24;Female;1
+783;8;69467.05;8683.38;3.38;8;1;Occasional;Silver;35-44;Male;10
+784;3;16432.68;5477.56;3.0;3;1;Occasional;Bronze;25-34;Female;8
+785;2;8691.29;4345.65;4.0;2;1;New Client;Gold;35-44;Female;1
+786;12;57300.66;4775.06;3.33;12;1;Regular;Bronze;35-44;Male;9
+787;2;5004.35;2502.18;3.5;2;1;Occasional;Platinum;45-54;Female;8
+788;4;38733.45;9683.36;4.0;4;1;Occasional;Gold;35-44;Male;5
+789;4;30066.34;7516.58;3.25;4;1;Occasional;Silver;45-54;Female;6
+790;5;13248.64;2649.73;4.6;5;1;New Client;Platinum;35-44;Male;3
+791;2;765.38;382.69;4.0;2;1;New Client;Gold;25-34;Female;1
+792;8;40368.33;5046.04;3.12;8;1;Regular;Bronze;45-54;Female;3
+793;2;9339.45;4669.73;4.0;2;1;New Client;Silver;25-34;Female;8
+794;4;25313.69;6328.42;2.75;4;1;Regular;Bronze;35-44;Female;1
+795;3;27244.51;9081.5;2.67;3;1;Occasional;Silver;45-54;Female;3
+796;6;55489.35;9248.22;4.0;6;1;Occasional;Gold;35-44;Female;3
+797;4;17122.94;4280.73;3.75;4;1;Occasional;Silver;18-24;Female;5
+798;6;30593.87;5098.98;3.83;6;1;Occasional;Bronze;35-44;Female;9
+799;1;2765.29;2765.29;4.0;0;0;New Client;Silver;55+;Male;3
+800;3;18042.65;6014.22;4.33;3;1;Occasional;Gold;45-54;Male;3
+801;5;26678.28;5335.66;3.2;5;1;Regular;Bronze;45-54;Female;7
+802;4;17338.1;4334.52;3.25;4;1;Regular;Silver;45-54;Male;4
+803;6;23123.04;3853.84;3.5;6;1;New Client;Bronze;25-34;Male;1
+804;10;21881.74;2188.17;3.5;10;1;Occasional;Silver;35-44;Female;4
+805;3;6273.38;2091.13;3.67;3;1;New Client;Bronze;45-54;Male;1
+806;8;20253.3;2531.66;3.75;8;1;New Client;Silver;25-34;Female;1
+807;5;18085.88;3617.18;3.0;5;1;New Client;Bronze;25-34;Female;5
+808;2;17774.86;8887.43;3.5;2;1;VIP;Bronze;25-34;Female;4
+809;4;7373.08;1843.27;5.0;4;1;New Client;Platinum;35-44;Male;9
+810;4;17209.91;4302.48;2.5;4;1;New Client;Bronze;55+;Male;3
+811;5;11498.47;2299.69;3.0;5;1;New Client;Silver;25-34;Female;6
+812;2;5234.09;2617.04;3.5;2;1;New Client;Bronze;35-44;Female;6
+813;3;14550.87;4850.29;2.67;3;1;Regular;Silver;25-34;Male;1
+814;8;31350.31;3918.79;3.0;8;1;New Client;Silver;55+;Female;6
+815;7;36093.61;5156.23;3.0;7;1;New Client;Bronze;25-34;Female;1
+816;5;32626.88;6525.38;2.8;5;1;Regular;Bronze;35-44;Male;10
+817;1;1918.75;1918.75;2.0;0;0;Occasional;Bronze;45-54;Male;1
+818;3;18074.2;6024.73;3.67;3;1;Regular;Silver;45-54;Male;4
+819;5;20008.73;4001.75;3.4;5;1;Occasional;Gold;35-44;Male;1
+820;3;16265.37;5421.79;3.67;3;1;New Client;Silver;35-44;Male;10
+821;4;40738.16;10184.54;3.0;4;1;Regular;Silver;35-44;Female;5
+822;4;8786.89;2196.72;3.25;4;1;New Client;Bronze;25-34;Female;6
+823;6;19673.4;3278.9;3.33;6;1;Occasional;Bronze;25-34;Female;1
+824;4;12736.1;3184.02;3.25;4;1;Occasional;Bronze;35-44;Male;7
+825;4;14550.38;3637.6;3.5;4;1;New Client;Bronze;25-34;Male;1
+826;4;18361.8;4590.45;2.75;4;1;Regular;Bronze;25-34;Female;9
+827;5;19798.95;3959.79;3.4;5;1;Regular;Silver;45-54;Male;1
+828;7;24971.9;3567.41;3.43;7;1;VIP;Silver;55+;Female;1
+829;2;3433.15;1716.58;4.0;2;1;Regular;Platinum;35-44;Female;1
+830;6;16652.07;2775.34;2.67;6;1;Occasional;Bronze;25-34;Female;5
+831;4;32937.93;8234.48;3.75;4;1;New Client;Silver;25-34;Female;6
+832;2;8293.61;4146.8;3.0;2;1;New Client;Gold;55+;Male;1
+833;4;44358.75;11089.69;3.25;4;1;Occasional;Silver;25-34;Female;7
+834;3;11098.89;3699.63;2.67;3;1;Occasional;Bronze;25-34;Male;4
+835;6;9708.77;1618.13;3.0;6;1;VIP;Bronze;35-44;Female;5
+836;3;22977.09;7659.03;2.67;3;1;Occasional;Bronze;45-54;Female;4
+837;5;29530.65;5906.13;3.0;5;1;Occasional;Bronze;45-54;Male;4
+838;4;43455.45;10863.86;3.25;4;1;Occasional;Gold;25-34;Female;6
+839;6;24250.82;4041.8;3.17;6;1;Regular;Bronze;18-24;Female;1
+840;4;33451.26;8362.81;3.5;4;1;Regular;Bronze;55+;Female;1
+841;3;27419.24;9139.75;4.33;3;1;Regular;Gold;25-34;Male;8
+842;7;31399.18;4485.6;4.0;7;1;Occasional;Gold;45-54;Female;10
+843;3;13122.25;4374.08;3.0;3;1;Regular;Silver;45-54;Female;3
+844;2;11420.82;5710.41;2.5;2;1;New Client;Silver;45-54;Female;2
+845;4;11321.27;2830.32;4.25;4;1;Regular;Silver;35-44;Female;6
+846;7;21320.21;3045.74;3.29;7;1;Occasional;Bronze;25-34;Male;4
+847;5;15900.3;3180.06;3.2;5;1;Occasional;Silver;35-44;Female;1
+848;5;23802.68;4760.54;3.4;5;1;Occasional;Silver;55+;Female;1
+849;7;45036.54;6433.79;4.0;7;1;Regular;Platinum;55+;Female;6
+850;6;30938.39;5156.4;3.33;6;1;New Client;Bronze;25-34;Female;6
+851;3;3123.02;1041.01;4.0;3;1;Regular;Silver;25-34;Male;1
+852;3;27895.58;9298.53;3.67;3;1;Occasional;Bronze;55+;Female;1
+853;2;15229.9;7614.95;3.5;2;1;Occasional;Silver;45-54;Male;1
+854;3;10160.77;3386.92;3.67;3;1;New Client;Bronze;55+;Female;6
+855;5;28427.78;5685.56;3.2;5;1;Occasional;Bronze;25-34;Female;1
+856;7;24535.07;3505.01;3.86;7;1;Occasional;Gold;35-44;Male;1
+857;4;13784.73;3446.18;3.75;4;1;Occasional;Silver;45-54;Female;8
+858;4;13590.85;3397.71;4.0;4;1;Regular;Silver;45-54;Male;1
+859;7;25147.7;3592.53;3.29;7;1;Occasional;Bronze;35-44;Male;6
+861;2;12218.1;6109.05;2.5;2;1;Occasional;Silver;35-44;Female;1
+862;6;42747.39;7124.56;3.67;6;1;Regular;Gold;25-34;Male;1
+863;7;21792.92;3113.27;4.29;7;1;New Client;Platinum;35-44;Female;6
+864;4;26743.86;6685.96;3.25;4;1;Occasional;Silver;55+;Female;8
+865;4;15414.44;3853.61;3.5;4;1;Occasional;Silver;35-44;Female;8
+866;1;8421.01;8421.01;4.0;0;0;Occasional;Gold;45-54;Female;3
+868;8;32513.77;4064.22;4.25;8;1;New Client;Silver;45-54;Female;1
+869;4;31252.0;7813.0;2.5;4;1;New Client;Bronze;55+;Female;2
+870;6;17754.21;2959.04;3.17;6;1;Regular;Gold;25-34;Male;9
+871;4;11087.68;2771.92;3.25;4;1;New Client;Silver;18-24;Female;1
+872;2;8750.92;4375.46;4.5;2;1;Regular;Gold;35-44;Female;1
+874;1;916.98;916.98;3.0;0;0;Regular;Bronze;45-54;Female;1
+875;3;18594.47;6198.16;4.0;3;1;New Client;Gold;55+;Male;1
+876;5;10654.76;2130.95;3.6;5;1;New Client;Gold;35-44;Male;6
+877;3;44155.32;14718.44;3.33;3;1;Occasional;Bronze;25-34;Female;4
+878;6;43854.72;7309.12;3.0;6;1;VIP;Bronze;35-44;Female;9
+879;3;3761.15;1253.72;2.33;3;1;Occasional;Bronze;45-54;Female;8
+880;1;4189.75;4189.75;4.0;0;0;Occasional;Silver;18-24;Female;3
+881;2;2912.57;1456.28;2.5;2;1;Regular;Bronze;35-44;Male;2
+882;3;12409.66;4136.55;3.67;3;1;VIP;Silver;45-54;Male;3
+883;2;11121.7;5560.85;3.0;2;1;Regular;Bronze;45-54;Female;6
+884;7;48700.86;6957.27;3.71;7;1;VIP;Gold;25-34;Male;2
+885;6;53760.2;8960.03;3.17;6;1;New Client;Bronze;45-54;Male;6
+886;5;15538.2;3107.64;3.0;5;1;New Client;Bronze;25-34;Male;4
+888;7;25187.41;3598.2;3.29;7;1;Regular;Silver;55+;Female;4
+889;4;27466.99;6866.75;2.75;4;1;New Client;Bronze;45-54;Female;2
+892;4;16542.47;4135.62;3.5;4;1;New Client;Gold;25-34;Female;1
+893;5;15718.13;3143.63;3.4;5;1;Occasional;Gold;25-34;Female;8
+894;2;5452.9;2726.45;3.0;2;1;Occasional;Silver;25-34;Female;5
+895;2;6426.12;3213.06;4.0;2;1;Occasional;Gold;25-34;Female;9
+896;2;10469.47;5234.73;3.0;2;1;Regular;Gold;35-44;Male;8
+897;6;15235.47;2539.25;3.17;6;1;Occasional;Bronze;45-54;Female;4
+898;3;11308.89;3769.63;4.33;3;1;Regular;Platinum;35-44;Female;1
+899;2;15241.13;7620.56;4.0;2;1;Occasional;Gold;45-54;Female;2
+900;4;7608.94;1902.24;3.25;4;1;Occasional;Bronze;25-34;Female;5
+901;6;35374.09;5895.68;2.67;6;1;Regular;Bronze;55+;Female;6
+902;1;426.15;426.15;3.0;0;0;New Client;Bronze;45-54;Female;2
+903;5;19294.85;3858.97;3.4;5;1;New Client;Bronze;45-54;Female;1
+904;6;34955.14;5825.86;3.83;6;1;New Client;Gold;45-54;Female;8
+905;2;8499.17;4249.58;3.5;2;1;New Client;Silver;55+;Female;10
+906;2;4523.9;2261.95;3.5;2;1;Occasional;Gold;35-44;Female;5
+907;4;9963.02;2490.76;4.5;4;1;Regular;Gold;25-34;Male;1
+908;7;59964.65;8566.38;3.14;7;1;Regular;Silver;45-54;Male;2
+909;3;4746.67;1582.22;3.67;3;1;Regular;Silver;45-54;Female;1
+910;4;24497.33;6124.33;3.0;4;1;Occasional;Bronze;45-54;Female;9
+911;1;2651.54;2651.54;3.0;0;0;Occasional;Bronze;35-44;Male;1
+912;1;4966.16;4966.16;4.0;0;0;Occasional;Silver;25-34;Female;6
+913;1;7902.69;7902.69;3.0;0;0;New Client;Bronze;35-44;Male;2
+914;5;12981.93;2596.39;3.2;5;1;New Client;Bronze;55+;Male;6
+915;3;22045.23;7348.41;4.0;3;1;Occasional;Gold;35-44;Female;6
+916;4;16250.56;4062.64;3.75;4;1;VIP;Silver;35-44;Female;8
+917;4;7696.18;1924.04;2.75;4;1;New Client;Bronze;25-34;Male;1
+918;5;12354.51;2470.9;3.4;5;1;New Client;Silver;35-44;Female;1
+919;2;9117.2;4558.6;3.5;2;1;Regular;Gold;55+;Female;1
+920;2;4651.36;2325.68;2.5;2;1;New Client;Bronze;45-54;Female;9
+921;4;33876.75;8469.19;3.25;4;1;Regular;Bronze;45-54;Female;8
+922;6;12886.45;2147.74;3.83;6;1;Regular;Platinum;35-44;Male;6
+923;1;8002.88;8002.88;3.0;0;0;VIP;Bronze;45-54;Male;6
+924;9;64845.5;7205.06;2.78;9;1;Occasional;Bronze;25-34;Male;6
+925;3;11619.74;3873.25;3.33;3;1;Regular;Silver;45-54;Female;1
+926;2;2733.17;1366.58;4.0;2;1;Occasional;Gold;35-44;Female;9
+927;4;27347.38;6836.84;3.0;4;1;Regular;Bronze;35-44;Female;4
+928;3;30841.53;10280.51;3.33;3;1;Occasional;Bronze;45-54;Female;3
+929;3;7609.42;2536.47;2.67;3;1;New Client;Bronze;55+;Female;5
+930;7;49096.38;7013.77;4.29;7;1;Occasional;Platinum;25-34;Male;1
+931;6;29675.13;4945.86;2.83;6;1;Occasional;Bronze;45-54;Male;1
+932;7;23448.71;3349.82;3.57;7;1;Regular;Silver;25-34;Female;7
+933;4;15658.47;3914.62;4.5;4;1;Regular;Platinum;35-44;Male;1
+934;3;13059.43;4353.14;2.67;3;1;Regular;Bronze;18-24;Female;6
+935;2;7576.43;3788.22;4.0;2;1;New Client;Platinum;35-44;Female;1
+936;5;6982.69;1396.54;4.4;5;1;Regular;Platinum;35-44;Male;3
+937;2;1874.79;937.4;4.0;2;1;Occasional;Gold;18-24;Female;2
+938;4;17650.34;4412.58;3.25;4;1;VIP;Bronze;35-44;Male;3
+939;2;15376.49;7688.25;2.5;2;1;VIP;Silver;55+;Male;6
+940;3;1794.54;598.18;3.33;3;1;New Client;Gold;25-34;Female;2
+941;1;6217.13;6217.13;4.0;0;0;Regular;Platinum;45-54;Male;6
+942;7;33339.57;4762.8;3.0;7;1;New Client;Bronze;35-44;Female;5
+943;2;4439.36;2219.68;4.0;2;1;Occasional;Gold;45-54;Female;6
+944;1;3517.41;3517.41;3.0;0;0;Occasional;Bronze;25-34;Female;9
+945;5;25651.82;5130.36;3.0;5;1;New Client;Bronze;25-34;Female;7
+946;3;10285.94;3428.65;2.67;3;1;Regular;Silver;25-34;Male;1
+947;4;21175.72;5293.93;4.25;4;1;New Client;Gold;25-34;Female;1
+948;8;28718.19;3589.77;3.0;8;1;New Client;Silver;25-34;Male;2
+949;8;38424.63;4803.08;2.88;8;1;Occasional;Silver;45-54;Female;6
+950;9;38716.79;4301.87;4.67;9;1;Regular;Platinum;55+;Female;1
+951;3;9365.04;3121.68;3.0;3;1;VIP;Silver;45-54;Male;5
+952;4;13624.57;3406.14;2.75;4;1;Regular;Silver;45-54;Female;6
+953;4;15184.77;3796.19;3.5;4;1;Regular;Bronze;25-34;Female;3
+954;6;27044.57;4507.43;3.83;6;1;Occasional;Silver;25-34;Female;7
+955;4;10065.16;2516.29;3.75;4;1;New Client;Silver;35-44;Female;1
+956;6;23238.88;3873.15;3.83;6;1;New Client;Platinum;25-34;Female;1
+957;7;17846.64;2549.52;3.57;7;1;Occasional;Silver;35-44;Male;6
+958;3;3943.45;1314.48;4.33;3;1;Regular;Gold;35-44;Female;5
+959;7;24358.04;3479.72;2.71;7;1;Occasional;Bronze;35-44;Female;6
+960;3;18894.04;6298.01;2.67;3;1;Regular;Bronze;35-44;Male;4
+961;2;8622.14;4311.07;2.5;2;1;Occasional;Silver;45-54;Female;1
+962;4;16002.06;4000.52;2.75;4;1;New Client;Bronze;45-54;Male;8
+963;5;13305.72;2661.14;3.4;5;1;New Client;Bronze;35-44;Female;8
+964;3;11889.38;3963.13;2.67;3;1;Regular;Silver;55+;Female;6
+965;5;9066.21;1813.24;3.4;5;1;Regular;Bronze;55+;Male;2
+966;6;22465.36;3744.23;2.83;6;1;VIP;Bronze;35-44;Male;6
+967;1;9230.65;9230.65;3.0;0;0;New Client;Silver;35-44;Male;3
+968;4;42971.89;10742.97;3.0;4;1;VIP;Silver;35-44;Female;1
+969;7;44152.81;6307.54;4.0;7;1;New Client;Platinum;55+;Female;9
+970;6;8497.86;1416.31;3.67;6;1;New Client;Silver;55+;Female;1
+971;3;10019.83;3339.94;3.33;3;1;VIP;Silver;25-34;Female;10
+972;1;7289.21;7289.21;5.0;0;0;New Client;Platinum;35-44;Male;4
+973;2;809.98;404.99;3.5;2;1;Regular;Gold;35-44;Female;1
+974;2;16017.77;8008.88;3.0;2;1;New Client;Bronze;35-44;Male;5
+975;2;19232.76;9616.38;3.5;2;1;Occasional;Bronze;25-34;Male;8
+976;7;51111.69;7301.67;3.71;7;1;VIP;Silver;45-54;Female;7
+977;6;28701.69;4783.62;3.17;6;1;Occasional;Silver;45-54;Female;8
+978;2;3191.84;1595.92;4.5;2;1;Regular;Gold;45-54;Male;6
+979;2;30246.01;15123.0;3.5;2;1;New Client;Gold;45-54;Male;6
+980;2;2957.85;1478.92;4.5;2;1;Regular;Silver;45-54;Female;8
+981;2;1360.22;680.11;3.5;2;1;Occasional;Platinum;35-44;Female;1
+982;6;31028.22;5171.37;3.5;6;1;New Client;Silver;45-54;Female;5
+983;6;50773.66;8462.28;3.0;6;1;Occasional;Bronze;25-34;Male;1
+984;6;10918.01;1819.67;4.17;6;1;New Client;Gold;45-54;Female;10
+985;6;26924.61;4487.44;2.83;6;1;VIP;Bronze;25-34;Male;10
+986;3;4113.52;1371.17;3.33;3;1;Occasional;Gold;45-54;Female;1
+987;5;24354.96;4870.99;4.6;5;1;New Client;Platinum;25-34;Female;6
+988;11;37837.16;3439.74;3.36;11;1;Occasional;Silver;25-34;Female;9
+989;3;15528.9;5176.3;4.0;3;1;Occasional;Silver;25-34;Female;1
+990;1;1564.92;1564.92;3.0;0;0;Regular;Silver;18-24;Female;6
+991;6;50268.18;8378.03;3.17;6;1;VIP;Bronze;45-54;Female;9
+992;7;40016.22;5716.6;2.43;7;1;Occasional;Bronze;45-54;Female;1
+993;7;21497.34;3071.05;3.43;7;1;Regular;Silver;35-44;Female;6
+994;3;23261.94;7753.98;4.33;3;1;Occasional;Gold;25-34;Female;2
+995;3;3273.69;1091.23;4.33;3;1;New Client;Silver;25-34;Male;9
+996;6;12212.28;2035.38;3.33;6;1;Regular;Bronze;18-24;Female;10
+997;2;5821.46;2910.73;4.0;2;1;Occasional;Silver;25-34;Female;10
+998;4;30430.04;7607.51;3.5;4;1;Regular;Gold;55+;Female;5
+999;4;10049.04;2512.26;3.75;4;1;VIP;Silver;25-34;Male;8
+1000;4;24001.66;6000.42;3.25;4;1;Occasional;Silver;35-44;Female;8
+1001;2;1355.92;677.96;4.5;2;1;VIP;Gold;25-34;Male;2
+1002;3;7541.53;2513.84;3.67;3;1;Regular;Silver;25-34;Male;8
+1003;6;20671.13;3445.19;3.83;6;1;Occasional;Silver;35-44;Male;1
+1004;8;38156.22;4769.53;3.5;8;1;Regular;Gold;35-44;Female;6
+1005;6;21831.06;3638.51;3.0;6;1;Occasional;Bronze;25-34;Male;1
+1006;6;17905.29;2984.22;4.67;6;1;VIP;Platinum;18-24;Female;1
+1007;3;16932.57;5644.19;3.33;3;1;Regular;Bronze;35-44;Male;1
+1008;4;17347.33;4336.83;3.0;4;1;New Client;Bronze;25-34;Male;6
+1009;4;8233.31;2058.33;4.0;4;1;Occasional;Gold;25-34;Female;3
+1010;4;14024.69;3506.17;3.5;4;1;Regular;Bronze;55+;Male;6
+1011;4;6939.81;1734.95;4.0;4;1;New Client;Gold;45-54;Female;1
+1012;2;2066.17;1033.08;4.0;2;1;New Client;Gold;35-44;Male;2
+1013;4;13647.72;3411.93;3.75;4;1;Occasional;Gold;35-44;Female;5
+1014;3;24548.64;8182.88;3.67;3;1;Occasional;Platinum;35-44;Female;8
+1015;3;13126.93;4375.64;4.0;3;1;Occasional;Bronze;35-44;Female;2
+1016;4;34904.43;8726.11;4.5;4;1;New Client;Gold;45-54;Male;6
+1017;4;12021.6;3005.4;3.25;4;1;New Client;Bronze;45-54;Female;9
+1018;6;35675.57;5945.93;3.33;6;1;Regular;Silver;25-34;Female;6
+1019;2;3163.15;1581.58;3.5;2;1;Occasional;Gold;35-44;Female;1
+1020;1;4656.03;4656.03;3.0;0;0;New Client;Bronze;35-44;Male;1
+1021;9;26588.96;2954.33;3.89;9;1;Occasional;Silver;55+;Female;8
+1022;4;22046.83;5511.71;3.75;4;1;Occasional;Silver;45-54;Female;1
+1023;2;30654.22;15327.11;4.0;2;1;New Client;Silver;35-44;Female;8
+1024;4;8375.22;2093.8;3.75;4;1;New Client;Platinum;25-34;Female;5
+1025;5;18338.07;3667.61;3.2;5;1;New Client;Bronze;35-44;Female;9
+1026;5;51122.31;10224.46;3.8;5;1;Regular;Silver;25-34;Female;8
+1027;6;48561.23;8093.54;4.5;6;1;Regular;Gold;35-44;Male;10
+1028;3;12041.72;4013.91;3.33;3;1;Regular;Silver;25-34;Female;3
+1029;3;23003.05;7667.68;3.33;3;1;Regular;Bronze;45-54;Female;7
+1030;5;36009.51;7201.9;3.6;5;1;Regular;Silver;25-34;Female;4
+1032;5;29813.23;5962.65;3.0;5;1;Regular;Bronze;55+;Male;6
+1033;1;5128.44;5128.44;4.0;0;0;New Client;Gold;25-34;Male;8
+1034;4;20628.72;5157.18;3.5;4;1;Regular;Silver;35-44;Female;10
+1035;3;4765.55;1588.52;4.0;3;1;Regular;Platinum;35-44;Female;7
+1036;4;34619.54;8654.88;4.25;4;1;Occasional;Gold;18-24;Female;4
+1037;5;14576.8;2915.36;3.4;5;1;Occasional;Silver;45-54;Female;4
+1038;8;41812.94;5226.62;3.25;8;1;New Client;Bronze;25-34;Female;7
+1039;4;16204.84;4051.21;3.75;4;1;Regular;Silver;35-44;Male;1
+1040;5;21516.73;4303.35;3.4;5;1;Regular;Bronze;35-44;Male;1
+1041;5;13566.64;2713.33;3.8;5;1;Regular;Gold;45-54;Male;3
+1042;8;51553.3;6444.16;2.88;8;1;Occasional;Bronze;45-54;Female;2
+1043;4;7448.08;1862.02;3.0;4;1;Regular;Bronze;25-34;Male;2
+1044;3;24084.82;8028.27;3.0;3;1;Occasional;Silver;18-24;Female;1
+1045;2;1917.16;958.58;3.0;2;1;VIP;Bronze;45-54;Female;1
+1046;3;27731.78;9243.93;3.0;3;1;Occasional;Bronze;35-44;Male;1
+1047;4;17002.78;4250.7;4.0;4;1;Occasional;Silver;45-54;Female;10
+1048;5;48480.94;9696.19;3.0;5;1;Occasional;Bronze;45-54;Female;4
+1049;4;33702.11;8425.53;3.0;4;1;Regular;Bronze;45-54;Female;3
+1050;3;3992.92;1330.97;2.67;3;1;VIP;Bronze;35-44;Male;6
+1051;4;13298.86;3324.72;4.5;4;1;New Client;Gold;35-44;Male;1
+1052;3;51915.99;17305.33;3.67;3;1;New Client;Silver;45-54;Female;10
+1053;4;20938.43;5234.61;3.25;4;1;VIP;Silver;35-44;Male;8
+1054;5;32394.38;6478.88;3.4;5;1;Occasional;Silver;25-34;Female;1
+1055;6;22279.54;3713.26;3.33;6;1;Regular;Bronze;45-54;Female;4
+1056;7;29343.72;4191.96;4.29;7;1;Occasional;Platinum;55+;Male;8
+1057;4;8945.07;2236.27;3.75;4;1;New Client;Bronze;35-44;Male;10
+1058;8;29334.5;3666.81;3.62;8;1;Regular;Silver;25-34;Male;4
+1059;6;35408.83;5901.47;4.5;6;1;Regular;Gold;35-44;Female;6
+1060;4;5764.86;1441.22;4.0;4;1;Occasional;Gold;45-54;Male;1
+1061;2;21707.86;10853.93;3.5;2;1;Occasional;Bronze;55+;Male;10
+1062;3;10865.48;3621.83;3.33;3;1;Regular;Bronze;25-34;Male;1
+1063;4;14662.62;3665.66;3.75;4;1;New Client;Gold;25-34;Female;10
+1064;4;16177.81;4044.45;2.75;4;1;VIP;Bronze;55+;Male;6
+1065;2;12163.23;6081.62;4.0;2;1;New Client;Gold;35-44;Female;6
+1066;8;41716.32;5214.54;3.88;8;1;Occasional;Gold;35-44;Female;5
+1067;4;3744.86;936.22;3.75;4;1;VIP;Gold;55+;Female;1
+1068;5;17731.17;3546.23;3.2;5;1;Regular;Bronze;25-34;Female;1
+1069;4;37705.32;9426.33;3.25;4;1;Occasional;Gold;45-54;Female;1
+1070;6;17680.11;2946.68;4.0;6;1;Regular;Silver;25-34;Male;1
+1071;8;27361.14;3420.14;3.88;8;1;Occasional;Gold;35-44;Female;7
+1072;6;30333.82;5055.64;2.83;6;1;New Client;Bronze;45-54;Male;3
+1073;2;5054.68;2527.34;3.0;2;1;VIP;Bronze;35-44;Female;1
+1074;6;28583.82;4763.97;3.67;6;1;Regular;Bronze;55+;Female;10
+1075;5;25077.92;5015.58;3.4;5;1;Regular;Bronze;35-44;Female;9
+1076;5;57636.89;11527.38;3.6;5;1;Occasional;Silver;35-44;Female;9
+1077;3;18446.82;6148.94;3.67;3;1;New Client;Gold;25-34;Female;10
+1078;4;13062.11;3265.53;3.5;4;1;New Client;Silver;35-44;Female;1
+1079;4;13280.55;3320.14;3.25;4;1;Occasional;Gold;35-44;Female;3
+1080;1;1945.23;1945.23;3.0;0;0;Regular;Bronze;25-34;Female;7
+1081;6;40317.64;6719.61;3.17;6;1;Occasional;Bronze;35-44;Female;6
+1082;5;42100.28;8420.06;3.2;5;1;Regular;Bronze;35-44;Female;1
+1084;6;10412.94;1735.49;3.67;6;1;Occasional;Gold;45-54;Male;1
+1085;7;15850.36;2264.34;3.29;7;1;New Client;Bronze;45-54;Male;1
+1086;4;17347.66;4336.92;3.5;4;1;Occasional;Silver;18-24;Male;5
+1087;5;14741.09;2948.22;3.4;5;1;New Client;Silver;25-34;Female;6
+1089;4;34681.51;8670.38;3.0;4;1;New Client;Bronze;35-44;Male;1
+1090;4;19715.98;4929.0;3.5;4;1;VIP;Bronze;18-24;Male;8
+1091;5;15118.13;3023.63;3.4;5;1;Occasional;Bronze;45-54;Female;2
+1092;4;25625.4;6406.35;3.5;4;1;VIP;Silver;45-54;Male;1
+1093;1;4632.01;4632.01;4.0;0;0;Occasional;Bronze;35-44;Male;9
+1094;3;17755.13;5918.38;4.33;3;1;VIP;Gold;25-34;Female;10
+1095;3;32194.36;10731.45;3.33;3;1;New Client;Silver;45-54;Male;8
+1096;3;28821.91;9607.3;3.0;3;1;Regular;Silver;35-44;Female;8
+1097;2;3001.77;1500.88;3.5;2;1;VIP;Silver;45-54;Female;6
+1098;5;16042.87;3208.57;3.4;5;1;New Client;Bronze;45-54;Female;6
+1099;8;44302.31;5537.79;4.0;8;1;New Client;Silver;45-54;Male;1
+1100;3;19369.06;6456.35;4.0;3;1;Occasional;Platinum;35-44;Female;4
+1101;7;19660.79;2808.68;3.57;7;1;VIP;Gold;25-34;Female;3
+1102;3;13247.93;4415.98;3.67;3;1;Occasional;Gold;45-54;Female;2
+1103;1;1388.04;1388.04;3.0;0;0;Occasional;Gold;45-54;Female;6
+1105;4;14042.96;3510.74;2.5;4;1;New Client;Bronze;25-34;Male;1
+1106;5;39839.25;7967.85;2.8;5;1;Regular;Bronze;25-34;Male;1
+1107;8;37201.75;4650.22;3.5;8;1;New Client;Bronze;55+;Female;6
+1108;5;18373.76;3674.75;2.8;5;1;Regular;Bronze;45-54;Female;1
+1109;2;15641.22;7820.61;4.5;2;1;VIP;Silver;55+;Female;8
+1110;3;22236.23;7412.08;3.33;3;1;New Client;Silver;45-54;Male;5
+1111;1;9232.1;9232.1;3.0;0;0;Regular;Gold;35-44;Female;5
+1112;4;21326.7;5331.68;4.0;4;1;New Client;Gold;45-54;Female;6
+1113;9;40787.89;4531.99;4.22;9;1;Regular;Platinum;55+;Female;8
+1114;2;6049.43;3024.72;3.5;2;1;New Client;Bronze;35-44;Male;3
+1115;2;3840.83;1920.42;2.5;2;1;Regular;Bronze;45-54;Male;6
+1116;3;18720.95;6240.32;3.67;3;1;Occasional;Silver;25-34;Male;6
+1117;6;12187.21;2031.2;2.83;6;1;Occasional;Bronze;35-44;Male;2
+1118;2;22140.21;11070.1;2.5;2;1;Occasional;Bronze;45-54;Female;8
+1119;2;6460.21;3230.1;3.0;2;1;New Client;Bronze;25-34;Female;8
+1120;2;3209.96;1604.98;3.5;2;1;Regular;Bronze;25-34;Female;6
+1121;4;38609.31;9652.33;3.75;4;1;Occasional;Silver;35-44;Female;8
+1122;5;15144.38;3028.88;3.4;5;1;Regular;Silver;25-34;Female;8
+1124;3;4949.8;1649.93;3.67;3;1;Regular;Silver;35-44;Female;8
+1125;1;1721.49;1721.49;3.0;0;0;New Client;Silver;55+;Male;6
+1126;1;7320.5;7320.5;3.0;0;0;Occasional;Bronze;35-44;Male;6
+1127;3;4277.13;1425.71;3.33;3;1;New Client;Bronze;25-34;Male;6
+1128;3;8258.83;2752.94;2.33;3;1;Regular;Bronze;25-34;Male;7
+1129;4;5668.47;1417.12;3.25;4;1;New Client;Gold;45-54;Female;1
+1130;2;13466.93;6733.46;3.0;2;1;VIP;Gold;35-44;Male;9
+1131;4;14387.25;3596.81;3.0;4;1;VIP;Silver;45-54;Female;8
+1132;1;2545.6;2545.6;4.0;0;0;New Client;Bronze;45-54;Male;1
+1133;2;6342.97;3171.48;3.5;2;1;Regular;Silver;45-54;Female;8
+1134;4;20473.24;5118.31;3.25;4;1;New Client;Silver;25-34;Male;1
+1135;5;29620.61;5924.12;3.8;5;1;Occasional;Silver;45-54;Female;3
+1136;10;50729.53;5072.95;3.1;10;1;Regular;Silver;25-34;Female;7
+1138;2;16315.35;8157.68;3.5;2;1;Regular;Silver;45-54;Female;8
+1139;5;26073.51;5214.7;4.6;5;1;New Client;Gold;35-44;Male;8
+1140;4;10445.52;2611.38;2.75;4;1;Occasional;Bronze;25-34;Male;5
+1141;5;27649.89;5529.98;4.0;5;1;New Client;Gold;25-34;Male;1
+1142;3;3437.59;1145.86;3.0;3;1;Regular;Bronze;45-54;Male;2
+1143;4;38435.26;9608.81;3.25;4;1;Occasional;Bronze;25-34;Male;6
+1144;6;37704.54;6284.09;4.17;6;1;Regular;Platinum;35-44;Female;10
+1145;7;17590.05;2512.86;4.71;7;1;New Client;Platinum;25-34;Male;6
+1146;2;7170.73;3585.36;3.0;2;1;Occasional;Bronze;45-54;Male;2
+1147;4;46075.68;11518.92;3.0;4;1;Occasional;Silver;45-54;Male;6
+1148;3;24505.86;8168.62;3.67;3;1;New Client;Bronze;45-54;Female;5
+1149;4;28690.92;7172.73;3.25;4;1;Occasional;Silver;45-54;Male;7
+1150;4;29268.22;7317.06;3.5;4;1;Regular;Gold;25-34;Male;1
+1151;3;6736.97;2245.66;3.67;3;1;VIP;Platinum;25-34;Male;7
+1152;5;13674.85;2734.97;3.4;5;1;Occasional;Silver;45-54;Female;5
+1153;4;11079.13;2769.78;3.0;4;1;Occasional;Bronze;35-44;Female;10
+1154;4;15774.77;3943.69;3.25;4;1;New Client;Silver;35-44;Female;3
+1155;4;11399.24;2849.81;3.5;4;1;Regular;Bronze;18-24;Male;6
+1156;5;14858.96;2971.79;4.0;5;1;New Client;Gold;25-34;Male;9
+1157;5;14136.55;2827.31;3.4;5;1;VIP;Gold;18-24;Female;1
+1158;3;9395.76;3131.92;3.33;3;1;Occasional;Silver;55+;Female;9
+1159;5;18404.24;3680.85;2.4;5;1;Occasional;Bronze;25-34;Female;6
+1160;4;17528.45;4382.11;3.25;4;1;VIP;Bronze;35-44;Female;1
+1161;4;9364.25;2341.06;3.0;4;1;New Client;Bronze;18-24;Male;2
+1162;9;34046.18;3782.91;4.22;9;1;Occasional;Gold;45-54;Male;6
+1163;1;8500.05;8500.05;4.0;0;0;Occasional;Silver;35-44;Female;1
+1164;4;15231.32;3807.83;2.75;4;1;New Client;Bronze;55+;Female;6
+1165;4;21103.69;5275.92;3.25;4;1;Occasional;Silver;55+;Female;3
+1166;8;45151.26;5643.91;4.25;8;1;Regular;Gold;35-44;Male;6
+1167;3;15591.12;5197.04;3.67;3;1;Regular;Bronze;55+;Female;1
+1168;3;4541.61;1513.87;4.0;3;1;New Client;Gold;55+;Female;8
+1169;7;49767.98;7109.71;4.14;7;1;VIP;Gold;45-54;Female;10
+1170;9;28927.27;3214.14;4.22;9;1;New Client;Platinum;45-54;Male;10
+1171;1;1523.12;1523.12;5.0;0;0;New Client;Silver;25-34;Male;7
+1172;2;25460.19;12730.1;3.0;2;1;New Client;Bronze;35-44;Male;1
+1173;6;22043.22;3673.87;3.33;6;1;New Client;Bronze;25-34;Female;7
+1174;4;7692.03;1923.01;3.0;4;1;New Client;Bronze;25-34;Female;1
+1175;3;17896.47;5965.49;3.0;3;1;VIP;Bronze;55+;Female;1
+1176;4;16768.21;4192.05;3.25;4;1;Occasional;Silver;35-44;Male;2
+1177;9;43374.19;4819.35;3.44;9;1;New Client;Silver;45-54;Female;5
+1178;4;11818.85;2954.71;4.0;4;1;New Client;Gold;45-54;Male;7
+1179;5;19190.14;3838.03;3.4;5;1;Regular;Bronze;45-54;Male;6
+1180;6;37376.42;6229.4;2.83;6;1;Regular;Silver;55+;Male;4
+1181;1;1478.18;1478.18;3.0;0;0;New Client;Gold;25-34;Female;2
+1182;7;45033.73;6433.39;3.86;7;1;New Client;Gold;18-24;Female;10
+1183;1;4041.86;4041.86;4.0;0;0;New Client;Gold;35-44;Female;4
+1184;6;8739.41;1456.57;4.17;6;1;New Client;Gold;25-34;Male;4
+1185;10;38922.49;3892.25;4.2;10;1;New Client;Platinum;18-24;Male;1
+1186;2;23272.51;11636.26;3.0;2;1;Occasional;Bronze;35-44;Female;8
+1187;5;27978.06;5595.61;3.0;5;1;New Client;Silver;45-54;Female;6
+1188;3;11211.01;3737.0;3.67;3;1;Occasional;Bronze;35-44;Male;1
+1189;3;12418.46;4139.49;3.33;3;1;New Client;Bronze;35-44;Male;1
+1192;3;23166.15;7722.05;3.0;3;1;Occasional;Bronze;18-24;Female;2
+1193;4;24244.09;6061.02;2.75;4;1;Occasional;Bronze;45-54;Female;10
+1194;5;24029.05;4805.81;3.4;5;1;Occasional;Bronze;45-54;Male;1
+1195;9;77894.85;8654.98;3.89;9;1;Occasional;Gold;45-54;Male;4
+1196;4;12456.88;3114.22;3.25;4;1;Regular;Bronze;18-24;Male;10
+1197;4;4859.15;1214.79;3.75;4;1;Occasional;Gold;45-54;Female;4
+1198;7;16945.0;2420.71;3.29;7;1;Regular;Bronze;45-54;Male;6
+1199;5;13306.02;2661.2;3.8;5;1;VIP;Gold;35-44;Female;3
+1200;6;30933.9;5155.65;4.0;6;1;Occasional;Gold;45-54;Female;2
+1201;2;17853.89;8926.94;2.5;2;1;Occasional;Silver;55+;Female;10
+1202;4;28984.64;7246.16;3.25;4;1;New Client;Silver;35-44;Female;4
+1203;2;1912.99;956.5;2.5;2;1;New Client;Bronze;35-44;Male;9
+1204;3;12867.79;4289.26;4.67;3;1;Occasional;Platinum;55+;Male;1
+1205;3;2379.0;793.0;3.33;3;1;New Client;Gold;45-54;Female;1
+1206;6;30021.81;5003.64;3.83;6;1;Regular;Gold;35-44;Female;1
+1207;3;29458.95;9819.65;3.0;3;1;New Client;Silver;45-54;Female;6
+1208;4;17447.59;4361.9;2.75;4;1;Occasional;Bronze;35-44;Female;3
+1209;5;42676.25;8535.25;4.0;5;1;Regular;Gold;25-34;Male;8
+1210;5;22939.24;4587.85;2.6;5;1;Regular;Bronze;35-44;Male;5
+1211;7;43135.29;6162.18;3.57;7;1;Occasional;Silver;55+;Female;10
+1212;2;8669.17;4334.58;3.5;2;1;Regular;Bronze;55+;Female;1
+1213;4;25798.36;6449.59;4.25;4;1;Occasional;Platinum;35-44;Female;8
+1214;3;7721.03;2573.68;3.0;3;1;Occasional;Bronze;35-44;Male;7
+1215;5;29254.14;5850.83;3.0;5;1;New Client;Bronze;25-34;Female;7
+1216;4;16691.46;4172.86;3.25;4;1;Occasional;Silver;55+;Female;8
+1217;3;13006.58;4335.53;4.0;3;1;Regular;Gold;55+;Male;7
+1218;4;25497.95;6374.49;3.25;4;1;Regular;Silver;45-54;Female;6
+1219;5;18442.34;3688.47;3.2;5;1;Regular;Bronze;45-54;Female;1
+1220;4;14173.81;3543.45;3.25;4;1;Occasional;Bronze;45-54;Male;1
+1221;8;67609.72;8451.22;3.75;8;1;New Client;Gold;35-44;Male;9
+1222;3;25407.49;8469.16;4.33;3;1;New Client;Platinum;18-24;Male;6
+1223;7;69424.05;9917.72;3.86;7;1;Occasional;Gold;35-44;Male;8
+1224;6;17385.72;2897.62;3.33;6;1;Regular;Silver;45-54;Male;5
+1225;4;4352.81;1088.2;3.75;4;1;Regular;Gold;45-54;Female;1
+1226;6;46295.17;7715.86;3.83;6;1;New Client;Silver;35-44;Female;1
+1227;3;15988.1;5329.37;3.67;3;1;Occasional;Silver;55+;Female;6
+1229;4;17145.73;4286.43;3.5;4;1;Occasional;Silver;35-44;Male;1
+1230;3;9465.73;3155.24;3.33;3;1;New Client;Gold;45-54;Male;5
+1231;6;22531.09;3755.18;3.33;6;1;New Client;Silver;45-54;Male;1
+1232;1;10134.19;10134.19;4.0;0;0;New Client;Bronze;45-54;Male;6
+1233;3;5696.07;1898.69;3.0;3;1;New Client;Bronze;25-34;Female;2
+1234;1;1345.81;1345.81;4.0;0;0;New Client;Bronze;25-34;Female;8
+1235;2;3794.68;1897.34;3.5;2;1;New Client;Silver;45-54;Male;2
+1236;6;12167.74;2027.96;3.17;6;1;Regular;Bronze;35-44;Female;4
+1237;3;9834.95;3278.32;3.0;3;1;Occasional;Bronze;25-34;Male;1
+1238;5;36361.41;7272.28;3.6;5;1;VIP;Silver;45-54;Male;1
+1239;6;20230.43;3371.74;3.5;6;1;New Client;Silver;35-44;Male;3
+1240;7;39327.55;5618.22;3.57;7;1;Occasional;Gold;45-54;Male;5
+1241;2;9355.08;4677.54;4.0;2;1;Occasional;Silver;45-54;Female;6
+1242;4;33374.23;8343.56;3.75;4;1;New Client;Gold;25-34;Male;2
+1243;8;34794.71;4349.34;4.5;8;1;Regular;Platinum;18-24;Male;6
+1244;4;4109.15;1027.29;4.25;4;1;New Client;Gold;45-54;Female;8
+1245;5;31745.19;6349.04;3.8;5;1;VIP;Silver;35-44;Male;7
+1246;1;1794.26;1794.26;2.0;0;0;VIP;Bronze;45-54;Female;1
+1248;2;5298.92;2649.46;4.5;2;1;Occasional;Bronze;45-54;Female;1
+1249;4;13353.83;3338.46;2.75;4;1;Regular;Bronze;55+;Female;1
+1250;3;10205.33;3401.78;3.33;3;1;Occasional;Silver;35-44;Female;10
+1251;5;31717.35;6343.47;3.0;5;1;Regular;Bronze;35-44;Male;1
+1252;4;13651.71;3412.93;4.75;4;1;New Client;Platinum;35-44;Female;5
+1253;2;29305.44;14652.72;3.0;2;1;New Client;Silver;25-34;Female;6
+1254;4;18773.09;4693.27;3.0;4;1;Occasional;Silver;35-44;Female;6
+1255;5;27024.66;5404.93;3.6;5;1;Occasional;Silver;25-34;Male;6
+1256;5;33998.53;6799.71;3.8;5;1;VIP;Silver;55+;Female;1
+1257;5;26624.06;5324.81;3.6;5;1;New Client;Bronze;35-44;Female;2
+1258;5;30143.81;6028.76;3.6;5;1;Regular;Silver;35-44;Male;5
+1259;3;13309.92;4436.64;3.67;3;1;New Client;Gold;35-44;Female;1
+1260;1;4124.32;4124.32;4.0;0;0;Occasional;Silver;18-24;Male;3
+1261;5;37930.31;7586.06;4.2;5;1;Occasional;Gold;18-24;Female;1
+1262;4;23647.88;5911.97;2.75;4;1;Occasional;Bronze;35-44;Male;1
+1263;6;24066.66;4011.11;3.33;6;1;New Client;Bronze;25-34;Female;3
+1264;6;36335.12;6055.85;2.67;6;1;Occasional;Bronze;35-44;Female;1
+1265;6;24350.92;4058.49;3.17;6;1;Regular;Bronze;55+;Male;6
+1266;6;22071.41;3678.57;4.17;6;1;Occasional;Gold;55+;Male;6
+1267;4;18205.61;4551.4;3.5;4;1;Occasional;Gold;45-54;Male;8
+1268;11;35686.33;3244.21;3.36;11;1;Regular;Silver;25-34;Female;1
+1269;5;25516.4;5103.28;3.0;5;1;Regular;Silver;55+;Female;1
+1270;3;23468.0;7822.67;3.67;3;1;Occasional;Gold;55+;Female;1
+1271;2;8316.96;4158.48;3.0;2;1;New Client;Bronze;25-34;Male;6
+1272;6;64195.57;10699.26;2.67;6;1;VIP;Bronze;45-54;Female;6
+1273;4;19196.86;4799.22;4.0;4;1;Occasional;Platinum;25-34;Female;1
+1274;4;18307.23;4576.81;3.25;4;1;New Client;Silver;45-54;Female;9
+1275;7;48170.12;6881.45;4.57;7;1;New Client;Platinum;55+;Female;1
+1276;3;26387.99;8796.0;3.67;3;1;Regular;Bronze;18-24;Female;5
+1277;8;36933.35;4616.67;3.38;8;1;New Client;Gold;55+;Male;6
+1278;3;31594.88;10531.63;4.0;3;1;VIP;Bronze;45-54;Female;8
+1279;2;32859.38;16429.69;2.5;2;1;New Client;Bronze;55+;Male;6
+1280;4;28149.72;7037.43;3.5;4;1;Regular;Silver;35-44;Female;8
+1281;6;27793.69;4632.28;3.5;6;1;Occasional;Bronze;45-54;Male;3
+1283;6;21335.25;3555.88;3.17;6;1;VIP;Bronze;35-44;Female;1
+1284;4;9375.65;2343.91;3.0;4;1;Occasional;Bronze;25-34;Male;9
+1285;5;19258.68;3851.74;4.0;5;1;Occasional;Gold;55+;Female;5
+1286;2;2635.01;1317.5;4.0;2;1;New Client;Silver;45-54;Male;8
+1287;4;8752.89;2188.22;2.75;4;1;New Client;Bronze;45-54;Male;4
+1288;4;12357.6;3089.4;3.5;4;1;New Client;Bronze;55+;Female;6
+1289;1;4128.0;4128.0;2.0;0;0;Regular;Bronze;25-34;Female;5
+1290;6;13444.19;2240.7;3.67;6;1;New Client;Silver;35-44;Female;7
+1291;2;11345.84;5672.92;3.0;2;1;New Client;Bronze;25-34;Female;1
+1292;4;19228.16;4807.04;3.5;4;1;Occasional;Gold;25-34;Female;1
+1293;5;44442.85;8888.57;3.4;5;1;Regular;Bronze;25-34;Female;1
+1294;5;43169.98;8634.0;3.0;5;1;Regular;Bronze;35-44;Female;1
+1295;6;20087.07;3347.84;3.67;6;1;New Client;Gold;25-34;Male;8
+1296;3;12088.01;4029.34;4.0;3;1;New Client;Gold;25-34;Female;1
+1297;2;9579.5;4789.75;3.0;2;1;VIP;Bronze;25-34;Female;10
+1298;2;3963.73;1981.86;3.5;2;1;New Client;Gold;25-34;Male;3
+1299;1;3882.76;3882.76;2.0;0;0;Regular;Silver;55+;Female;1
+1300;2;20508.68;10254.34;3.5;2;1;Regular;Gold;45-54;Female;8
+1301;6;24209.11;4034.85;3.33;6;1;Regular;Silver;55+;Female;6
+1302;1;4116.85;4116.85;5.0;0;0;New Client;Silver;35-44;Male;5
+1303;3;4170.57;1390.19;4.33;3;1;Regular;Platinum;25-34;Male;6
+1304;4;16563.33;4140.83;3.25;4;1;Regular;Bronze;45-54;Female;6
+1305;4;24193.81;6048.45;3.25;4;1;Occasional;Silver;35-44;Male;1
+1306;4;14062.63;3515.66;4.25;4;1;Occasional;Silver;25-34;Female;10
+1307;3;31229.26;10409.75;2.33;3;1;New Client;Bronze;25-34;Male;10
+1308;5;11523.64;2304.73;3.4;5;1;New Client;Bronze;25-34;Male;6
+1309;8;45130.68;5641.34;3.38;8;1;Occasional;Bronze;25-34;Male;1
+1310;1;1890.76;1890.76;3.0;0;0;Occasional;Silver;35-44;Female;6
+1311;8;32735.1;4091.89;3.5;8;1;Occasional;Silver;45-54;Female;1
+1312;3;7230.66;2410.22;3.67;3;1;Occasional;Silver;25-34;Female;1
+1313;7;60944.54;8706.36;3.43;7;1;Occasional;Bronze;25-34;Male;2
+1314;4;19386.01;4846.5;3.75;4;1;Regular;Silver;45-54;Female;4
+1315;3;3950.8;1316.93;4.33;3;1;VIP;Platinum;25-34;Male;8
+1316;7;32511.05;4644.44;3.14;7;1;New Client;Silver;35-44;Male;6
+1317;6;28312.22;4718.7;3.5;6;1;Occasional;Silver;55+;Female;7
+1318;6;30220.61;5036.77;4.5;6;1;New Client;Gold;25-34;Male;4
+1319;3;17641.51;5880.5;4.33;3;1;Regular;Gold;25-34;Male;3
+1320;3;24468.36;8156.12;3.0;3;1;Regular;Silver;35-44;Male;3
+1321;5;17376.5;3475.3;4.2;5;1;VIP;Gold;35-44;Male;10
+1322;2;23406.71;11703.36;3.5;2;1;New Client;Silver;35-44;Male;1
+1323;4;13439.87;3359.97;3.5;4;1;VIP;Gold;45-54;Female;8
+1324;5;24932.88;4986.58;3.2;5;1;New Client;Bronze;25-34;Male;6
+1325;2;23718.71;11859.36;2.5;2;1;Regular;Bronze;35-44;Female;4
+1326;6;43912.27;7318.71;3.0;6;1;New Client;Bronze;35-44;Male;6
+1327;2;2706.67;1353.34;4.5;2;1;VIP;Gold;25-34;Male;5
+1328;5;15268.91;3053.78;3.2;5;1;Occasional;Silver;45-54;Female;8
+1329;6;30719.22;5119.87;3.17;6;1;Regular;Bronze;25-34;Male;9
+1330;1;1544.44;1544.44;3.0;0;0;Regular;Bronze;35-44;Female;4
+1331;3;21207.64;7069.21;4.0;3;1;New Client;Gold;25-34;Female;2
+1332;4;27066.13;6766.53;3.5;4;1;New Client;Gold;35-44;Female;6
+1333;6;28922.64;4820.44;3.83;6;1;Regular;Silver;35-44;Male;9
+1334;5;14638.55;2927.71;3.6;5;1;Occasional;Silver;45-54;Male;1
+1335;6;9992.67;1665.44;3.5;6;1;New Client;Silver;18-24;Male;6
+1336;3;7641.72;2547.24;3.67;3;1;Occasional;Silver;35-44;Female;6
+1337;3;13539.63;4513.21;4.33;3;1;Occasional;Gold;35-44;Male;7
+1338;2;12757.79;6378.9;3.0;2;1;New Client;Bronze;45-54;Male;1
+1339;6;21439.19;3573.2;3.67;6;1;New Client;Silver;35-44;Female;6
+1340;5;16277.45;3255.49;3.4;5;1;New Client;Bronze;45-54;Female;9
+1341;1;789.69;789.69;3.0;0;0;Occasional;Silver;45-54;Female;1
+1342;6;23043.8;3840.63;3.67;6;1;VIP;Silver;55+;Male;1
+1343;1;8742.21;8742.21;3.0;0;0;VIP;Silver;35-44;Male;10
+1344;5;11741.35;2348.27;3.0;5;1;Regular;Bronze;35-44;Male;1
+1345;2;8376.94;4188.47;3.5;2;1;New Client;Silver;45-54;Female;8
+1346;8;63984.11;7998.01;3.75;8;1;VIP;Bronze;55+;Male;5
+1347;5;15831.31;3166.26;3.0;5;1;Occasional;Bronze;55+;Female;1
+1348;3;20506.58;6835.53;2.33;3;1;New Client;Bronze;35-44;Female;8
+1349;4;25196.98;6299.24;3.5;4;1;VIP;Gold;25-34;Male;4
+1350;2;10652.99;5326.5;3.5;2;1;Regular;Silver;35-44;Female;5
+1351;6;47032.7;7838.78;3.17;6;1;Regular;Silver;45-54;Male;3
+1352;6;10126.68;1687.78;3.67;6;1;Regular;Gold;35-44;Female;6
+1353;4;20620.82;5155.2;3.25;4;1;New Client;Silver;35-44;Male;1
+1354;4;11567.88;2891.97;4.0;4;1;New Client;Silver;45-54;Female;3
+1355;5;32206.03;6441.21;3.4;5;1;Regular;Silver;35-44;Male;10
+1356;5;13046.05;2609.21;3.2;5;1;New Client;Bronze;45-54;Female;2
+1357;2;7940.98;3970.49;3.0;2;1;Occasional;Silver;35-44;Female;6
+1358;6;46172.07;7695.34;3.17;6;1;Regular;Silver;35-44;Male;2
+1359;7;42966.96;6138.14;4.0;7;1;Regular;Gold;35-44;Female;7
+1360;7;74699.34;10671.33;4.14;7;1;Occasional;Gold;45-54;Male;1
+1361;5;30866.14;6173.23;2.2;5;1;Regular;Bronze;25-34;Male;10
+1362;2;2706.64;1353.32;3.0;2;1;Regular;Bronze;25-34;Female;4
+1363;5;29378.64;5875.73;3.4;5;1;Regular;Silver;55+;Female;1
+1364;5;31953.64;6390.73;3.8;5;1;New Client;Bronze;25-34;Male;1
+1365;2;10612.0;5306.0;3.0;2;1;New Client;Bronze;35-44;Male;1
+1366;6;25491.9;4248.65;3.5;6;1;Occasional;Gold;35-44;Male;5
+1367;5;48174.82;9634.96;3.2;5;1;New Client;Bronze;35-44;Female;3
+1368;1;1498.37;1498.37;4.0;0;0;New Client;Platinum;45-54;Male;8
+1369;4;13306.31;3326.58;3.0;4;1;New Client;Gold;25-34;Female;4
+1370;6;7230.42;1205.07;3.67;6;1;Occasional;Gold;35-44;Male;1
+1371;2;4492.38;2246.19;3.5;2;1;VIP;Bronze;35-44;Male;6
+1372;2;7017.97;3508.98;4.0;2;1;New Client;Bronze;45-54;Female;6
+1373;4;7615.31;1903.83;3.75;4;1;Regular;Silver;25-34;Female;1
+1374;4;19198.8;4799.7;3.5;4;1;Regular;Bronze;35-44;Female;1
+1375;3;8257.34;2752.45;3.67;3;1;New Client;Bronze;25-34;Female;1
+1376;5;15846.4;3169.28;3.2;5;1;VIP;Bronze;25-34;Male;7
+1377;4;22286.85;5571.71;3.25;4;1;Occasional;Bronze;25-34;Female;6
+1378;4;6603.9;1650.98;3.0;4;1;Occasional;Bronze;25-34;Female;5
+1379;8;21620.43;2702.55;4.0;8;1;Regular;Gold;45-54;Female;8
+1380;4;6149.36;1537.34;2.75;4;1;New Client;Bronze;25-34;Male;8
+1381;1;784.79;784.79;2.0;0;0;Regular;Bronze;55+;Male;6
+1382;6;19082.24;3180.37;3.5;6;1;New Client;Silver;55+;Female;8
+1383;3;22290.96;7430.32;4.67;3;1;Regular;Platinum;35-44;Female;1
+1384;5;18425.08;3685.02;3.0;5;1;Occasional;Bronze;25-34;Male;1
+1385;5;9919.07;1983.81;2.8;5;1;Regular;Bronze;35-44;Male;2
+1386;1;1623.46;1623.46;4.0;0;0;New Client;Silver;45-54;Female;1
+1387;4;12216.53;3054.13;4.25;4;1;Regular;Gold;35-44;Female;5
+1388;6;29851.57;4975.26;4.0;6;1;Regular;Gold;25-34;Female;9
+1389;3;22465.18;7488.39;3.33;3;1;Occasional;Silver;35-44;Female;1
+1390;4;28197.64;7049.41;3.25;4;1;Regular;Bronze;45-54;Male;1
+1391;4;31270.26;7817.56;3.25;4;1;Occasional;Silver;45-54;Male;4
+1392;5;13835.61;2767.12;3.6;5;1;VIP;Bronze;25-34;Female;9
+1393;2;8129.2;4064.6;4.5;2;1;Occasional;Silver;45-54;Male;2
+1394;6;37554.01;6259.0;3.67;6;1;Regular;Gold;25-34;Female;5
+1395;7;34997.98;4999.71;4.14;7;1;Regular;Platinum;25-34;Male;1
+1396;4;25584.76;6396.19;3.0;4;1;Occasional;Bronze;55+;Male;1
+1397;3;10470.11;3490.04;3.0;3;1;New Client;Bronze;25-34;Female;10
+1398;4;6287.68;1571.92;3.25;4;1;Occasional;Silver;25-34;Female;10
+1399;4;12377.99;3094.5;4.0;4;1;Regular;Gold;18-24;Male;1
+1400;2;4615.88;2307.94;4.0;2;1;New Client;Gold;55+;Female;10
+1401;2;3126.56;1563.28;3.5;2;1;Occasional;Bronze;45-54;Female;6
+1402;6;40357.33;6726.22;3.5;6;1;Regular;Bronze;45-54;Female;8
+1403;4;21760.74;5440.18;3.25;4;1;Occasional;Silver;45-54;Male;4
+1404;9;37505.75;4167.31;2.78;9;1;Regular;Bronze;25-34;Female;5
+1405;4;6408.36;1602.09;3.75;4;1;New Client;Gold;35-44;Male;5
+1406;5;28876.41;5775.28;3.6;5;1;New Client;Silver;35-44;Female;6
+1407;3;12811.31;4270.44;4.33;3;1;Regular;Gold;25-34;Male;1
+1408;2;6591.73;3295.86;3.5;2;1;New Client;Silver;35-44;Male;1
+1409;5;16206.92;3241.38;4.2;5;1;New Client;Gold;55+;Male;2
+1410;4;22037.04;5509.26;3.0;4;1;Regular;Bronze;18-24;Female;6
+1411;2;3547.44;1773.72;4.5;2;1;Occasional;Gold;25-34;Male;1
+1412;7;41796.84;5970.98;2.71;7;1;VIP;Bronze;25-34;Male;6
+1413;1;507.8;507.8;3.0;0;0;VIP;Silver;25-34;Female;10
+1414;5;10092.57;2018.51;3.0;5;1;New Client;Bronze;55+;Female;1
+1415;3;8987.21;2995.74;3.67;3;1;New Client;Silver;35-44;Female;6
+1416;3;34934.13;11644.71;4.0;3;1;Regular;Bronze;35-44;Female;4
+1417;9;18347.69;2038.63;3.33;9;1;Occasional;Bronze;45-54;Male;8
+1418;2;14692.28;7346.14;4.0;2;1;New Client;Platinum;25-34;Female;1
+1419;7;30056.6;4293.8;3.0;7;1;Regular;Bronze;35-44;Female;6
+1420;8;44154.45;5519.31;3.88;8;1;New Client;Gold;35-44;Male;8
+1421;6;20371.98;3395.33;4.67;6;1;Regular;Platinum;35-44;Female;10
+1422;7;27314.61;3902.09;3.14;7;1;New Client;Bronze;55+;Female;6
+1423;5;27769.16;5553.83;3.6;5;1;New Client;Silver;45-54;Female;5
+1424;4;16004.58;4001.14;2.5;4;1;New Client;Bronze;35-44;Male;6
+1425;3;23060.26;7686.75;3.33;3;1;VIP;Bronze;45-54;Male;8
+1426;5;28430.5;5686.1;3.6;5;1;Regular;Silver;25-34;Male;6
+1427;2;11297.11;5648.56;4.0;2;1;Regular;Platinum;18-24;Female;1
+1429;3;5494.55;1831.52;3.33;3;1;Occasional;Silver;35-44;Female;6
+1430;4;13357.42;3339.36;2.75;4;1;New Client;Silver;35-44;Female;6
+1431;3;29199.81;9733.27;3.33;3;1;Occasional;Gold;45-54;Female;1
+1432;5;27212.46;5442.49;3.2;5;1;Occasional;Bronze;55+;Male;6
+1433;3;3546.42;1182.14;3.33;3;1;Regular;Silver;35-44;Female;3
+1434;4;12232.06;3058.02;3.75;4;1;New Client;Silver;35-44;Female;6
+1435;2;3656.52;1828.26;4.0;2;1;VIP;Silver;18-24;Female;1
+1436;2;4499.89;2249.95;4.0;2;1;New Client;Platinum;18-24;Female;6
+1437;5;34822.13;6964.43;4.2;5;1;VIP;Gold;35-44;Male;10
+1438;7;29053.06;4150.44;2.86;7;1;New Client;Bronze;35-44;Female;1
+1439;8;28427.27;3553.41;2.88;8;1;Occasional;Silver;45-54;Male;10
+1440;4;16748.47;4187.12;3.25;4;1;Occasional;Silver;25-34;Female;4
+1441;2;30123.81;15061.9;3.0;2;1;Occasional;Bronze;18-24;Male;8
+1442;4;18338.42;4584.6;3.5;4;1;Occasional;Silver;35-44;Male;8
+1443;3;11509.46;3836.49;3.33;3;1;Occasional;Silver;25-34;Female;6
+1444;3;7463.12;2487.71;3.0;3;1;Occasional;Silver;18-24;Female;7
+1445;2;9021.23;4510.62;4.0;2;1;Regular;Platinum;45-54;Male;8
+1446;2;1214.22;607.11;3.0;2;1;Regular;Bronze;25-34;Male;4
+1447;6;19269.89;3211.65;4.67;6;1;Regular;Platinum;35-44;Female;2
+1448;5;49515.18;9903.04;3.2;5;1;New Client;Silver;25-34;Female;6
+1449;2;12252.51;6126.26;3.5;2;1;Regular;Silver;25-34;Male;8
+1450;2;3266.15;1633.08;3.0;2;1;Occasional;Gold;35-44;Male;7
+1451;4;6523.06;1630.76;3.5;4;1;Occasional;Bronze;45-54;Female;8
+1452;4;34379.97;8594.99;3.0;4;1;Occasional;Silver;35-44;Female;4
+1453;5;45341.38;9068.28;3.6;5;1;Occasional;Silver;45-54;Female;8
+1454;3;13572.68;4524.23;2.67;3;1;New Client;Bronze;25-34;Male;1
+1455;3;4610.84;1536.95;3.67;3;1;New Client;Platinum;45-54;Female;5
+1456;2;5262.66;2631.33;4.0;2;1;New Client;Gold;25-34;Male;1
+1457;2;8987.72;4493.86;3.5;2;1;Regular;Bronze;45-54;Female;2
+1458;1;9240.58;9240.58;3.0;0;0;Regular;Bronze;35-44;Female;3
+1459;7;41309.63;5901.38;3.43;7;1;VIP;Silver;55+;Female;3
+1460;5;9952.13;1990.43;3.0;5;1;Regular;Bronze;35-44;Male;6
+1461;4;4453.08;1113.27;3.75;4;1;New Client;Silver;25-34;Male;3
+1462;4;30127.85;7531.96;2.75;4;1;VIP;Bronze;18-24;Female;4
+1463;4;8584.43;2146.11;2.75;4;1;Regular;Silver;45-54;Male;1
+1464;3;18441.85;6147.28;2.67;3;1;Occasional;Bronze;35-44;Male;3
+1465;6;16617.06;2769.51;3.5;6;1;Occasional;Bronze;45-54;Female;1
+1466;2;7032.9;3516.45;3.0;2;1;VIP;Silver;25-34;Female;1
+1467;7;28122.44;4017.49;3.43;7;1;Occasional;Silver;35-44;Female;6
+1468;4;5311.38;1327.84;4.0;4;1;VIP;Platinum;18-24;Female;6
+1469;5;26369.84;5273.97;3.6;5;1;New Client;Gold;55+;Male;6
+1470;6;23549.3;3924.88;3.17;6;1;New Client;Bronze;45-54;Female;4
+1471;8;26963.97;3370.5;3.12;8;1;Occasional;Bronze;55+;Male;3
+1472;3;31260.77;10420.26;3.67;3;1;Occasional;Gold;25-34;Female;8
+1473;6;27084.97;4514.16;3.67;6;1;Regular;Gold;45-54;Male;5
+1474;5;43129.95;8625.99;3.8;5;1;VIP;Gold;45-54;Female;5
+1475;3;16874.98;5624.99;2.33;3;1;Occasional;Bronze;35-44;Female;1
+1476;1;422.76;422.76;4.0;0;0;New Client;Platinum;45-54;Female;3
+1477;3;9198.86;3066.29;3.33;3;1;Regular;Bronze;55+;Female;3
+1478;6;25352.56;4225.43;3.5;6;1;Regular;Gold;55+;Male;3
+1479;2;17110.2;8555.1;4.0;2;1;New Client;Gold;45-54;Female;6
+1480;8;32275.33;4034.42;3.12;8;1;Occasional;Bronze;25-34;Male;5
+1481;4;25888.21;6472.05;4.25;4;1;Regular;Gold;25-34;Female;6
+1482;6;59250.55;9875.09;2.83;6;1;Regular;Bronze;55+;Female;7
+1483;3;13419.02;4473.01;4.67;3;1;Occasional;Platinum;18-24;Female;8
+1485;1;1837.11;1837.11;4.0;0;0;VIP;Platinum;45-54;Male;10
+1486;4;24098.76;6024.69;3.0;4;1;Regular;Bronze;45-54;Female;1
+1487;9;23984.37;2664.93;3.89;9;1;Occasional;Gold;55+;Female;1
+1488;1;7166.81;7166.81;2.0;0;0;New Client;Silver;35-44;Female;1
+1489;6;24559.3;4093.22;3.0;6;1;Regular;Silver;35-44;Male;6
+1490;3;11121.16;3707.05;3.33;3;1;New Client;Bronze;25-34;Male;9
+1491;4;40723.8;10180.95;3.75;4;1;New Client;Gold;35-44;Female;1
+1492;7;34816.43;4973.78;3.43;7;1;Occasional;Bronze;25-34;Male;9
+1493;6;16863.22;2810.54;2.83;6;1;New Client;Silver;35-44;Female;1
+1494;4;17345.23;4336.31;3.0;4;1;Regular;Bronze;45-54;Male;9
+1495;4;12518.96;3129.74;4.5;4;1;New Client;Platinum;55+;Female;3
+1496;4;14612.98;3653.25;2.75;4;1;Regular;Bronze;25-34;Male;1
+1497;3;13137.79;4379.26;3.33;3;1;New Client;Bronze;35-44;Female;5
+1498;5;14841.73;2968.35;3.6;5;1;New Client;Bronze;55+;Male;2
+1499;7;30940.39;4420.06;3.43;7;1;New Client;Silver;25-34;Male;2
+1500;3;15649.36;5216.45;3.0;3;1;VIP;Bronze;25-34;Male;2
+1501;7;30156.39;4308.06;3.43;7;1;Regular;Silver;25-34;Male;8
+1502;6;16680.62;2780.1;4.0;6;1;New Client;Gold;35-44;Male;5
+1503;4;12434.63;3108.66;2.75;4;1;Regular;Gold;25-34;Female;2
+1504;2;16479.26;8239.63;3.5;2;1;Regular;Silver;55+;Female;6
+1505;5;38701.24;7740.25;3.2;5;1;VIP;Bronze;35-44;Female;6
+1506;3;14305.36;4768.45;3.33;3;1;Occasional;Silver;35-44;Male;2
+1507;7;27622.21;3946.03;2.71;7;1;Regular;Bronze;25-34;Female;4
+1508;2;1816.74;908.37;3.5;2;1;New Client;Gold;35-44;Male;1
+1509;3;14540.82;4846.94;2.67;3;1;Occasional;Bronze;45-54;Male;1
+1510;2;3554.72;1777.36;4.0;2;1;VIP;Silver;45-54;Female;6
+1511;2;2352.54;1176.27;4.0;2;1;Occasional;Bronze;45-54;Female;1
+1512;4;38256.57;9564.14;4.0;4;1;New Client;Gold;35-44;Female;5
+1513;1;2496.53;2496.53;3.0;0;0;New Client;Bronze;55+;Female;6
+1514;3;16032.07;5344.02;3.67;3;1;Regular;Silver;45-54;Female;1
+1515;2;3474.24;1737.12;3.5;2;1;Regular;Bronze;45-54;Female;6
+1516;5;35914.91;7182.98;4.0;5;1;Occasional;Gold;18-24;Male;2
+1517;2;7558.5;3779.25;4.0;2;1;VIP;Gold;18-24;Male;10
+1518;5;28910.81;5782.16;3.4;5;1;New Client;Silver;25-34;Female;5
+1519;5;26221.53;5244.31;3.8;5;1;Occasional;Silver;45-54;Female;8
+1520;3;4784.44;1594.81;4.0;3;1;VIP;Platinum;35-44;Female;6
+1521;4;13564.07;3391.02;3.25;4;1;Occasional;Silver;35-44;Male;1
+1522;5;19109.08;3821.82;3.8;5;1;New Client;Silver;55+;Male;6
+1523;6;12217.86;2036.31;3.5;6;1;Occasional;Silver;55+;Female;10
+1524;8;38787.07;4848.38;3.0;8;1;Regular;Silver;55+;Female;6
+1525;3;25968.55;8656.18;3.0;3;1;New Client;Bronze;35-44;Male;8
+1526;3;7755.12;2585.04;4.0;3;1;VIP;Gold;45-54;Male;9
+1527;6;26748.18;4458.03;3.33;6;1;Regular;Silver;25-34;Female;1
+1528;2;14393.49;7196.74;3.0;2;1;New Client;Bronze;25-34;Male;1
+1529;4;32427.8;8106.95;4.0;4;1;Regular;Gold;25-34;Female;6
+1530;8;38767.7;4845.96;3.0;8;1;Occasional;Bronze;35-44;Female;4
+1531;3;10188.97;3396.32;3.67;3;1;Occasional;Bronze;35-44;Male;8
+1533;5;25946.55;5189.31;3.6;5;1;VIP;Gold;25-34;Female;3
+1534;5;32024.49;6404.9;3.8;5;1;New Client;Gold;45-54;Male;1
+1535;2;8022.12;4011.06;4.0;2;1;Occasional;Platinum;35-44;Female;8
+1536;2;25140.84;12570.42;4.5;2;1;Occasional;Gold;25-34;Male;2
+1538;6;19260.89;3210.15;3.17;6;1;Occasional;Silver;25-34;Male;4
+1539;3;14849.46;4949.82;3.33;3;1;New Client;Gold;35-44;Male;6
+1540;6;49517.24;8252.87;3.17;6;1;Regular;Bronze;35-44;Female;1
+1541;3;9921.56;3307.19;3.33;3;1;Occasional;Silver;25-34;Male;6
+1542;2;1862.25;931.12;3.0;2;1;New Client;Silver;25-34;Male;4
+1543;5;21811.18;4362.24;3.4;5;1;Regular;Bronze;35-44;Male;6
+1544;6;36604.75;6100.79;4.17;6;1;Regular;Gold;55+;Female;1
+1546;5;22650.8;4530.16;3.2;5;1;New Client;Silver;45-54;Male;8
+1547;3;7243.82;2414.61;4.0;3;1;Regular;Platinum;45-54;Female;1
+1548;3;11081.32;3693.77;3.67;3;1;New Client;Silver;55+;Male;1
+1549;6;36699.51;6116.58;3.67;6;1;New Client;Bronze;45-54;Female;1
+1550;3;5884.47;1961.49;3.67;3;1;Regular;Silver;35-44;Female;6
+1551;5;40084.5;8016.9;4.2;5;1;New Client;Gold;45-54;Female;6
+1552;2;9172.89;4586.44;4.5;2;1;New Client;Gold;55+;Female;5
+1553;5;24054.77;4810.95;4.2;5;1;New Client;Gold;35-44;Male;1
+1554;4;7402.3;1850.57;4.25;4;1;New Client;Gold;35-44;Female;3
+1555;4;34409.28;8602.32;2.75;4;1;New Client;Bronze;18-24;Male;6
+1556;2;2872.16;1436.08;4.0;2;1;VIP;Gold;45-54;Female;5
+1557;7;8353.07;1193.3;3.86;7;1;New Client;Gold;45-54;Female;10
+1558;5;18392.35;3678.47;3.4;5;1;New Client;Bronze;25-34;Female;1
+1559;3;8157.41;2719.14;3.33;3;1;New Client;Bronze;35-44;Female;6
+1560;2;2565.74;1282.87;3.5;2;1;VIP;Platinum;35-44;Male;4
+1561;8;36610.15;4576.27;3.62;8;1;Occasional;Gold;25-34;Male;4
+1562;3;6996.7;2332.23;4.33;3;1;Occasional;Gold;55+;Male;6
+1563;5;33515.0;6703.0;3.6;5;1;Regular;Gold;25-34;Female;6
+1564;4;12554.6;3138.65;4.0;4;1;Occasional;Silver;25-34;Female;10
+1565;5;28432.19;5686.44;3.8;5;1;Occasional;Silver;35-44;Female;1
+1566;7;48168.2;6881.17;3.0;7;1;New Client;Silver;45-54;Female;1
+1567;3;6930.98;2310.33;3.0;3;1;Occasional;Bronze;18-24;Female;6
+1568;3;28914.91;9638.3;4.0;3;1;Occasional;Gold;45-54;Male;6
+1569;6;25585.62;4264.27;3.0;6;1;Regular;Silver;35-44;Female;2
+1570;1;3278.46;3278.46;3.0;0;0;New Client;Silver;25-34;Male;1
+1571;7;50356.62;7193.8;3.29;7;1;Occasional;Silver;25-34;Female;1
+1572;5;19584.87;3916.97;3.2;5;1;New Client;Silver;35-44;Female;9
+1573;9;39685.82;4409.54;2.67;9;1;New Client;Bronze;25-34;Male;1
+1574;6;30442.62;5073.77;2.83;6;1;Occasional;Bronze;55+;Female;2
+1575;2;3456.95;1728.48;3.5;2;1;VIP;Bronze;45-54;Male;1
+1576;1;4584.62;4584.62;4.0;0;0;Occasional;Bronze;55+;Male;3
+1577;5;38565.43;7713.09;4.0;5;1;Regular;Platinum;25-34;Female;1
+1578;3;15413.85;5137.95;3.33;3;1;New Client;Bronze;55+;Male;5
+1579;3;5562.36;1854.12;3.33;3;1;New Client;Bronze;35-44;Female;1
+1580;1;424.42;424.42;3.0;0;0;New Client;Silver;35-44;Female;8
+1581;2;9449.19;4724.6;3.0;2;1;Occasional;Silver;18-24;Male;1
+1582;7;22291.95;3184.56;3.43;7;1;New Client;Bronze;18-24;Female;5
+1583;3;21807.33;7269.11;4.33;3;1;New Client;Gold;45-54;Male;9
+1584;2;23103.37;11551.68;3.5;2;1;Regular;Gold;35-44;Male;6
+1585;5;12439.93;2487.99;3.4;5;1;New Client;Bronze;25-34;Male;5
+1586;3;14450.51;4816.84;3.0;3;1;Occasional;Bronze;45-54;Female;2
+1587;5;20539.69;4107.94;4.0;5;1;Occasional;Platinum;25-34;Female;3
+1588;2;6573.12;3286.56;4.0;2;1;Occasional;Gold;35-44;Male;6
+1589;5;18632.91;3726.58;3.4;5;1;Occasional;Silver;35-44;Female;10
+1590;3;21641.33;7213.78;2.67;3;1;Occasional;Bronze;45-54;Female;6
+1591;2;4356.0;2178.0;3.5;2;1;New Client;Silver;45-54;Female;6
+1592;4;24113.17;6028.29;3.5;4;1;Regular;Silver;35-44;Female;7
+1593;2;4815.13;2407.56;2.5;2;1;Regular;Bronze;35-44;Female;4
+1594;6;20453.85;3408.98;3.17;6;1;New Client;Silver;35-44;Male;1
+1595;7;41844.92;5977.85;3.57;7;1;New Client;Silver;45-54;Male;6
+1596;6;9561.45;1593.58;2.67;6;1;VIP;Bronze;35-44;Female;10
+1597;8;51233.89;6404.24;4.0;8;1;Occasional;Gold;25-34;Female;1
+1598;6;13598.33;2266.39;3.67;6;1;Occasional;Gold;25-34;Female;6
+1599;2;3467.61;1733.8;3.5;2;1;Occasional;Bronze;35-44;Male;1
+1600;4;14315.55;3578.89;4.0;4;1;New Client;Gold;35-44;Female;5
+1601;7;22575.61;3225.09;3.43;7;1;Occasional;Bronze;45-54;Male;1
+1602;6;47252.59;7875.43;4.17;6;1;Occasional;Gold;25-34;Female;4
+1603;5;16327.56;3265.51;3.0;5;1;New Client;Bronze;35-44;Male;7
+1604;4;32545.66;8136.42;3.0;4;1;Occasional;Bronze;45-54;Female;3
+1605;10;82647.51;8264.75;3.4;10;1;Regular;Silver;45-54;Male;6
+1606;3;38608.68;12869.56;3.0;3;1;Occasional;Silver;35-44;Female;8
+1607;4;6464.63;1616.16;3.75;4;1;New Client;Gold;35-44;Male;9
+1608;6;40744.74;6790.79;2.67;6;1;Occasional;Bronze;35-44;Female;1
+1609;7;26140.57;3734.37;3.29;7;1;Regular;Bronze;55+;Male;3
+1611;1;4911.69;4911.69;4.0;0;0;Regular;Silver;55+;Female;10
+1612;5;15127.29;3025.46;3.0;5;1;New Client;Bronze;45-54;Male;9
+1613;9;29465.63;3273.96;3.44;9;1;Regular;Silver;35-44;Male;5
+1614;5;9309.55;1861.91;4.2;5;1;Regular;Gold;18-24;Female;8
+1615;6;14851.41;2475.24;4.0;6;1;New Client;Gold;35-44;Female;5
+1616;2;16248.1;8124.05;3.5;2;1;Occasional;Platinum;35-44;Female;6
+1617;3;13040.16;4346.72;3.33;3;1;Occasional;Bronze;25-34;Male;1
+1618;7;72368.23;10338.32;4.0;7;1;Regular;Gold;45-54;Male;7
+1619;4;11106.93;2776.73;3.5;4;1;New Client;Silver;55+;Female;1
+1620;3;16467.1;5489.03;3.33;3;1;Occasional;Silver;35-44;Female;8
+1621;5;12005.01;2401.0;3.4;5;1;VIP;Silver;45-54;Male;8
+1622;8;38440.41;4805.05;4.38;8;1;Regular;Platinum;25-34;Male;6
+1623;7;34344.42;4906.35;4.0;7;1;VIP;Gold;35-44;Female;1
+1624;7;24773.22;3539.03;4.43;7;1;VIP;Platinum;25-34;Male;2
+1625;4;32928.58;8232.14;4.0;4;1;New Client;Gold;45-54;Female;2
+1626;6;20907.66;3484.61;4.0;6;1;Regular;Gold;55+;Female;3
+1627;3;5362.29;1787.43;3.67;3;1;Occasional;Gold;45-54;Male;1
+1628;6;19274.1;3212.35;3.67;6;1;Regular;Silver;25-34;Female;9
+1629;4;19229.1;4807.27;3.25;4;1;New Client;Bronze;35-44;Female;6
+1630;6;19736.63;3289.44;2.67;6;1;VIP;Bronze;35-44;Female;2
+1631;5;16531.31;3306.26;3.4;5;1;Regular;Bronze;35-44;Male;3
+1632;5;27323.34;5464.67;3.6;5;1;Regular;Silver;45-54;Male;4
+1633;3;16261.16;5420.39;2.67;3;1;New Client;Silver;45-54;Female;6
+1634;7;37503.33;5357.62;3.71;7;1;New Client;Silver;45-54;Female;5
+1635;5;13396.9;2679.38;4.0;5;1;Regular;Platinum;35-44;Female;9
+1636;2;17302.78;8651.39;4.0;2;1;New Client;Gold;25-34;Female;5
+1637;1;1458.1;1458.1;4.0;0;0;Regular;Bronze;25-34;Female;10
+1638;3;3028.91;1009.64;4.0;3;1;New Client;Bronze;35-44;Male;8
+1639;2;8938.22;4469.11;3.0;2;1;Regular;Silver;35-44;Female;1
+1640;5;19521.57;3904.31;3.4;5;1;Occasional;Bronze;45-54;Female;9
+1641;5;14091.6;2818.32;4.2;5;1;Regular;Gold;45-54;Female;1
+1642;5;25993.29;5198.66;3.8;5;1;Regular;Silver;25-34;Female;8
+1643;6;27971.26;4661.88;3.83;6;1;Occasional;Silver;35-44;Male;3
+1644;3;4812.73;1604.24;3.67;3;1;New Client;Gold;25-34;Female;8
+1645;2;8788.12;4394.06;4.0;2;1;New Client;Gold;25-34;Female;8
+1646;4;15143.06;3785.77;4.0;4;1;Occasional;Bronze;45-54;Female;8
+1647;1;8330.57;8330.57;4.0;0;0;Occasional;Gold;18-24;Female;8
+1648;7;42811.93;6115.99;3.57;7;1;Regular;Silver;35-44;Female;2
+1649;7;21979.04;3139.86;3.29;7;1;Occasional;Bronze;25-34;Female;1
+1650;4;17840.81;4460.2;3.25;4;1;Occasional;Bronze;55+;Female;4
+1651;1;473.75;473.75;4.0;0;0;Occasional;Silver;35-44;Female;1
+1652;3;7319.58;2439.86;3.67;3;1;New Client;Bronze;25-34;Female;6
+1653;4;19396.75;4849.19;2.5;4;1;Occasional;Bronze;35-44;Female;3
+1654;2;6923.42;3461.71;3.5;2;1;VIP;Silver;45-54;Male;10
+1655;6;25628.25;4271.38;4.0;6;1;Regular;Gold;55+;Female;6
+1656;3;10722.32;3574.11;3.67;3;1;Occasional;Bronze;25-34;Female;8
+1657;6;13620.04;2270.01;3.33;6;1;Occasional;Bronze;55+;Female;1
+1658;6;22801.82;3800.3;3.83;6;1;Regular;Gold;55+;Female;8
+1659;5;13776.36;2755.27;3.4;5;1;Occasional;Bronze;55+;Male;9
+1660;3;14649.84;4883.28;4.0;3;1;New Client;Platinum;45-54;Female;5
+1661;4;17844.02;4461.0;3.0;4;1;New Client;Silver;45-54;Male;6
+1662;3;11694.47;3898.16;2.67;3;1;Occasional;Bronze;35-44;Female;7
+1663;4;15161.85;3790.46;2.75;4;1;VIP;Bronze;45-54;Female;1
+1664;7;28318.66;4045.52;3.29;7;1;Regular;Bronze;35-44;Male;5
+1665;3;18809.18;6269.73;3.67;3;1;New Client;Bronze;45-54;Female;3
+1666;4;15794.97;3948.74;3.25;4;1;New Client;Bronze;35-44;Female;1
+1667;2;5340.35;2670.18;4.0;2;1;Regular;Silver;45-54;Female;3
+1668;4;10961.41;2740.35;3.0;4;1;Regular;Bronze;45-54;Male;1
+1669;2;8622.23;4311.12;3.5;2;1;Regular;Silver;25-34;Female;1
+1670;5;18465.05;3693.01;3.2;5;1;Regular;Silver;45-54;Male;1
+1671;6;36700.8;6116.8;3.5;6;1;New Client;Bronze;35-44;Female;10
+1672;6;17038.37;2839.73;3.33;6;1;Regular;Bronze;45-54;Male;5
+1673;9;51281.03;5697.89;3.33;9;1;Regular;Bronze;35-44;Female;10
+1674;4;12197.82;3049.46;3.25;4;1;New Client;Bronze;35-44;Male;4
+1675;6;11906.18;1984.36;3.67;6;1;Regular;Gold;55+;Female;2
+1676;5;7518.93;1503.79;3.4;5;1;New Client;Bronze;25-34;Male;5
+1677;4;36170.25;9042.56;3.25;4;1;New Client;Gold;45-54;Female;4
+1678;4;9027.36;2256.84;3.25;4;1;New Client;Silver;35-44;Female;1
+1679;4;8140.3;2035.07;3.25;4;1;New Client;Silver;35-44;Female;6
+1680;6;12186.46;2031.08;3.5;6;1;Occasional;Silver;35-44;Female;1
+1681;5;60399.6;12079.92;4.0;5;1;Occasional;Gold;35-44;Female;6
+1682;4;7774.51;1943.63;3.0;4;1;Occasional;Bronze;35-44;Male;6
+1683;8;33258.11;4157.26;3.12;8;1;Occasional;Bronze;18-24;Male;1
+1684;4;15507.37;3876.84;3.25;4;1;New Client;Silver;25-34;Female;1
+1686;9;47836.76;5315.2;3.44;9;1;Regular;Silver;55+;Female;4
+1687;7;39839.89;5691.41;3.57;7;1;Occasional;Silver;55+;Female;1
+1688;4;21412.19;5353.05;2.75;4;1;New Client;Silver;35-44;Male;10
+1689;5;11301.44;2260.29;3.4;5;1;Regular;Silver;45-54;Male;1
+1690;7;20365.19;2909.31;3.43;7;1;Regular;Silver;35-44;Male;6
+1691;3;12312.41;4104.14;4.33;3;1;Regular;Gold;45-54;Female;10
+1692;6;15377.29;2562.88;3.17;6;1;Occasional;Gold;45-54;Male;1
+1693;3;8738.18;2912.73;3.33;3;1;New Client;Silver;55+;Female;1
+1694;8;36237.98;4529.75;3.62;8;1;Regular;Silver;35-44;Female;1
+1695;5;11560.18;2312.04;3.4;5;1;New Client;Gold;45-54;Female;2
+1696;1;1905.88;1905.88;4.0;0;0;Occasional;Silver;25-34;Male;1
+1697;5;32459.45;6491.89;3.8;5;1;New Client;Silver;55+;Male;6
+1698;2;16729.28;8364.64;3.0;2;1;Regular;Gold;18-24;Male;1
+1699;4;20467.3;5116.82;3.5;4;1;New Client;Silver;35-44;Female;5
+1700;3;2509.97;836.66;3.0;3;1;VIP;Bronze;45-54;Female;10
+1701;2;5589.36;2794.68;3.5;2;1;Regular;Gold;45-54;Female;8
+1702;7;38796.46;5542.35;2.71;7;1;Occasional;Bronze;25-34;Female;6
+1703;8;18868.8;2358.6;3.88;8;1;Regular;Gold;55+;Female;2
+1704;3;15671.33;5223.78;2.33;3;1;Regular;Gold;25-34;Male;6
+1705;4;24393.56;6098.39;4.25;4;1;Regular;Platinum;45-54;Female;5
+1706;2;26356.04;13178.02;4.0;2;1;Occasional;Bronze;25-34;Female;4
+1707;2;9499.87;4749.94;3.5;2;1;Regular;Silver;35-44;Female;1
+1708;4;12246.68;3061.67;3.25;4;1;Occasional;Silver;35-44;Female;9
+1709;2;18746.94;9373.47;2.0;2;1;VIP;Bronze;35-44;Female;4
+1710;5;21830.59;4366.12;3.6;5;1;Occasional;Bronze;25-34;Male;1
+1712;1;2022.67;2022.67;4.0;0;0;Regular;Silver;35-44;Male;4
+1713;3;13234.13;4411.38;3.67;3;1;Regular;Bronze;45-54;Female;8
+1714;5;24690.93;4938.19;3.6;5;1;Occasional;Silver;55+;Female;7
+1715;9;49893.57;5543.73;3.67;9;1;New Client;Gold;25-34;Female;7
+1716;7;41870.85;5981.55;3.71;7;1;Occasional;Gold;35-44;Male;1
+1717;5;10431.4;2086.28;3.8;5;1;VIP;Gold;25-34;Male;4
+1718;4;5576.02;1394.0;3.0;4;1;Regular;Silver;18-24;Female;5
+1719;4;12007.66;3001.92;4.75;4;1;Regular;Platinum;45-54;Female;1
+1720;3;3333.92;1111.31;4.0;3;1;New Client;Gold;35-44;Female;2
+1721;7;22658.94;3236.99;3.14;7;1;Occasional;Bronze;25-34;Male;7
+1722;5;11045.91;2209.18;3.2;5;1;Regular;Bronze;25-34;Male;1
+1723;7;31603.45;4514.78;3.57;7;1;Regular;Silver;18-24;Female;5
+1724;4;18776.65;4694.16;3.0;4;1;New Client;Silver;45-54;Female;1
+1725;7;23118.43;3302.63;4.0;7;1;Regular;Silver;55+;Female;1
+1726;7;37599.04;5371.29;3.29;7;1;Occasional;Silver;25-34;Female;1
+1727;1;1865.36;1865.36;4.0;0;0;New Client;Gold;25-34;Female;10
+1728;2;23231.36;11615.68;3.0;2;1;Occasional;Silver;55+;Female;8
+1729;1;19391.81;19391.81;3.0;0;0;New Client;Bronze;55+;Male;10
+1730;6;23531.0;3921.83;3.5;6;1;Occasional;Gold;35-44;Male;5
+1731;3;21626.25;7208.75;3.33;3;1;New Client;Bronze;18-24;Female;1
+1732;4;16319.73;4079.93;4.25;4;1;New Client;Platinum;18-24;Male;5
+1733;3;18575.39;6191.8;3.0;3;1;Regular;Bronze;35-44;Female;4
+1734;4;10831.25;2707.81;4.5;4;1;New Client;Platinum;35-44;Female;8
+1735;5;10191.47;2038.29;3.4;5;1;New Client;Bronze;18-24;Female;1
+1736;4;38503.59;9625.9;3.25;4;1;Occasional;Bronze;35-44;Female;5
+1737;3;12887.29;4295.76;3.33;3;1;Occasional;Bronze;18-24;Female;1
+1738;5;14077.25;2815.45;3.0;5;1;Regular;Gold;45-54;Female;2
+1739;4;6452.33;1613.08;3.5;4;1;Occasional;Gold;35-44;Female;7
+1740;8;44925.14;5615.64;3.0;8;1;Regular;Silver;18-24;Male;5
+1741;2;2015.04;1007.52;4.5;2;1;Regular;Platinum;35-44;Female;3
+1742;3;30260.66;10086.89;3.0;3;1;New Client;Silver;35-44;Female;3
+1743;3;42564.56;14188.19;3.33;3;1;New Client;Silver;55+;Female;4
+1744;2;1866.33;933.16;3.5;2;1;Occasional;Gold;35-44;Male;8
+1745;7;51716.54;7388.08;3.29;7;1;Occasional;Bronze;25-34;Female;9
+1746;2;13539.88;6769.94;3.0;2;1;Regular;Bronze;45-54;Male;10
+1747;6;29591.82;4931.97;3.5;6;1;Occasional;Gold;25-34;Female;8
+1748;4;14982.72;3745.68;4.0;4;1;Occasional;Gold;55+;Female;2
+1749;6;14101.89;2350.32;4.5;6;1;New Client;Platinum;35-44;Female;6
+1750;5;34272.84;6854.57;3.2;5;1;New Client;Gold;35-44;Female;4
+1751;4;41438.03;10359.51;2.5;4;1;Occasional;Bronze;18-24;Female;2
+1752;3;23091.24;7697.08;4.0;3;1;Occasional;Gold;35-44;Female;8
+1753;5;38586.78;7717.36;3.0;5;1;Occasional;Silver;45-54;Male;1
+1754;6;33944.54;5657.42;4.33;6;1;New Client;Platinum;45-54;Female;9
+1755;1;9490.51;9490.51;4.0;0;0;Regular;Silver;25-34;Female;4
+1756;2;32213.92;16106.96;4.0;2;1;Regular;Silver;25-34;Male;6
+1757;3;6820.33;2273.44;4.0;3;1;New Client;Silver;45-54;Female;6
+1758;1;1353.42;1353.42;3.0;0;0;Occasional;Bronze;55+;Male;9
+1759;3;11333.03;3777.68;3.33;3;1;VIP;Bronze;25-34;Male;6
+1760;6;39148.85;6524.81;3.67;6;1;Occasional;Gold;35-44;Female;6
+1761;5;41848.59;8369.72;3.8;5;1;Occasional;Gold;35-44;Female;1
+1762;4;20267.99;5067.0;3.25;4;1;New Client;Bronze;55+;Female;5
+1763;3;23011.04;7670.35;3.67;3;1;Regular;Gold;25-34;Male;1
+1764;3;9518.75;3172.92;3.67;3;1;New Client;Silver;25-34;Male;7
+1765;2;19083.19;9541.6;3.0;2;1;VIP;Silver;45-54;Male;5
+1766;4;13565.44;3391.36;3.5;4;1;Regular;Bronze;18-24;Male;6
+1767;3;30562.23;10187.41;3.67;3;1;Regular;Gold;35-44;Male;1
+1768;4;5716.64;1429.16;3.75;4;1;Regular;Gold;35-44;Female;1
+1769;1;7450.68;7450.68;2.0;0;0;Occasional;Silver;35-44;Female;6
+1770;3;10158.55;3386.18;3.33;3;1;Occasional;Silver;35-44;Male;1
+1771;4;14434.68;3608.67;3.25;4;1;Regular;Bronze;35-44;Female;1
+1772;8;43210.84;5401.36;3.25;8;1;VIP;Silver;25-34;Female;1
+1773;9;31461.9;3495.77;2.78;9;1;Occasional;Bronze;35-44;Male;10
+1774;3;20745.75;6915.25;3.0;3;1;VIP;Bronze;45-54;Female;7
+1775;4;23767.87;5941.97;3.25;4;1;Occasional;Silver;45-54;Male;3
+1776;5;36860.32;7372.06;3.6;5;1;Occasional;Gold;25-34;Male;2
+1777;4;15010.5;3752.62;3.25;4;1;Occasional;Silver;25-34;Female;3
+1778;2;9281.13;4640.57;3.5;2;1;New Client;Bronze;25-34;Male;7
+1779;6;38075.5;6345.92;3.67;6;1;New Client;Silver;35-44;Female;6
+1780;3;13422.56;4474.19;4.0;3;1;New Client;Gold;35-44;Female;1
+1781;2;4704.27;2352.14;4.0;2;1;Occasional;Gold;45-54;Female;1
+1782;5;18959.94;3791.99;4.2;5;1;Occasional;Gold;18-24;Female;1
+1783;6;30016.37;5002.73;3.17;6;1;Occasional;Silver;18-24;Female;6
+1784;4;41453.91;10363.48;3.75;4;1;VIP;Gold;35-44;Female;7
+1785;1;639.18;639.18;4.0;0;0;Occasional;Bronze;45-54;Female;2
+1786;3;22303.92;7434.64;3.33;3;1;Occasional;Bronze;25-34;Female;1
+1787;2;5897.52;2948.76;3.0;2;1;New Client;Silver;45-54;Male;1
+1788;3;9745.93;3248.64;3.67;3;1;New Client;Silver;25-34;Male;10
+1789;4;14827.4;3706.85;4.5;4;1;Regular;Platinum;55+;Female;2
+1790;4;14450.99;3612.75;4.25;4;1;Occasional;Gold;55+;Female;7
+1791;4;19720.8;4930.2;3.0;4;1;Regular;Bronze;25-34;Female;6
+1792;3;9722.44;3240.81;3.67;3;1;New Client;Bronze;25-34;Female;3
+1793;2;7998.93;3999.46;3.5;2;1;Occasional;Bronze;35-44;Male;1
+1794;3;5418.47;1806.16;2.67;3;1;New Client;Bronze;25-34;Male;1
+1795;3;5961.46;1987.15;3.33;3;1;New Client;Silver;45-54;Female;6
+1796;5;27782.51;5556.5;3.8;5;1;New Client;Gold;45-54;Female;7
+1797;5;26247.5;5249.5;4.4;5;1;New Client;Platinum;45-54;Female;6
+1798;6;23622.26;3937.04;3.67;6;1;Occasional;Silver;45-54;Male;5
+1799;4;27471.56;6867.89;3.75;4;1;New Client;Gold;35-44;Female;1
+1800;3;6185.58;2061.86;3.67;3;1;VIP;Silver;25-34;Male;10
+1801;2;3338.93;1669.46;3.0;2;1;Occasional;Bronze;45-54;Male;8
+1802;4;5882.55;1470.64;3.5;4;1;New Client;Silver;35-44;Female;2
+1803;5;24963.89;4992.78;3.4;5;1;New Client;Silver;45-54;Female;10
+1804;5;24862.22;4972.44;4.0;5;1;Occasional;Gold;25-34;Male;6
+1805;2;15581.17;7790.58;3.0;2;1;New Client;Bronze;25-34;Female;6
+1806;5;37625.56;7525.11;3.6;5;1;Regular;Bronze;55+;Female;7
+1807;4;13637.88;3409.47;3.75;4;1;VIP;Bronze;25-34;Female;8
+1808;3;49005.16;16335.05;4.67;3;1;New Client;Platinum;55+;Male;6
+1809;4;14266.89;3566.72;3.5;4;1;Occasional;Silver;55+;Male;1
+1810;8;22697.33;2837.17;4.0;8;1;New Client;Gold;45-54;Male;3
+1811;5;15441.64;3088.33;3.6;5;1;Regular;Gold;45-54;Male;9
+1812;5;28613.57;5722.71;3.0;5;1;Occasional;Bronze;35-44;Male;1
+1813;3;22703.02;7567.67;3.67;3;1;New Client;Silver;55+;Male;3
+1814;7;20211.52;2887.36;3.71;7;1;New Client;Gold;25-34;Female;4
+1815;4;37489.44;9372.36;2.75;4;1;Regular;Silver;35-44;Female;4
+1816;1;620.41;620.41;5.0;0;0;Occasional;Platinum;45-54;Male;6
+1817;4;26503.8;6625.95;3.25;4;1;New Client;Bronze;35-44;Male;10
+1818;5;51582.59;10316.52;3.2;5;1;Regular;Bronze;35-44;Male;1
+1819;4;14812.73;3703.18;3.5;4;1;Occasional;Gold;35-44;Female;1
+1820;3;16197.83;5399.28;3.67;3;1;Regular;Gold;35-44;Male;1
+1821;3;12686.26;4228.75;4.33;3;1;New Client;Platinum;45-54;Male;9
+1822;5;5546.64;1109.33;3.2;5;1;Regular;Silver;25-34;Female;6
+1823;5;42917.09;8583.42;3.8;5;1;Regular;Platinum;55+;Female;2
+1824;4;37760.79;9440.2;3.75;4;1;New Client;Gold;45-54;Female;8
+1825;4;17627.99;4407.0;3.75;4;1;Regular;Gold;45-54;Female;8
+1826;8;47947.46;5993.43;3.5;8;1;Occasional;Silver;35-44;Female;8
+1827;6;8497.84;1416.31;3.17;6;1;VIP;Silver;45-54;Female;9
+1828;4;13153.36;3288.34;4.25;4;1;New Client;Platinum;18-24;Female;2
+1829;5;16170.5;3234.1;3.2;5;1;Regular;Silver;45-54;Male;7
+1830;1;1348.49;1348.49;3.0;0;0;Occasional;Silver;18-24;Male;4
+1831;4;40514.85;10128.71;3.25;4;1;VIP;Silver;55+;Male;8
+1832;3;12114.29;4038.1;3.33;3;1;Occasional;Silver;55+;Female;6
+1833;2;9531.35;4765.68;3.0;2;1;VIP;Silver;25-34;Female;7
+1834;5;19894.01;3978.8;3.4;5;1;VIP;Bronze;25-34;Male;6
+1835;1;8684.67;8684.67;4.0;0;0;New Client;Gold;45-54;Female;1
+1836;4;9817.79;2454.45;4.0;4;1;Regular;Silver;25-34;Male;5
+1837;6;30431.66;5071.94;3.33;6;1;VIP;Silver;55+;Male;10
+1838;4;5897.96;1474.49;2.75;4;1;New Client;Bronze;25-34;Female;9
+1839;3;24634.25;8211.42;3.33;3;1;Occasional;Bronze;25-34;Male;1
+1840;6;45491.68;7581.95;2.67;6;1;Occasional;Bronze;55+;Female;1
+1841;5;22197.38;4439.48;4.0;5;1;New Client;Gold;45-54;Female;1
+1842;6;28078.7;4679.78;2.67;6;1;New Client;Bronze;45-54;Male;6
+1843;12;56478.16;4706.51;4.17;12;1;New Client;Gold;35-44;Female;8
+1845;3;7597.97;2532.66;3.0;3;1;Occasional;Bronze;35-44;Female;5
+1846;5;15269.28;3053.86;2.4;5;1;New Client;Bronze;35-44;Female;8
+1847;5;25062.22;5012.44;3.2;5;1;Regular;Bronze;45-54;Male;7
+1848;6;31547.32;5257.89;3.83;6;1;Regular;Gold;35-44;Male;5
+1849;6;52203.77;8700.63;4.17;6;1;New Client;Gold;35-44;Female;6
+1850;4;53436.3;13359.08;4.0;4;1;Regular;Silver;25-34;Female;5
+1851;2;16698.35;8349.17;3.0;2;1;Regular;Bronze;45-54;Male;2
+1852;3;32211.96;10737.32;3.0;3;1;VIP;Bronze;25-34;Female;6
+1853;5;28127.35;5625.47;2.8;5;1;New Client;Silver;45-54;Male;6
+1854;3;22535.86;7511.95;4.67;3;1;New Client;Platinum;25-34;Female;8
+1855;6;32590.13;5431.69;3.0;6;1;VIP;Bronze;45-54;Male;6
+1856;6;17216.6;2869.43;3.67;6;1;VIP;Gold;45-54;Male;7
+1857;3;6208.64;2069.55;3.67;3;1;Regular;Silver;25-34;Female;1
+1858;4;11360.07;2840.02;3.0;4;1;Regular;Bronze;18-24;Female;4
+1859;3;11497.6;3832.53;4.0;3;1;New Client;Silver;25-34;Male;1
+1860;4;18759.4;4689.85;3.0;4;1;Occasional;Bronze;35-44;Female;1
+1861;5;65274.56;13054.91;3.2;5;1;New Client;Gold;45-54;Male;6
+1862;3;7123.24;2374.41;3.33;3;1;New Client;Bronze;18-24;Female;10
+1863;4;25596.29;6399.07;3.75;4;1;Regular;Gold;45-54;Female;1
+1864;6;20199.41;3366.57;3.17;6;1;New Client;Bronze;35-44;Female;4
+1865;5;13044.25;2608.85;4.8;5;1;Occasional;Platinum;35-44;Male;8
+1866;6;24795.9;4132.65;3.17;6;1;VIP;Bronze;55+;Female;1
+1867;4;12794.84;3198.71;4.0;4;1;New Client;Gold;35-44;Male;6
+1868;6;32100.88;5350.15;4.17;6;1;VIP;Gold;35-44;Male;7
+1869;3;18223.73;6074.58;4.33;3;1;VIP;Platinum;18-24;Female;6
+1870;4;5187.87;1296.97;3.25;4;1;Occasional;Silver;25-34;Female;1
+1871;5;16681.04;3336.21;3.6;5;1;New Client;Gold;25-34;Male;3
+1872;2;20155.6;10077.8;2.0;2;1;Occasional;Bronze;18-24;Female;8
+1873;5;14563.12;2912.62;2.8;5;1;Occasional;Bronze;45-54;Male;6
+1874;6;20996.94;3499.49;3.17;6;1;Occasional;Silver;35-44;Female;1
+1875;5;10957.11;2191.42;3.2;5;1;New Client;Bronze;35-44;Female;7
+1876;2;6991.73;3495.86;4.5;2;1;VIP;Platinum;25-34;Male;1
+1877;6;26036.08;4339.35;3.5;6;1;New Client;Bronze;25-34;Female;7
+1878;5;19527.84;3905.57;2.8;5;1;Regular;Silver;45-54;Female;1
+1879;1;1339.21;1339.21;4.0;0;0;New Client;Silver;55+;Female;10
+1880;2;3399.63;1699.82;3.0;2;1;Occasional;Silver;18-24;Female;3
+1881;3;8784.81;2928.27;3.67;3;1;VIP;Silver;55+;Female;2
+1882;3;5879.39;1959.8;3.33;3;1;New Client;Bronze;35-44;Male;1
+1884;1;4028.85;4028.85;4.0;0;0;Regular;Bronze;35-44;Female;8
+1885;4;5387.53;1346.88;4.5;4;1;Regular;Platinum;25-34;Male;10
+1886;2;11382.92;5691.46;4.5;2;1;Regular;Gold;25-34;Female;3
+1887;4;18705.99;4676.5;4.25;4;1;Occasional;Platinum;35-44;Female;4
+1888;12;41727.5;3477.29;3.5;12;1;New Client;Bronze;35-44;Male;6
+1889;3;38275.34;12758.45;3.33;3;1;VIP;Bronze;55+;Male;9
+1890;4;12724.68;3181.17;3.25;4;1;VIP;Bronze;35-44;Female;6
+1891;4;15555.69;3888.92;3.0;4;1;Occasional;Bronze;25-34;Male;3
+1892;3;19590.78;6530.26;2.67;3;1;Regular;Bronze;45-54;Female;4
+1893;5;8170.69;1634.14;3.8;5;1;Occasional;Silver;25-34;Male;6
+1894;4;18814.14;4703.54;3.0;4;1;Occasional;Bronze;35-44;Female;1
+1895;5;33360.95;6672.19;3.8;5;1;New Client;Silver;45-54;Female;6
+1896;1;566.97;566.97;4.0;0;0;Occasional;Gold;55+;Female;3
+1897;8;35229.67;4403.71;3.62;8;1;Occasional;Silver;45-54;Female;8
+1898;5;7328.43;1465.69;3.4;5;1;New Client;Silver;45-54;Female;1
+1899;2;22591.42;11295.71;2.5;2;1;Occasional;Bronze;45-54;Male;6
+1900;4;44461.94;11115.48;3.5;4;1;Regular;Silver;55+;Female;5
+1901;3;13691.03;4563.68;2.67;3;1;Regular;Bronze;25-34;Female;6
+1902;4;14049.81;3512.45;3.25;4;1;Regular;Silver;18-24;Female;1
+1903;4;31758.21;7939.55;3.0;4;1;VIP;Bronze;25-34;Female;6
+1904;8;53762.0;6720.25;3.88;8;1;New Client;Gold;25-34;Male;6
+1905;3;9546.96;3182.32;3.33;3;1;Occasional;Gold;45-54;Female;6
+1906;3;5091.0;1697.0;3.33;3;1;Regular;Silver;45-54;Female;6
+1907;3;19267.13;6422.38;3.0;3;1;Occasional;Bronze;35-44;Female;6
+1908;3;7573.18;2524.39;3.0;3;1;Occasional;Bronze;18-24;Male;8
+1909;3;27690.48;9230.16;3.33;3;1;New Client;Gold;45-54;Female;2
+1910;3;8059.84;2686.61;4.0;3;1;VIP;Silver;35-44;Female;8
+1911;5;22650.71;4530.14;3.0;5;1;Occasional;Bronze;45-54;Female;5
+1912;3;9867.08;3289.03;3.67;3;1;Regular;Bronze;35-44;Female;1
+1913;3;11444.74;3814.91;3.33;3;1;Occasional;Bronze;35-44;Female;1
+1914;3;5916.32;1972.11;3.67;3;1;Regular;Gold;25-34;Male;3
+1915;2;7836.68;3918.34;3.0;2;1;Regular;Bronze;25-34;Male;8
+1916;4;30133.95;7533.49;3.25;4;1;Regular;Silver;45-54;Male;6
+1917;5;23117.06;4623.41;3.0;5;1;Occasional;Silver;55+;Female;8
+1918;5;11847.93;2369.59;3.4;5;1;Occasional;Silver;45-54;Female;5
+1919;5;10673.27;2134.65;3.8;5;1;Regular;Gold;25-34;Female;4
+1920;3;24554.08;8184.69;3.67;3;1;Occasional;Gold;35-44;Male;1
+1921;2;2816.82;1408.41;3.0;2;1;Occasional;Silver;45-54;Male;2
+1922;2;9695.22;4847.61;3.0;2;1;New Client;Bronze;45-54;Male;4
+1923;5;20542.33;4108.47;3.8;5;1;VIP;Silver;25-34;Female;1
+1924;2;8327.6;4163.8;3.5;2;1;New Client;Silver;18-24;Female;1
+1925;6;7331.66;1221.94;3.0;6;1;Regular;Silver;45-54;Female;6
+1926;8;53107.5;6638.44;3.75;8;1;Occasional;Silver;35-44;Female;7
+1927;5;21085.05;4217.01;3.0;5;1;Occasional;Bronze;25-34;Male;10
+1928;5;38130.68;7626.14;3.2;5;1;Regular;Silver;18-24;Male;9
+1929;5;28133.11;5626.62;3.2;5;1;New Client;Bronze;35-44;Female;6
+1930;7;29186.47;4169.5;3.29;7;1;Occasional;Gold;45-54;Female;4
+1931;3;14141.74;4713.91;3.0;3;1;Regular;Bronze;55+;Male;6
+1932;2;4058.57;2029.28;3.5;2;1;Regular;Gold;35-44;Male;8
+1933;7;36948.71;5278.39;3.57;7;1;New Client;Bronze;35-44;Female;1
+1934;4;12055.23;3013.81;3.5;4;1;VIP;Silver;25-34;Female;4
+1935;6;24714.16;4119.03;3.83;6;1;Regular;Gold;35-44;Female;8
+1936;3;14859.72;4953.24;3.67;3;1;VIP;Bronze;35-44;Female;3
+1937;4;20786.65;5196.66;3.5;4;1;Occasional;Gold;35-44;Female;6
+1938;5;21933.4;4386.68;3.8;5;1;Occasional;Silver;35-44;Male;6
+1939;5;17649.88;3529.98;3.6;5;1;VIP;Silver;25-34;Female;1
+1940;6;25120.39;4186.73;2.83;6;1;VIP;Bronze;25-34;Female;3
+1941;4;20305.12;5076.28;3.25;4;1;Occasional;Silver;35-44;Female;3
+1942;4;24287.33;6071.83;3.75;4;1;New Client;Silver;25-34;Male;1
+1943;6;45686.62;7614.44;4.0;6;1;Occasional;Silver;25-34;Male;1
+1944;3;6783.98;2261.33;3.0;3;1;Occasional;Silver;55+;Female;8
+1945;4;33077.0;8269.25;3.5;4;1;New Client;Silver;35-44;Male;2
+1946;3;12722.79;4240.93;3.33;3;1;New Client;Bronze;35-44;Male;5
+1947;7;15773.33;2253.33;3.14;7;1;Regular;Bronze;55+;Female;2
+1948;2;9008.77;4504.38;3.5;2;1;New Client;Bronze;55+;Female;10
+1949;5;10914.32;2182.86;2.6;5;1;Regular;Bronze;35-44;Male;2
+1950;3;16424.84;5474.95;4.0;3;1;New Client;Gold;45-54;Male;4
+1951;1;8238.12;8238.12;5.0;0;0;Occasional;Gold;35-44;Male;8
+1952;2;8203.55;4101.77;3.0;2;1;New Client;Bronze;35-44;Male;8
+1953;6;23737.84;3956.31;4.67;6;1;New Client;Platinum;35-44;Male;1
+1954;3;17967.38;5989.13;3.33;3;1;Regular;Silver;45-54;Female;8
+1955;3;12788.34;4262.78;4.0;3;1;VIP;Gold;45-54;Female;4
+1956;4;22216.77;5554.19;3.25;4;1;New Client;Gold;35-44;Female;5
+1957;5;30218.09;6043.62;3.6;5;1;Occasional;Gold;25-34;Female;1
+1958;5;16158.01;3231.6;3.4;5;1;Occasional;Bronze;45-54;Male;1
+1959;5;21076.1;4215.22;3.4;5;1;Regular;Bronze;25-34;Female;6
+1960;3;32003.96;10667.99;3.33;3;1;Regular;Bronze;35-44;Male;5
+1961;5;8224.36;1644.87;3.2;5;1;Occasional;Gold;45-54;Female;4
+1962;3;3553.17;1184.39;2.67;3;1;Regular;Bronze;45-54;Female;6
+1963;2;2499.36;1249.68;3.5;2;1;Regular;Gold;45-54;Female;7
+1964;9;59264.74;6584.97;3.22;9;1;New Client;Bronze;55+;Female;1
+1965;4;13261.71;3315.43;4.5;4;1;Occasional;Gold;35-44;Male;6
+1966;5;27897.82;5579.56;3.0;5;1;VIP;Bronze;45-54;Male;1
+1967;3;9438.39;3146.13;3.33;3;1;Regular;Bronze;45-54;Male;7
+1968;12;69225.33;5768.78;3.17;12;1;Occasional;Bronze;25-34;Female;6
+1969;1;3835.93;3835.93;4.0;0;0;Occasional;Silver;18-24;Female;10
+1970;7;18825.59;2689.37;3.14;7;1;Occasional;Bronze;25-34;Female;1
+1971;10;42897.96;4289.8;3.9;10;1;Occasional;Gold;35-44;Female;1
+1972;7;25625.64;3660.81;3.14;7;1;Regular;Bronze;45-54;Male;2
+1973;3;30706.25;10235.42;3.67;3;1;Occasional;Bronze;45-54;Male;2
+1974;3;21319.21;7106.4;3.33;3;1;Regular;Gold;25-34;Male;1
+1975;1;1243.47;1243.47;4.0;0;0;Regular;Bronze;25-34;Female;9
+1976;3;17665.36;5888.45;3.67;3;1;New Client;Platinum;55+;Male;1
+1977;4;40368.21;10092.05;4.75;4;1;Occasional;Platinum;25-34;Female;2
+1978;8;43305.77;5413.22;2.88;8;1;Occasional;Bronze;35-44;Male;7
+1979;3;15416.04;5138.68;3.0;3;1;Regular;Bronze;35-44;Female;4
+1980;4;11788.07;2947.02;3.5;4;1;New Client;Bronze;35-44;Female;7
+1981;3;21502.05;7167.35;3.67;3;1;Regular;Gold;25-34;Female;1
+1982;3;6315.18;2105.06;3.67;3;1;Regular;Silver;18-24;Male;5
+1983;6;14114.8;2352.47;3.33;6;1;Occasional;Silver;25-34;Female;1
+1984;3;22545.86;7515.29;3.67;3;1;VIP;Gold;35-44;Female;1
+1985;5;13047.05;2609.41;3.6;5;1;VIP;Bronze;35-44;Male;9
+1986;4;7301.39;1825.35;4.0;4;1;New Client;Gold;25-34;Female;1
+1987;5;46937.84;9387.57;3.6;5;1;New Client;Gold;45-54;Female;5
+1988;6;50657.39;8442.9;3.5;6;1;VIP;Silver;45-54;Female;4
+1989;3;53955.74;17985.25;4.67;3;1;VIP;Gold;18-24;Female;3
+1990;3;17497.77;5832.59;4.0;3;1;New Client;Gold;35-44;Male;9
+1991;3;26159.23;8719.74;3.0;3;1;New Client;Bronze;45-54;Male;1
+1992;1;2492.52;2492.52;3.0;0;0;New Client;Silver;25-34;Female;6
+1993;1;8449.53;8449.53;4.0;0;0;VIP;Silver;35-44;Male;10
+1994;6;14088.7;2348.12;3.17;6;1;New Client;Bronze;45-54;Female;6
+1995;5;27718.23;5543.65;3.8;5;1;Occasional;Platinum;55+;Female;9
+1996;5;19263.49;3852.7;2.6;5;1;Regular;Bronze;45-54;Female;1
+1997;7;62309.01;8901.29;3.29;7;1;New Client;Silver;35-44;Female;4
+1998;1;400.18;400.18;4.0;0;0;Regular;Silver;45-54;Female;2
+1999;3;34570.54;11523.51;2.67;3;1;New Client;Bronze;35-44;Male;7
+2000;5;19228.27;3845.65;4.4;5;1;Regular;Platinum;45-54;Male;10
+2001;4;6228.47;1557.12;4.25;4;1;New Client;Gold;35-44;Female;2
+2002;4;31859.76;7964.94;3.25;4;1;Regular;Silver;25-34;Male;6
+2003;6;27768.21;4628.04;3.0;6;1;Regular;Bronze;45-54;Male;1
+2004;3;2401.61;800.54;3.67;3;1;New Client;Bronze;35-44;Male;6
+2005;5;22357.88;4471.58;3.0;5;1;New Client;Bronze;35-44;Male;4
+2006;2;14839.78;7419.89;3.0;2;1;Occasional;Bronze;55+;Female;10
+2007;4;10467.0;2616.75;3.5;4;1;New Client;Silver;18-24;Male;6
+2008;7;50550.36;7221.48;4.0;7;1;Regular;Platinum;35-44;Female;3
+2009;3;17777.74;5925.91;2.67;3;1;Regular;Silver;18-24;Female;1
+2010;5;20226.36;4045.27;4.0;5;1;Occasional;Gold;45-54;Female;1
+2011;4;33579.4;8394.85;3.75;4;1;Regular;Silver;45-54;Female;1
+2012;3;12783.87;4261.29;2.67;3;1;Regular;Silver;35-44;Female;2
+2013;2;19486.21;9743.1;3.0;2;1;Regular;Gold;45-54;Female;8
+2014;5;17512.96;3502.59;4.0;5;1;Occasional;Silver;35-44;Female;6
+2015;3;7947.12;2649.04;4.0;3;1;New Client;Gold;45-54;Male;5
+2016;1;1840.13;1840.13;3.0;0;0;New Client;Bronze;35-44;Female;1
+2017;2;37372.48;18686.24;3.0;2;1;Occasional;Bronze;35-44;Male;8
+2018;3;19711.93;6570.64;4.0;3;1;Occasional;Gold;55+;Female;6
+2019;5;9580.04;1916.01;4.0;5;1;Occasional;Silver;25-34;Male;1
+2020;7;43870.25;6267.18;4.29;7;1;New Client;Gold;25-34;Female;6
+2021;4;5833.89;1458.47;4.25;4;1;Regular;Platinum;35-44;Female;5
+2022;8;25012.25;3126.53;2.88;8;1;New Client;Bronze;55+;Female;1
+2023;2;5147.18;2573.59;3.0;2;1;New Client;Silver;35-44;Male;4
+2024;2;9089.38;4544.69;2.5;2;1;Occasional;Bronze;25-34;Male;5
+2025;6;11015.88;1835.98;3.33;6;1;New Client;Silver;35-44;Female;1
+2026;9;30828.86;3425.43;4.0;9;1;Occasional;Gold;35-44;Female;10
+2027;5;44032.51;8806.5;2.8;5;1;Occasional;Bronze;25-34;Male;8
+2028;6;12749.22;2124.87;3.17;6;1;Occasional;Silver;45-54;Female;6
+2029;8;57685.41;7210.68;4.12;8;1;Occasional;Gold;55+;Male;4
+2030;5;14155.62;2831.12;2.8;5;1;New Client;Bronze;35-44;Female;4
+2031;6;34080.57;5680.1;3.83;6;1;New Client;Gold;35-44;Female;6
+2032;4;25320.33;6330.08;3.25;4;1;VIP;Silver;35-44;Female;5
+2033;2;9125.14;4562.57;3.5;2;1;Occasional;Platinum;25-34;Female;1
+2034;2;17119.85;8559.92;3.0;2;1;Occasional;Bronze;55+;Male;5
+2035;5;14409.7;2881.94;2.6;5;1;New Client;Bronze;35-44;Male;8
+2036;6;40879.61;6813.27;3.0;6;1;Occasional;Silver;35-44;Female;4
+2037;5;24298.34;4859.67;3.0;5;1;Occasional;Bronze;45-54;Male;1
+2038;2;4726.19;2363.09;4.0;2;1;Occasional;Platinum;35-44;Female;8
+2039;4;12127.79;3031.95;2.75;4;1;Regular;Bronze;45-54;Female;1
+2040;5;49706.46;9941.29;3.6;5;1;New Client;Gold;25-34;Female;2
+2041;5;39550.77;7910.15;3.4;5;1;New Client;Silver;45-54;Male;1
+2042;3;13630.84;4543.61;3.67;3;1;Regular;Bronze;55+;Male;3
+2043;5;45969.75;9193.95;3.2;5;1;VIP;Bronze;45-54;Male;7
+2044;2;4194.2;2097.1;2.5;2;1;New Client;Silver;55+;Male;5
+2045;6;18456.09;3076.02;3.33;6;1;Occasional;Silver;25-34;Male;1
+2046;9;28881.08;3209.01;2.89;9;1;New Client;Bronze;35-44;Male;8
+2047;4;5658.17;1414.54;3.75;4;1;New Client;Gold;35-44;Male;8
+2048;4;22757.93;5689.48;3.5;4;1;Occasional;Bronze;35-44;Male;8
+2049;5;19913.37;3982.67;3.2;5;1;New Client;Silver;35-44;Female;1
+2050;2;5077.76;2538.88;4.0;2;1;Regular;Silver;35-44;Female;4
+2051;4;3030.88;757.72;2.5;4;1;Occasional;Bronze;25-34;Female;10
+2052;5;21365.6;4273.12;3.8;5;1;New Client;Platinum;35-44;Female;7
+2053;3;20794.8;6931.6;3.33;3;1;New Client;Bronze;25-34;Male;1
+2054;2;29846.24;14923.12;3.0;2;1;Regular;Bronze;45-54;Female;1
+2055;6;28771.41;4795.23;3.67;6;1;New Client;Silver;25-34;Male;4
+2056;2;7099.18;3549.59;3.5;2;1;Regular;Silver;18-24;Female;9
+2057;6;31182.27;5197.04;3.5;6;1;Occasional;Silver;35-44;Female;5
+2058;7;15784.94;2254.99;4.14;7;1;Occasional;Silver;35-44;Female;5
+2059;4;18817.11;4704.28;2.5;4;1;Occasional;Bronze;55+;Male;1
+2060;5;35061.53;7012.31;3.2;5;1;New Client;Bronze;35-44;Female;6
+2061;1;3108.77;3108.77;4.0;0;0;New Client;Gold;35-44;Female;8
+2062;1;2620.71;2620.71;3.0;0;0;New Client;Bronze;45-54;Male;3
+2063;3;18327.78;6109.26;4.0;3;1;Occasional;Gold;35-44;Male;7
+2064;6;51969.86;8661.64;3.0;6;1;Regular;Bronze;25-34;Female;10
+2065;7;23021.57;3288.8;3.71;7;1;New Client;Gold;35-44;Female;1
+2066;6;24770.93;4128.49;3.33;6;1;New Client;Bronze;55+;Female;5
+2067;6;34883.83;5813.97;3.33;6;1;Occasional;Silver;35-44;Male;2
+2068;1;387.21;387.21;5.0;0;0;Regular;Bronze;25-34;Female;8
+2069;3;7015.93;2338.64;3.0;3;1;VIP;Bronze;25-34;Female;6
+2070;5;24983.68;4996.74;3.2;5;1;Occasional;Bronze;25-34;Female;6
+2071;2;12896.57;6448.28;3.5;2;1;Occasional;Bronze;35-44;Female;8
+2072;3;7391.88;2463.96;3.67;3;1;Occasional;Bronze;35-44;Male;3
+2073;6;12763.01;2127.17;3.67;6;1;VIP;Silver;25-34;Female;9
+2074;1;8716.41;8716.41;4.0;0;0;Regular;Silver;55+;Female;5
+2075;5;20530.69;4106.14;3.4;5;1;Occasional;Gold;45-54;Female;1
+2076;4;12405.85;3101.46;3.75;4;1;New Client;Silver;35-44;Female;6
+2077;6;21954.13;3659.02;3.33;6;1;New Client;Silver;45-54;Female;8
+2078;3;6932.35;2310.78;3.67;3;1;Occasional;Silver;25-34;Male;2
+2079;8;49586.16;6198.27;3.38;8;1;Regular;Silver;35-44;Male;8
+2080;5;19120.83;3824.17;3.8;5;1;Occasional;Silver;45-54;Male;9
+2081;5;24865.82;4973.16;3.6;5;1;New Client;Gold;45-54;Male;2
+2082;7;62721.34;8960.19;3.14;7;1;Regular;Bronze;45-54;Male;10
+2083;5;17438.15;3487.63;3.6;5;1;Regular;Bronze;25-34;Female;1
+2084;6;36662.04;6110.34;3.0;6;1;New Client;Silver;55+;Male;1
+2085;4;8322.59;2080.65;3.0;4;1;Regular;Bronze;25-34;Male;1
+2086;3;12612.01;4204.0;4.0;3;1;Occasional;Gold;55+;Male;9
+2087;3;14523.08;4841.03;4.0;3;1;VIP;Gold;55+;Female;6
+2088;3;6302.95;2100.98;3.33;3;1;Regular;Bronze;25-34;Female;1
+2089;4;13286.45;3321.61;3.75;4;1;Occasional;Bronze;45-54;Male;4
+2090;3;7994.95;2664.98;3.0;3;1;Regular;Silver;18-24;Male;6
+2091;5;8486.1;1697.22;2.6;5;1;VIP;Silver;35-44;Male;1
+2092;3;10303.8;3434.6;2.67;3;1;Occasional;Bronze;35-44;Female;9
+2093;3;19373.89;6457.96;4.0;3;1;Occasional;Gold;35-44;Female;8
+2094;3;4825.6;1608.53;4.0;3;1;Regular;Silver;55+;Female;5
+2095;2;18022.23;9011.12;2.0;2;1;New Client;Bronze;45-54;Male;10
+2096;4;35572.67;8893.17;3.0;4;1;Occasional;Bronze;35-44;Female;4
+2097;5;17202.35;3440.47;4.0;5;1;Regular;Gold;45-54;Female;10
+2098;4;26065.1;6516.28;3.0;4;1;Regular;Bronze;55+;Male;6
+2099;2;7117.18;3558.59;4.0;2;1;Occasional;Gold;18-24;Female;6
+2100;8;38538.97;4817.37;3.5;8;1;New Client;Silver;55+;Male;1
+2101;5;40909.82;8181.96;3.6;5;1;Occasional;Silver;25-34;Female;9
+2102;6;15981.7;2663.62;3.67;6;1;New Client;Gold;45-54;Male;4
+2103;3;8511.82;2837.27;3.67;3;1;New Client;Gold;25-34;Female;1
+2104;6;41308.18;6884.7;2.67;6;1;Regular;Bronze;25-34;Male;1
+2105;5;52192.96;10438.59;3.2;5;1;New Client;Bronze;35-44;Male;6
+2106;6;34072.95;5678.83;4.17;6;1;Occasional;Gold;45-54;Female;5
+2107;3;22990.96;7663.65;3.0;3;1;Occasional;Silver;35-44;Female;6
+2108;2;3610.07;1805.04;3.5;2;1;VIP;Bronze;18-24;Female;9
+2109;3;7119.33;2373.11;3.0;3;1;Occasional;Gold;35-44;Male;1
+2110;5;19702.61;3940.52;3.4;5;1;New Client;Bronze;55+;Male;7
+2111;3;3546.7;1182.23;4.0;3;1;New Client;Bronze;35-44;Female;1
+2112;2;4265.99;2133.0;3.0;2;1;Occasional;Bronze;25-34;Male;8
+2113;3;7377.28;2459.09;3.0;3;1;Occasional;Silver;35-44;Female;8
+2114;7;36789.46;5255.64;2.86;7;1;Occasional;Silver;18-24;Male;5
+2115;8;21222.43;2652.8;2.88;8;1;Occasional;Bronze;45-54;Male;6
+2116;3;3902.36;1300.79;3.33;3;1;New Client;Bronze;45-54;Female;2
+2117;3;10127.79;3375.93;3.33;3;1;Occasional;Bronze;35-44;Female;5
+2118;4;55563.69;13890.92;3.75;4;1;Occasional;Silver;35-44;Female;8
+2119;3;13411.93;4470.64;3.33;3;1;New Client;Bronze;45-54;Female;4
+2120;1;18137.66;18137.66;5.0;0;0;New Client;Platinum;35-44;Female;3
+2121;4;28081.93;7020.48;3.5;4;1;New Client;Bronze;45-54;Female;5
+2122;8;54142.44;6767.8;4.0;8;1;New Client;Platinum;45-54;Female;8
+2123;6;58860.05;9810.01;3.17;6;1;Regular;Bronze;45-54;Female;3
+2124;1;6799.14;6799.14;3.0;0;0;New Client;Gold;35-44;Female;1
+2125;7;38169.08;5452.73;3.14;7;1;New Client;Bronze;35-44;Male;6
+2126;7;16748.99;2392.71;3.57;7;1;New Client;Bronze;55+;Female;8
+2127;5;31618.3;6323.66;3.8;5;1;VIP;Gold;35-44;Male;1
+2128;4;20028.48;5007.12;3.5;4;1;Regular;Gold;35-44;Male;1
+2129;2;4876.97;2438.48;3.0;2;1;New Client;Silver;25-34;Female;1
+2130;3;5880.94;1960.31;4.0;3;1;Occasional;Gold;45-54;Female;3
+2131;4;20408.46;5102.12;3.25;4;1;New Client;Silver;35-44;Male;4
+2132;5;25475.44;5095.09;3.8;5;1;Occasional;Gold;25-34;Male;7
+2133;7;32910.13;4701.45;3.14;7;1;New Client;Bronze;18-24;Female;6
+2134;5;18319.9;3663.98;3.4;5;1;Regular;Silver;35-44;Female;6
+2135;10;36166.44;3616.64;3.3;10;1;Occasional;Silver;45-54;Female;3
+2136;5;28152.56;5630.51;3.6;5;1;VIP;Bronze;35-44;Female;8
+2137;4;17097.45;4274.36;3.75;4;1;New Client;Gold;25-34;Female;5
+2138;6;37410.76;6235.13;3.5;6;1;Regular;Bronze;45-54;Female;10
+2139;4;16273.06;4068.26;3.75;4;1;Regular;Bronze;25-34;Male;6
+2140;2;9776.49;4888.24;3.0;2;1;New Client;Silver;35-44;Female;1
+2141;1;8508.96;8508.96;4.0;0;0;Occasional;Silver;25-34;Female;6
+2143;4;8551.06;2137.76;3.5;4;1;New Client;Silver;25-34;Female;6
+2144;4;17735.27;4433.82;4.5;4;1;New Client;Platinum;35-44;Female;1
+2145;8;35487.16;4435.9;3.25;8;1;Occasional;Bronze;18-24;Female;1
+2146;4;28299.05;7074.76;3.5;4;1;Occasional;Silver;35-44;Male;8
+2147;4;21068.87;5267.22;4.25;4;1;VIP;Gold;35-44;Female;1
+2148;5;19106.96;3821.39;3.8;5;1;New Client;Silver;35-44;Male;8
+2149;4;17787.68;4446.92;4.5;4;1;VIP;Platinum;35-44;Male;2
+2150;3;9232.01;3077.34;4.33;3;1;New Client;Gold;45-54;Female;6
+2151;3;10843.35;3614.45;3.67;3;1;Regular;Silver;25-34;Female;6
+2152;5;20697.74;4139.55;4.0;5;1;Occasional;Silver;35-44;Female;5
+2153;2;9003.9;4501.95;3.5;2;1;New Client;Silver;25-34;Male;2
+2154;1;6569.55;6569.55;3.0;0;0;Regular;Silver;25-34;Male;1
+2155;7;19953.38;2850.48;4.0;7;1;Occasional;Gold;35-44;Male;1
+2156;5;34632.73;6926.55;3.4;5;1;Regular;Bronze;35-44;Female;2
+2157;7;28897.34;4128.19;3.14;7;1;Occasional;Bronze;55+;Male;6
+2158;3;5984.02;1994.67;3.33;3;1;Occasional;Bronze;35-44;Female;9
+2159;4;9742.98;2435.74;3.5;4;1;Occasional;Bronze;55+;Female;8
+2160;5;15668.23;3133.65;3.4;5;1;Regular;Bronze;18-24;Female;7
+2161;7;15508.55;2215.51;3.86;7;1;New Client;Gold;25-34;Female;8
+2162;6;38069.71;6344.95;3.5;6;1;Regular;Silver;18-24;Male;6
+2163;5;18491.8;3698.36;3.4;5;1;VIP;Silver;25-34;Female;2
+2164;6;32649.76;5441.63;3.33;6;1;New Client;Silver;35-44;Female;9
+2165;1;2928.49;2928.49;4.0;0;0;New Client;Gold;45-54;Female;6
+2166;4;18639.58;4659.89;3.75;4;1;Regular;Silver;18-24;Male;6
+2167;3;12004.1;4001.37;3.67;3;1;Occasional;Gold;55+;Male;1
+2168;5;45958.44;9191.69;3.2;5;1;Occasional;Bronze;45-54;Female;4
+2169;1;835.04;835.04;5.0;0;0;New Client;Platinum;25-34;Female;4
+2170;1;5880.01;5880.01;4.0;0;0;Occasional;Silver;25-34;Female;8
+2171;4;10558.97;2639.74;2.5;4;1;New Client;Bronze;25-34;Male;5
+2172;1;2860.79;2860.79;3.0;0;0;Occasional;Silver;25-34;Male;3
+2173;4;7178.32;1794.58;3.0;4;1;Regular;Silver;25-34;Female;10
+2174;5;18974.18;3794.84;3.8;5;1;New Client;Bronze;35-44;Male;1
+2175;2;6959.38;3479.69;3.0;2;1;Occasional;Silver;25-34;Female;4
+2176;3;8677.82;2892.61;4.0;3;1;VIP;Bronze;35-44;Male;1
+2177;3;10909.07;3636.36;3.33;3;1;Regular;Bronze;55+;Female;7
+2178;3;7311.58;2437.19;4.67;3;1;Regular;Platinum;45-54;Female;9
+2179;5;27740.28;5548.06;3.4;5;1;Occasional;Silver;55+;Female;2
+2180;2;2207.32;1103.66;2.5;2;1;Regular;Gold;25-34;Female;8
+2181;8;44419.05;5552.38;3.5;8;1;New Client;Silver;35-44;Male;2
+2182;5;37853.76;7570.75;3.2;5;1;New Client;Bronze;35-44;Female;9
+2183;3;3487.65;1162.55;4.0;3;1;New Client;Silver;25-34;Male;7
+2184;4;30866.29;7716.57;3.75;4;1;Occasional;Silver;18-24;Male;8
+2185;2;7870.79;3935.4;5.0;2;1;Regular;Platinum;45-54;Female;1
+2186;4;15612.35;3903.09;3.25;4;1;Occasional;Bronze;45-54;Female;10
+2187;2;9069.66;4534.83;4.0;2;1;Regular;Gold;35-44;Female;6
+2188;3;4852.2;1617.4;4.67;3;1;Regular;Platinum;35-44;Male;2
+2189;2;11007.64;5503.82;2.5;2;1;Occasional;Silver;35-44;Female;8
+2190;5;8524.66;1704.93;4.0;5;1;Occasional;Platinum;18-24;Female;2
+2191;6;23312.97;3885.5;3.0;6;1;Occasional;Silver;35-44;Female;8
+2192;3;9882.47;3294.16;4.67;3;1;Occasional;Platinum;25-34;Male;1
+2193;4;12899.33;3224.83;3.75;4;1;New Client;Gold;25-34;Female;6
+2194;5;34039.1;6807.82;3.0;5;1;VIP;Bronze;55+;Female;5
+2195;8;55969.32;6996.16;4.5;8;1;New Client;Gold;35-44;Female;1
+2196;2;10903.16;5451.58;3.0;2;1;New Client;Silver;45-54;Female;1
+2197;6;28190.14;4698.36;2.83;6;1;Regular;Silver;35-44;Male;1
+2198;4;10063.96;2515.99;4.0;4;1;Occasional;Silver;35-44;Female;4
+2199;2;4354.4;2177.2;3.5;2;1;Regular;Bronze;25-34;Male;2
+2200;4;15560.79;3890.2;2.75;4;1;Occasional;Silver;25-34;Male;6

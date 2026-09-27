@@ -1,0 +1,29 @@
+product_id;product_category;product_type;orders;units_sold;revenue;average_order_value;revenue_rank
+8;Watches;Luxury Watch;323;524;4926495.26;15252.31;1
+10;Watches;Classic Watch;335;530;4463753.35;13324.64;2
+13;Jewelry;Bracelet;339;540;3841963.94;11333.23;3
+9;Watches;Classic Watch;314;487;3777540.83;12030.38;4
+12;Jewelry;Necklace;307;463;3601402.56;11730.95;5
+7;Watches;Luxury Watch;317;495;2175777.7;6863.65;6
+14;Jewelry;Bracelet;312;511;2102922.09;6740.13;7
+15;Jewelry;Ring;321;513;2048054.68;6380.23;8
+16;Jewelry;Ring;303;475;1900544.86;6272.43;9
+11;Jewelry;Necklace;311;494;1594015.17;5125.45;10
+2;Leather Goods;Handbag;332;503;1449179.46;4365.0;11
+3;Leather Goods;Wallet;314;488;1210628.51;3855.5;12
+4;Leather Goods;Wallet;326;521;1176264.81;3608.17;13
+21;Fashion;Accessories;322;518;1040521.92;3231.43;14
+18;Fashion;Ready-to-Wear;309;498;936326.44;3030.18;15
+19;Fashion;Shoes;331;501;866759.83;2618.61;16
+17;Fashion;Ready-to-Wear;342;532;813394.43;2378.35;17
+1;Leather Goods;Handbag;291;434;800235.2;2749.95;18
+20;Fashion;Shoes;308;496;747765.73;2427.81;19
+5;Leather Goods;Belt;330;511;740710.49;2244.58;20
+6;Leather Goods;Belt;317;494;718396.6;2266.24;21
+22;Fashion;Accessories;326;531;674198.47;2068.09;22
+26;Beauty;Skincare;316;503;302656.68;957.77;23
+25;Beauty;Skincare;345;529;246230.5;713.71;24
+24;Beauty;Fragrance;332;545;233423.85;703.08;25
+28;Beauty;Makeup;307;476;232120.25;756.09;26
+23;Beauty;Fragrance;369;563;222808.18;603.82;27
+27;Beauty;Makeup;301;482;171064.69;568.32;28

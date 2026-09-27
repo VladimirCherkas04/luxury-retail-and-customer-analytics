@@ -1,0 +1,11 @@
+region_id;country;subregion;market;orders;customers;revenue;average_order_value;revenue_rank
+1;France;Western Europe;Europe;2350;563;10840018.54;4612.77;1
+6;United States;North America;North America;1658;394;8093723.29;4881.62;2
+8;Japan;East Asia;Asia;871;228;4235138.47;4862.39;3
+5;Germany;Central Europe;Europe;768;175;3677925.4;4788.97;4
+4;Spain;Southern Europe;Europe;605;139;2967559.77;4905.06;5
+2;United Kingdom;Northern Europe;Europe;608;155;2926474.75;4813.28;6
+10;United Arab Emirates;Middle East;Middle East;567;135;2781314.29;4905.32;7
+3;Italy;Southern Europe;Europe;587;145;2778218.71;4732.91;8
+9;South Korea;East Asia;Asia;511;123;2360145.9;4618.68;9
+7;Canada;North America;North America;475;103;2354637.36;4957.13;10
