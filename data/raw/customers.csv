@@ -1,0 +1,2201 @@
+customer_id,region_id,age_group,gender,customer_segment,loyalty_level
+1,6,25-34,Female,Occasional,Silver
+2,1,25-34,Male,Regular,Bronze
+3,6,45-54,Male,Occasional,Bronze
+4,1,18-24,Female,New Client,Silver
+5,1,55+,Female,Regular,Gold
+6,10,45-54,Male,Occasional,Silver
+7,10,45-54,Female,Regular,Platinum
+8,8,35-44,Female,Occasional,Bronze
+9,2,55+,Female,VIP,Silver
+10,1,25-34,Male,Occasional,Silver
+11,6,25-34,Male,New Client,Platinum
+12,4,25-34,Female,Occasional,Bronze
+13,1,45-54,Male,Regular,Silver
+14,5,18-24,Male,Regular,Gold
+15,1,35-44,Female,Occasional,Bronze
+16,9,55+,Female,VIP,Gold
+17,2,45-54,Female,New Client,Bronze
+18,6,35-44,Male,Occasional,Gold
+19,2,25-34,Female,VIP,Platinum
+20,5,45-54,Male,VIP,Silver
+21,5,35-44,Female,Regular,Silver
+22,1,25-34,Male,Regular,Bronze
+23,10,25-34,Female,New Client,Platinum
+24,7,55+,Female,Regular,Silver
+25,9,45-54,Male,Occasional,Bronze
+26,9,45-54,Male,New Client,Silver
+27,6,55+,Male,New Client,Silver
+28,9,35-44,Female,Occasional,Bronze
+29,1,35-44,Male,New Client,Bronze
+30,1,35-44,Female,Occasional,Bronze
+31,1,35-44,Female,New Client,Silver
+32,2,35-44,Female,New Client,Silver
+33,3,45-54,Female,Occasional,Silver
+34,2,35-44,Female,Occasional,Gold
+35,8,55+,Male,Occasional,Gold
+36,3,35-44,Female,Regular,Silver
+37,2,35-44,Male,VIP,Bronze
+38,5,45-54,Female,Regular,Silver
+39,1,35-44,Female,Occasional,Silver
+40,8,45-54,Female,Regular,Silver
+41,1,25-34,Male,New Client,Silver
+42,10,35-44,Male,New Client,Bronze
+43,7,25-34,Male,Occasional,Gold
+44,1,35-44,Male,Regular,Bronze
+45,1,35-44,Female,New Client,Silver
+46,8,45-54,Female,New Client,Bronze
+47,6,55+,Male,New Client,Platinum
+48,6,35-44,Female,Regular,Bronze
+49,7,45-54,Female,Regular,Bronze
+50,1,35-44,Female,New Client,Bronze
+51,3,45-54,Male,Occasional,Bronze
+52,1,25-34,Female,Occasional,Bronze
+53,8,25-34,Female,Regular,Silver
+54,6,35-44,Female,New Client,Silver
+55,3,35-44,Female,Regular,Bronze
+56,1,18-24,Female,Occasional,Bronze
+57,2,25-34,Female,Regular,Gold
+58,2,25-34,Male,New Client,Silver
+59,6,55+,Female,Occasional,Gold
+60,6,35-44,Female,Occasional,Silver
+61,9,35-44,Male,Occasional,Bronze
+62,5,25-34,Female,New Client,Bronze
+63,1,45-54,Female,Regular,Bronze
+64,6,25-34,Male,New Client,Gold
+65,7,25-34,Female,Regular,Platinum
+66,6,35-44,Male,Regular,Silver
+67,7,18-24,Male,Occasional,Bronze
+68,5,18-24,Male,Regular,Bronze
+69,5,25-34,Female,Regular,Bronze
+70,4,18-24,Female,Occasional,Silver
+71,1,25-34,Female,Regular,Bronze
+72,1,35-44,Female,New Client,Platinum
+73,1,45-54,Male,Occasional,Bronze
+74,6,35-44,Female,Regular,Gold
+75,2,35-44,Female,Occasional,Gold
+76,5,25-34,Female,Occasional,Gold
+77,9,55+,Female,Occasional,Silver
+78,1,35-44,Female,Regular,Silver
+79,4,25-34,Male,VIP,Silver
+80,7,45-54,Female,Occasional,Silver
+81,1,25-34,Male,Regular,Silver
+82,1,35-44,Male,VIP,Platinum
+83,2,35-44,Female,New Client,Gold
+84,1,55+,Female,New Client,Gold
+85,9,35-44,Female,Regular,Gold
+86,8,45-54,Male,Regular,Bronze
+87,6,55+,Female,Regular,Bronze
+88,8,25-34,Female,Occasional,Silver
+89,8,25-34,Female,New Client,Silver
+90,1,35-44,Male,Occasional,Gold
+91,9,35-44,Female,New Client,Silver
+92,5,35-44,Female,New Client,Silver
+93,8,55+,Male,Regular,Silver
+94,9,45-54,Female,New Client,Bronze
+95,2,35-44,Male,Regular,Silver
+96,1,35-44,Male,Occasional,Gold
+97,1,45-54,Male,Occasional,Bronze
+98,4,55+,Female,New Client,Silver
+99,8,45-54,Male,Occasional,Silver
+100,8,18-24,Male,New Client,Bronze
+101,1,45-54,Female,VIP,Bronze
+102,5,18-24,Female,Regular,Platinum
+103,4,25-34,Female,Occasional,Silver
+104,1,18-24,Female,New Client,Bronze
+105,1,35-44,Female,VIP,Bronze
+106,3,45-54,Female,Occasional,Silver
+107,10,25-34,Female,New Client,Silver
+108,2,35-44,Male,Occasional,Silver
+109,5,35-44,Female,VIP,Bronze
+110,6,35-44,Male,New Client,Gold
+111,3,25-34,Female,New Client,Silver
+112,10,35-44,Female,VIP,Bronze
+113,10,45-54,Female,New Client,Silver
+114,2,25-34,Female,New Client,Silver
+115,5,25-34,Female,Occasional,Gold
+116,2,35-44,Female,Regular,Platinum
+117,2,55+,Female,Occasional,Bronze
+118,1,45-54,Male,VIP,Gold
+119,6,45-54,Female,Regular,Gold
+120,5,35-44,Male,New Client,Platinum
+121,1,35-44,Male,VIP,Bronze
+122,2,18-24,Male,Occasional,Silver
+123,9,45-54,Male,New Client,Bronze
+124,1,55+,Female,Occasional,Gold
+125,1,45-54,Female,Occasional,Bronze
+126,5,55+,Male,New Client,Silver
+127,10,45-54,Female,New Client,Bronze
+128,1,25-34,Female,Occasional,Bronze
+129,6,55+,Male,Regular,Silver
+130,7,25-34,Male,Occasional,Gold
+131,1,35-44,Male,VIP,Silver
+132,6,25-34,Male,New Client,Gold
+133,3,18-24,Male,New Client,Bronze
+134,6,35-44,Female,New Client,Silver
+135,6,25-34,Male,New Client,Silver
+136,5,35-44,Female,New Client,Bronze
+137,1,35-44,Female,Regular,Silver
+138,8,18-24,Male,VIP,Silver
+139,2,25-34,Female,VIP,Silver
+140,1,35-44,Female,New Client,Gold
+141,1,35-44,Female,VIP,Silver
+142,6,45-54,Male,Occasional,Bronze
+143,6,45-54,Female,New Client,Bronze
+144,1,45-54,Male,Regular,Silver
+145,5,45-54,Female,Regular,Bronze
+146,1,35-44,Male,New Client,Bronze
+147,6,45-54,Male,Occasional,Silver
+148,1,25-34,Female,New Client,Silver
+149,6,35-44,Female,Regular,Bronze
+150,3,45-54,Female,Occasional,Gold
+151,9,35-44,Male,VIP,Silver
+152,1,45-54,Male,New Client,Bronze
+153,3,45-54,Male,Occasional,Gold
+154,1,45-54,Female,Occasional,Silver
+155,9,55+,Male,Occasional,Silver
+156,8,35-44,Male,Occasional,Silver
+157,2,35-44,Male,Regular,Bronze
+158,6,35-44,Male,Regular,Silver
+159,8,35-44,Female,VIP,Bronze
+160,6,35-44,Female,Regular,Platinum
+161,5,45-54,Male,Regular,Gold
+162,1,45-54,Male,Occasional,Silver
+163,1,35-44,Female,Regular,Bronze
+164,9,25-34,Female,Occasional,Bronze
+165,9,35-44,Female,Occasional,Bronze
+166,6,25-34,Female,Occasional,Silver
+167,3,55+,Female,Occasional,Bronze
+168,3,35-44,Male,New Client,Silver
+169,6,25-34,Male,VIP,Bronze
+170,9,18-24,Female,Occasional,Platinum
+171,9,45-54,Female,New Client,Bronze
+172,7,45-54,Female,Occasional,Platinum
+173,6,35-44,Female,New Client,Gold
+174,1,25-34,Male,New Client,Silver
+175,1,35-44,Male,New Client,Gold
+176,9,35-44,Female,Occasional,Silver
+177,6,45-54,Male,Occasional,Silver
+178,1,35-44,Male,Regular,Bronze
+179,1,35-44,Male,Regular,Bronze
+180,6,25-34,Female,Occasional,Silver
+181,1,55+,Male,Occasional,Silver
+182,1,35-44,Female,Occasional,Silver
+183,5,45-54,Female,Regular,Bronze
+184,6,25-34,Female,New Client,Bronze
+185,6,35-44,Female,New Client,Bronze
+186,1,18-24,Female,Regular,Bronze
+187,6,35-44,Female,Occasional,Bronze
+188,1,55+,Female,New Client,Bronze
+189,2,35-44,Male,New Client,Bronze
+190,7,18-24,Male,VIP,Gold
+191,6,18-24,Female,Regular,Bronze
+192,8,35-44,Male,Regular,Silver
+193,6,25-34,Male,Occasional,Bronze
+194,6,18-24,Male,Occasional,Gold
+195,1,45-54,Female,VIP,Silver
+196,3,35-44,Male,VIP,Bronze
+197,2,25-34,Male,New Client,Silver
+198,1,55+,Male,Regular,Silver
+199,10,25-34,Female,New Client,Silver
+200,3,55+,Female,New Client,Bronze
+201,9,35-44,Male,Regular,Platinum
+202,6,55+,Female,Occasional,Silver
+203,8,35-44,Female,VIP,Bronze
+204,5,45-54,Female,New Client,Gold
+205,6,55+,Male,Occasional,Bronze
+206,5,25-34,Male,VIP,Gold
+207,1,55+,Female,VIP,Silver
+208,6,35-44,Male,New Client,Gold
+209,2,35-44,Female,Occasional,Bronze
+210,1,35-44,Male,Regular,Gold
+211,6,35-44,Male,New Client,Gold
+212,1,25-34,Male,VIP,Bronze
+213,10,35-44,Male,VIP,Bronze
+214,10,35-44,Female,New Client,Bronze
+215,9,45-54,Male,New Client,Platinum
+216,3,45-54,Female,New Client,Bronze
+217,1,35-44,Male,VIP,Silver
+218,9,35-44,Male,New Client,Bronze
+219,4,25-34,Male,Occasional,Silver
+220,10,25-34,Female,Occasional,Silver
+221,10,18-24,Male,Occasional,Platinum
+222,8,35-44,Female,New Client,Silver
+223,2,25-34,Female,New Client,Gold
+224,3,55+,Male,VIP,Silver
+225,8,35-44,Female,VIP,Bronze
+226,2,35-44,Male,Regular,Bronze
+227,1,35-44,Female,New Client,Silver
+228,6,25-34,Female,Occasional,Platinum
+229,9,35-44,Male,Regular,Gold
+230,6,45-54,Female,New Client,Bronze
+231,6,35-44,Female,VIP,Bronze
+232,1,35-44,Male,Regular,Bronze
+233,6,55+,Female,New Client,Platinum
+234,10,55+,Male,VIP,Gold
+235,1,45-54,Female,VIP,Gold
+236,5,35-44,Male,New Client,Silver
+237,8,45-54,Male,Occasional,Silver
+238,7,25-34,Male,Occasional,Silver
+239,6,35-44,Female,Occasional,Bronze
+240,6,18-24,Male,New Client,Silver
+241,3,35-44,Male,Occasional,Bronze
+242,2,35-44,Male,VIP,Bronze
+243,8,25-34,Female,Occasional,Gold
+244,8,55+,Male,New Client,Gold
+245,8,55+,Male,Regular,Silver
+246,9,45-54,Female,Occasional,Silver
+247,5,35-44,Female,Regular,Bronze
+248,5,55+,Male,Occasional,Gold
+249,8,25-34,Female,New Client,Gold
+250,6,45-54,Male,New Client,Gold
+251,6,25-34,Male,Regular,Gold
+252,8,45-54,Male,New Client,Bronze
+253,9,25-34,Female,Regular,Bronze
+254,3,55+,Female,New Client,Silver
+255,3,55+,Male,Occasional,Bronze
+256,1,25-34,Female,Occasional,Gold
+257,6,35-44,Male,VIP,Bronze
+258,1,55+,Female,VIP,Bronze
+259,4,35-44,Female,New Client,Silver
+260,5,55+,Female,Occasional,Platinum
+261,2,35-44,Female,New Client,Bronze
+262,6,35-44,Male,Occasional,Silver
+263,1,25-34,Female,Occasional,Silver
+264,1,25-34,Female,VIP,Bronze
+265,8,45-54,Female,VIP,Silver
+266,3,35-44,Female,Occasional,Gold
+267,1,35-44,Female,Occasional,Silver
+268,5,35-44,Male,VIP,Gold
+269,7,35-44,Female,Regular,Bronze
+270,1,55+,Female,New Client,Bronze
+271,6,55+,Female,Occasional,Platinum
+272,1,35-44,Male,Occasional,Bronze
+273,1,45-54,Female,New Client,Silver
+274,5,45-54,Female,New Client,Gold
+275,5,35-44,Male,New Client,Bronze
+276,6,55+,Male,Regular,Gold
+277,6,25-34,Female,New Client,Bronze
+278,10,25-34,Female,New Client,Bronze
+279,5,45-54,Male,New Client,Bronze
+280,2,35-44,Female,Regular,Gold
+281,8,45-54,Male,Regular,Bronze
+282,2,55+,Male,Occasional,Gold
+283,4,25-34,Female,Occasional,Platinum
+284,1,55+,Female,VIP,Silver
+285,1,35-44,Female,New Client,Silver
+286,10,35-44,Male,New Client,Silver
+287,8,45-54,Female,New Client,Bronze
+288,6,55+,Female,New Client,Silver
+289,4,18-24,Male,Occasional,Silver
+290,1,35-44,Male,VIP,Platinum
+291,1,45-54,Female,Regular,Platinum
+292,2,45-54,Male,Occasional,Gold
+293,5,45-54,Female,VIP,Gold
+294,6,25-34,Female,New Client,Silver
+295,6,25-34,Female,New Client,Silver
+296,2,35-44,Female,Occasional,Gold
+297,10,45-54,Female,Regular,Silver
+298,7,25-34,Female,New Client,Platinum
+299,6,25-34,Male,Occasional,Silver
+300,6,55+,Male,Regular,Silver
+301,4,18-24,Male,Regular,Gold
+302,1,55+,Female,Regular,Platinum
+303,3,45-54,Female,Occasional,Bronze
+304,7,45-54,Female,New Client,Gold
+305,1,25-34,Male,Occasional,Silver
+306,1,18-24,Male,New Client,Bronze
+307,1,45-54,Female,VIP,Gold
+308,1,45-54,Female,Occasional,Silver
+309,8,45-54,Female,Occasional,Silver
+310,6,25-34,Female,Regular,Bronze
+311,5,45-54,Female,Occasional,Silver
+312,1,45-54,Male,Occasional,Silver
+313,5,45-54,Male,Regular,Silver
+314,5,45-54,Female,Regular,Bronze
+315,1,45-54,Female,Regular,Platinum
+316,4,45-54,Male,New Client,Silver
+317,3,25-34,Female,Occasional,Gold
+318,6,35-44,Female,Regular,Silver
+319,6,25-34,Female,New Client,Bronze
+320,1,35-44,Female,New Client,Silver
+321,3,35-44,Female,VIP,Silver
+322,6,25-34,Male,New Client,Silver
+323,5,35-44,Female,Regular,Silver
+324,8,25-34,Female,Occasional,Silver
+325,6,45-54,Male,Occasional,Bronze
+326,1,55+,Female,New Client,Silver
+327,1,25-34,Male,Regular,Bronze
+328,6,55+,Male,Occasional,Bronze
+329,1,35-44,Female,Occasional,Platinum
+330,6,25-34,Male,Regular,Silver
+331,10,25-34,Female,Regular,Silver
+332,6,35-44,Male,VIP,Silver
+333,3,45-54,Female,Occasional,Gold
+334,6,45-54,Male,Occasional,Silver
+335,4,18-24,Male,VIP,Gold
+336,5,25-34,Female,Regular,Bronze
+337,10,35-44,Female,New Client,Platinum
+338,3,25-34,Male,New Client,Gold
+339,10,25-34,Male,Regular,Gold
+340,9,25-34,Female,Occasional,Bronze
+341,1,45-54,Male,Regular,Bronze
+342,1,55+,Female,Occasional,Bronze
+343,1,35-44,Female,New Client,Bronze
+344,1,55+,Female,Regular,Gold
+345,1,35-44,Female,New Client,Bronze
+346,6,35-44,Male,Occasional,Bronze
+347,1,25-34,Female,Occasional,Bronze
+348,2,45-54,Male,Occasional,Bronze
+349,8,55+,Female,Regular,Bronze
+350,1,35-44,Female,Regular,Gold
+351,8,35-44,Female,Regular,Silver
+352,2,45-54,Female,New Client,Bronze
+353,1,25-34,Female,New Client,Silver
+354,6,55+,Female,Occasional,Silver
+355,6,35-44,Female,VIP,Bronze
+356,8,35-44,Female,Regular,Silver
+357,7,35-44,Female,Regular,Gold
+358,8,45-54,Female,Occasional,Gold
+359,2,25-34,Male,Occasional,Gold
+360,1,45-54,Male,Occasional,Bronze
+361,7,25-34,Female,New Client,Platinum
+362,8,45-54,Female,New Client,Gold
+363,10,45-54,Female,VIP,Gold
+364,4,45-54,Male,New Client,Bronze
+365,3,35-44,Female,New Client,Platinum
+366,7,35-44,Female,New Client,Gold
+367,3,25-34,Female,VIP,Gold
+368,9,45-54,Female,Occasional,Bronze
+369,8,25-34,Female,Regular,Gold
+370,4,35-44,Male,VIP,Platinum
+371,7,25-34,Female,Occasional,Silver
+372,7,25-34,Male,Regular,Silver
+373,1,45-54,Female,New Client,Platinum
+374,9,18-24,Female,New Client,Silver
+375,5,45-54,Male,Regular,Silver
+376,8,35-44,Female,Regular,Silver
+377,2,18-24,Male,Occasional,Platinum
+378,9,35-44,Female,Occasional,Bronze
+379,3,18-24,Female,Occasional,Silver
+380,1,25-34,Male,New Client,Silver
+381,9,45-54,Female,New Client,Gold
+382,1,25-34,Male,New Client,Silver
+383,2,45-54,Female,New Client,Gold
+384,10,18-24,Male,Regular,Platinum
+385,10,25-34,Female,New Client,Bronze
+386,6,45-54,Female,New Client,Silver
+387,6,35-44,Male,Occasional,Bronze
+388,4,25-34,Male,Regular,Bronze
+389,2,35-44,Male,New Client,Silver
+390,2,25-34,Male,New Client,Gold
+391,6,45-54,Male,Occasional,Gold
+392,7,35-44,Female,Regular,Bronze
+393,8,45-54,Female,Occasional,Bronze
+394,8,55+,Female,Regular,Silver
+395,1,35-44,Female,VIP,Silver
+396,5,55+,Female,Regular,Bronze
+397,1,35-44,Female,Regular,Gold
+398,5,55+,Female,Occasional,Platinum
+399,4,25-34,Male,New Client,Silver
+400,9,45-54,Female,VIP,Gold
+401,3,35-44,Female,Occasional,Silver
+402,1,35-44,Female,New Client,Gold
+403,1,45-54,Male,Regular,Silver
+404,7,45-54,Male,New Client,Bronze
+405,6,18-24,Male,Occasional,Platinum
+406,1,25-34,Female,Occasional,Silver
+407,1,45-54,Female,Occasional,Gold
+408,6,45-54,Female,Regular,Bronze
+409,1,55+,Female,New Client,Bronze
+410,8,45-54,Female,Occasional,Bronze
+411,6,55+,Female,Occasional,Silver
+412,1,45-54,Female,Regular,Silver
+413,1,25-34,Male,Regular,Bronze
+414,10,25-34,Male,Occasional,Silver
+415,3,45-54,Female,Regular,Silver
+416,3,45-54,Female,New Client,Gold
+417,8,18-24,Female,VIP,Silver
+418,10,35-44,Female,Occasional,Gold
+419,10,55+,Male,Regular,Silver
+420,7,35-44,Female,New Client,Silver
+421,3,35-44,Male,New Client,Bronze
+422,1,35-44,Female,Occasional,Bronze
+423,7,25-34,Male,Regular,Bronze
+424,6,35-44,Female,Occasional,Silver
+425,4,35-44,Male,VIP,Bronze
+426,9,18-24,Female,Occasional,Bronze
+427,1,45-54,Male,Occasional,Gold
+428,5,35-44,Female,New Client,Bronze
+429,1,45-54,Female,Regular,Bronze
+430,4,45-54,Male,New Client,Bronze
+431,1,25-34,Male,VIP,Gold
+432,1,45-54,Male,VIP,Bronze
+433,1,35-44,Male,VIP,Silver
+434,6,55+,Male,Occasional,Silver
+435,7,25-34,Female,Regular,Silver
+436,6,45-54,Female,Regular,Silver
+437,10,35-44,Female,New Client,Gold
+438,3,25-34,Male,Regular,Bronze
+439,2,25-34,Female,New Client,Bronze
+440,8,45-54,Female,Occasional,Bronze
+441,1,45-54,Male,New Client,Bronze
+442,10,35-44,Male,New Client,Bronze
+443,1,45-54,Female,Occasional,Bronze
+444,10,35-44,Female,Occasional,Silver
+445,1,45-54,Female,Regular,Silver
+446,9,25-34,Female,New Client,Silver
+447,5,55+,Female,Occasional,Gold
+448,10,25-34,Male,New Client,Bronze
+449,1,35-44,Male,Occasional,Bronze
+450,6,18-24,Male,Regular,Silver
+451,10,25-34,Female,Occasional,Bronze
+452,5,35-44,Male,Regular,Bronze
+453,6,25-34,Female,Occasional,Silver
+454,6,45-54,Female,Regular,Platinum
+455,4,18-24,Male,Occasional,Gold
+456,6,35-44,Female,Occasional,Bronze
+457,6,35-44,Female,Regular,Gold
+458,9,18-24,Male,New Client,Gold
+459,1,25-34,Female,Regular,Silver
+460,2,35-44,Male,Regular,Gold
+461,10,35-44,Female,Occasional,Silver
+462,9,35-44,Male,New Client,Bronze
+463,4,35-44,Female,New Client,Silver
+464,6,35-44,Female,VIP,Silver
+465,2,18-24,Male,Regular,Silver
+466,1,35-44,Female,New Client,Silver
+467,4,55+,Female,Occasional,Platinum
+468,3,35-44,Female,Occasional,Gold
+469,6,45-54,Female,Regular,Gold
+470,1,35-44,Female,New Client,Gold
+471,10,45-54,Female,New Client,Platinum
+472,10,45-54,Male,VIP,Bronze
+473,6,35-44,Female,New Client,Bronze
+474,5,55+,Female,New Client,Silver
+475,2,25-34,Female,VIP,Gold
+476,8,18-24,Female,Regular,Silver
+477,6,45-54,Male,New Client,Gold
+478,1,45-54,Female,New Client,Bronze
+479,9,25-34,Male,New Client,Bronze
+480,8,25-34,Female,New Client,Gold
+481,10,18-24,Male,VIP,Bronze
+482,6,25-34,Female,Occasional,Bronze
+483,6,45-54,Male,Regular,Bronze
+484,4,35-44,Female,VIP,Bronze
+485,9,35-44,Female,Occasional,Gold
+486,8,35-44,Female,New Client,Bronze
+487,1,18-24,Female,Occasional,Silver
+488,1,25-34,Male,VIP,Bronze
+489,3,45-54,Female,Regular,Gold
+490,8,55+,Female,New Client,Bronze
+491,10,45-54,Male,Regular,Silver
+492,1,18-24,Female,Occasional,Gold
+493,6,55+,Male,VIP,Bronze
+494,3,45-54,Male,New Client,Gold
+495,10,45-54,Male,Occasional,Silver
+496,8,35-44,Male,Regular,Silver
+497,8,35-44,Female,Occasional,Bronze
+498,4,35-44,Female,Occasional,Platinum
+499,4,25-34,Female,New Client,Gold
+500,2,25-34,Female,New Client,Bronze
+501,1,25-34,Male,Occasional,Bronze
+502,8,35-44,Male,VIP,Gold
+503,8,45-54,Female,New Client,Silver
+504,10,35-44,Female,Occasional,Gold
+505,10,18-24,Male,Regular,Silver
+506,6,55+,Female,New Client,Gold
+507,7,55+,Female,Occasional,Silver
+508,10,45-54,Female,Regular,Bronze
+509,8,55+,Male,Regular,Silver
+510,1,35-44,Female,Regular,Platinum
+511,4,55+,Male,Regular,Bronze
+512,1,25-34,Male,New Client,Silver
+513,10,35-44,Female,VIP,Silver
+514,6,25-34,Female,New Client,Silver
+515,1,25-34,Male,Regular,Gold
+516,6,25-34,Female,New Client,Gold
+517,6,45-54,Male,VIP,Bronze
+518,3,45-54,Male,Regular,Platinum
+519,1,35-44,Male,Regular,Gold
+520,6,25-34,Male,New Client,Gold
+521,5,45-54,Male,Occasional,Silver
+522,7,45-54,Male,Regular,Gold
+523,5,35-44,Female,Regular,Bronze
+524,8,45-54,Female,New Client,Bronze
+525,6,25-34,Female,VIP,Gold
+526,6,35-44,Male,VIP,Bronze
+527,8,55+,Female,New Client,Bronze
+528,4,25-34,Male,Regular,Gold
+529,1,35-44,Female,Occasional,Gold
+530,1,55+,Male,Occasional,Bronze
+531,7,45-54,Female,Occasional,Gold
+532,6,25-34,Male,Occasional,Silver
+533,6,25-34,Female,Regular,Silver
+534,1,18-24,Female,Occasional,Gold
+535,1,45-54,Female,Regular,Silver
+536,1,35-44,Male,Regular,Bronze
+537,3,25-34,Female,Regular,Bronze
+538,6,55+,Female,New Client,Silver
+539,3,35-44,Male,Regular,Silver
+540,4,25-34,Male,Occasional,Gold
+541,9,35-44,Male,New Client,Gold
+542,3,45-54,Female,New Client,Silver
+543,5,25-34,Female,Occasional,Gold
+544,8,25-34,Male,VIP,Bronze
+545,3,45-54,Female,Occasional,Bronze
+546,6,35-44,Male,Regular,Gold
+547,8,35-44,Female,New Client,Bronze
+548,10,35-44,Female,Occasional,Bronze
+549,1,18-24,Female,VIP,Silver
+550,9,25-34,Female,Regular,Silver
+551,5,35-44,Female,New Client,Gold
+552,2,25-34,Female,Occasional,Bronze
+553,4,18-24,Male,New Client,Bronze
+554,10,45-54,Female,Occasional,Bronze
+555,5,55+,Male,Regular,Silver
+556,2,45-54,Male,Regular,Bronze
+557,6,45-54,Female,New Client,Silver
+558,1,25-34,Female,VIP,Gold
+559,1,55+,Male,Occasional,Gold
+560,1,25-34,Male,Occasional,Bronze
+561,1,55+,Male,Occasional,Silver
+562,1,55+,Male,Regular,Silver
+563,1,45-54,Male,Occasional,Platinum
+564,6,55+,Female,Occasional,Platinum
+565,1,35-44,Female,Occasional,Bronze
+566,3,25-34,Male,New Client,Gold
+567,9,35-44,Female,Regular,Bronze
+568,5,35-44,Male,Occasional,Bronze
+569,6,25-34,Female,New Client,Bronze
+570,1,45-54,Female,Regular,Silver
+571,1,55+,Male,VIP,Silver
+572,1,25-34,Male,VIP,Bronze
+573,1,45-54,Female,Occasional,Silver
+574,2,55+,Female,New Client,Bronze
+575,1,55+,Male,Occasional,Silver
+576,1,55+,Female,New Client,Bronze
+577,1,35-44,Male,VIP,Bronze
+578,4,55+,Female,New Client,Silver
+579,1,45-54,Male,New Client,Bronze
+580,3,25-34,Male,Occasional,Silver
+581,5,35-44,Female,Occasional,Bronze
+582,6,45-54,Female,Regular,Silver
+583,1,25-34,Female,Occasional,Bronze
+584,8,45-54,Male,New Client,Silver
+585,6,45-54,Female,New Client,Gold
+586,1,25-34,Male,Occasional,Bronze
+587,8,35-44,Female,New Client,Silver
+588,9,45-54,Female,Regular,Bronze
+589,1,35-44,Female,Occasional,Silver
+590,2,18-24,Female,Regular,Bronze
+591,8,18-24,Female,VIP,Silver
+592,7,35-44,Male,VIP,Silver
+593,1,55+,Male,VIP,Platinum
+594,1,25-34,Female,New Client,Silver
+595,3,45-54,Male,New Client,Silver
+596,5,25-34,Male,Occasional,Silver
+597,6,35-44,Male,VIP,Platinum
+598,3,45-54,Female,VIP,Gold
+599,4,45-54,Female,Regular,Bronze
+600,7,25-34,Female,New Client,Gold
+601,1,35-44,Male,VIP,Silver
+602,2,18-24,Female,Occasional,Gold
+603,6,35-44,Female,New Client,Gold
+604,9,45-54,Female,Occasional,Bronze
+605,5,25-34,Female,New Client,Gold
+606,5,25-34,Male,Occasional,Bronze
+607,1,35-44,Female,Occasional,Bronze
+608,4,55+,Female,Occasional,Bronze
+609,5,55+,Male,Regular,Gold
+610,1,18-24,Male,Regular,Bronze
+611,2,45-54,Male,Regular,Bronze
+612,3,35-44,Male,Occasional,Gold
+613,1,35-44,Male,Regular,Bronze
+614,2,45-54,Male,VIP,Bronze
+615,1,55+,Female,New Client,Bronze
+616,2,55+,Male,Occasional,Bronze
+617,1,35-44,Male,New Client,Silver
+618,9,35-44,Male,New Client,Bronze
+619,6,45-54,Female,Regular,Platinum
+620,6,25-34,Female,Regular,Gold
+621,8,35-44,Female,New Client,Bronze
+622,5,35-44,Female,Regular,Bronze
+623,1,45-54,Female,Regular,Silver
+624,5,25-34,Male,VIP,Silver
+625,6,25-34,Female,New Client,Bronze
+626,7,55+,Female,VIP,Bronze
+627,4,25-34,Female,Occasional,Gold
+628,1,35-44,Male,Occasional,Bronze
+629,2,25-34,Female,New Client,Silver
+630,3,18-24,Female,New Client,Gold
+631,6,18-24,Female,Regular,Silver
+632,6,25-34,Female,Occasional,Bronze
+633,3,55+,Male,New Client,Silver
+634,10,25-34,Male,New Client,Bronze
+635,6,55+,Female,Regular,Gold
+636,1,35-44,Female,New Client,Silver
+637,1,35-44,Male,Regular,Gold
+638,1,35-44,Female,New Client,Platinum
+639,1,35-44,Female,New Client,Platinum
+640,1,45-54,Female,Occasional,Gold
+641,1,25-34,Male,Occasional,Silver
+642,2,35-44,Female,Occasional,Bronze
+643,1,55+,Female,Occasional,Silver
+644,9,55+,Male,VIP,Silver
+645,1,55+,Female,Regular,Gold
+646,5,35-44,Female,New Client,Bronze
+647,4,45-54,Male,Occasional,Gold
+648,10,35-44,Female,Regular,Gold
+649,1,35-44,Male,Occasional,Platinum
+650,3,25-34,Female,New Client,Gold
+651,10,35-44,Female,Regular,Bronze
+652,8,25-34,Female,Regular,Bronze
+653,8,35-44,Female,Occasional,Bronze
+654,2,45-54,Female,New Client,Bronze
+655,1,25-34,Male,New Client,Silver
+656,6,25-34,Female,Regular,Gold
+657,9,25-34,Female,New Client,Gold
+658,6,55+,Female,Occasional,Silver
+659,6,35-44,Male,Occasional,Bronze
+660,2,35-44,Female,New Client,Bronze
+661,7,45-54,Female,VIP,Bronze
+662,1,45-54,Female,Regular,Bronze
+663,2,35-44,Female,Regular,Silver
+664,4,45-54,Female,New Client,Bronze
+665,5,45-54,Male,New Client,Bronze
+666,1,45-54,Female,Occasional,Bronze
+667,1,25-34,Female,New Client,Silver
+668,6,55+,Female,VIP,Silver
+669,2,35-44,Male,New Client,Silver
+670,6,25-34,Female,Occasional,Silver
+671,1,35-44,Female,Occasional,Platinum
+672,5,18-24,Female,Regular,Bronze
+673,5,25-34,Female,New Client,Silver
+674,1,45-54,Female,Occasional,Gold
+675,3,18-24,Female,New Client,Silver
+676,1,35-44,Female,VIP,Platinum
+677,1,35-44,Female,New Client,Bronze
+678,10,18-24,Female,VIP,Silver
+679,2,55+,Female,Regular,Bronze
+680,8,25-34,Female,New Client,Silver
+681,2,35-44,Male,Regular,Bronze
+682,6,35-44,Male,New Client,Bronze
+683,7,25-34,Male,VIP,Silver
+684,6,18-24,Male,Occasional,Silver
+685,5,45-54,Male,Occasional,Bronze
+686,4,55+,Male,Occasional,Silver
+687,3,25-34,Female,New Client,Silver
+688,9,45-54,Male,VIP,Bronze
+689,8,45-54,Female,New Client,Silver
+690,10,45-54,Female,Regular,Gold
+691,1,35-44,Male,Occasional,Silver
+692,7,35-44,Female,VIP,Silver
+693,9,35-44,Female,New Client,Bronze
+694,1,45-54,Male,Occasional,Silver
+695,1,45-54,Female,Occasional,Platinum
+696,7,25-34,Female,Regular,Silver
+697,6,35-44,Male,New Client,Bronze
+698,8,55+,Male,New Client,Silver
+699,1,45-54,Female,New Client,Gold
+700,8,55+,Female,Regular,Bronze
+701,1,45-54,Female,New Client,Platinum
+702,1,35-44,Male,Occasional,Platinum
+703,1,35-44,Female,New Client,Bronze
+704,8,45-54,Female,Regular,Platinum
+705,6,25-34,Female,VIP,Bronze
+706,5,35-44,Female,Occasional,Gold
+707,3,45-54,Male,Occasional,Silver
+708,8,25-34,Female,New Client,Silver
+709,3,45-54,Male,New Client,Silver
+710,8,35-44,Female,New Client,Gold
+711,4,55+,Male,Regular,Bronze
+712,3,18-24,Male,Occasional,Silver
+713,4,25-34,Female,VIP,Bronze
+714,2,35-44,Female,Occasional,Bronze
+715,7,25-34,Male,Regular,Bronze
+716,5,45-54,Male,Occasional,Silver
+717,1,45-54,Female,Occasional,Bronze
+718,9,25-34,Male,New Client,Bronze
+719,3,35-44,Male,Occasional,Bronze
+720,5,35-44,Male,Occasional,Bronze
+721,9,35-44,Male,Regular,Silver
+722,6,55+,Female,VIP,Platinum
+723,1,45-54,Female,Occasional,Bronze
+724,9,45-54,Female,New Client,Platinum
+725,6,45-54,Male,Occasional,Gold
+726,3,35-44,Male,Occasional,Silver
+727,1,55+,Male,New Client,Silver
+728,8,45-54,Female,Regular,Gold
+729,6,45-54,Female,VIP,Bronze
+730,5,55+,Male,VIP,Silver
+731,9,25-34,Female,New Client,Silver
+732,8,45-54,Female,Regular,Silver
+733,1,25-34,Male,Regular,Gold
+734,2,35-44,Female,Occasional,Bronze
+735,1,35-44,Female,Occasional,Silver
+736,7,55+,Female,Regular,Silver
+737,1,45-54,Female,Occasional,Bronze
+738,6,45-54,Male,Occasional,Bronze
+739,7,45-54,Female,Occasional,Silver
+740,8,35-44,Female,Occasional,Gold
+741,3,55+,Female,New Client,Silver
+742,8,35-44,Male,VIP,Gold
+743,1,35-44,Female,Regular,Silver
+744,8,25-34,Female,Regular,Bronze
+745,1,45-54,Female,New Client,Bronze
+746,3,45-54,Female,Regular,Bronze
+747,8,35-44,Female,New Client,Silver
+748,1,18-24,Male,New Client,Bronze
+749,1,45-54,Male,Occasional,Gold
+750,6,18-24,Female,Occasional,Gold
+751,6,45-54,Female,Occasional,Bronze
+752,6,55+,Male,New Client,Bronze
+753,6,35-44,Female,Occasional,Bronze
+754,5,25-34,Male,New Client,Silver
+755,2,45-54,Female,VIP,Bronze
+756,3,45-54,Male,Occasional,Bronze
+757,1,35-44,Male,Regular,Platinum
+758,9,55+,Male,Occasional,Gold
+759,6,18-24,Male,New Client,Bronze
+760,4,35-44,Female,VIP,Silver
+761,4,45-54,Male,New Client,Bronze
+762,10,55+,Female,Occasional,Gold
+763,1,25-34,Female,Regular,Silver
+764,6,45-54,Male,New Client,Bronze
+765,5,35-44,Male,Regular,Gold
+766,6,35-44,Male,Occasional,Silver
+767,1,25-34,Female,New Client,Bronze
+768,8,55+,Male,New Client,Bronze
+769,9,25-34,Male,New Client,Silver
+770,6,35-44,Female,VIP,Bronze
+771,6,25-34,Female,Regular,Bronze
+772,9,55+,Female,New Client,Silver
+773,6,45-54,Female,New Client,Bronze
+774,1,45-54,Male,Regular,Gold
+775,6,25-34,Male,Occasional,Bronze
+776,6,45-54,Male,Occasional,Bronze
+777,4,35-44,Male,Occasional,Silver
+778,7,45-54,Female,New Client,Gold
+779,9,55+,Male,Regular,Gold
+780,9,18-24,Female,VIP,Silver
+781,4,45-54,Male,New Client,Bronze
+782,1,18-24,Female,Occasional,Gold
+783,10,35-44,Male,Occasional,Silver
+784,8,25-34,Female,Occasional,Bronze
+785,1,35-44,Female,New Client,Gold
+786,9,35-44,Male,Regular,Bronze
+787,8,45-54,Female,Occasional,Platinum
+788,5,35-44,Male,Occasional,Gold
+789,6,45-54,Female,Occasional,Silver
+790,3,35-44,Male,New Client,Platinum
+791,1,25-34,Female,New Client,Gold
+792,3,45-54,Female,Regular,Bronze
+793,8,25-34,Female,New Client,Silver
+794,1,35-44,Female,Regular,Bronze
+795,3,45-54,Female,Occasional,Silver
+796,3,35-44,Female,Occasional,Gold
+797,5,18-24,Female,Occasional,Silver
+798,9,35-44,Female,Occasional,Bronze
+799,3,55+,Male,New Client,Silver
+800,3,45-54,Male,Occasional,Gold
+801,7,45-54,Female,Regular,Bronze
+802,4,45-54,Male,Regular,Silver
+803,1,25-34,Male,New Client,Bronze
+804,4,35-44,Female,Occasional,Silver
+805,1,45-54,Male,New Client,Bronze
+806,1,25-34,Female,New Client,Silver
+807,5,25-34,Female,New Client,Bronze
+808,4,25-34,Female,VIP,Bronze
+809,9,35-44,Male,New Client,Platinum
+810,3,55+,Male,New Client,Bronze
+811,6,25-34,Female,New Client,Silver
+812,6,35-44,Female,New Client,Bronze
+813,1,25-34,Male,Regular,Silver
+814,6,55+,Female,New Client,Silver
+815,1,25-34,Female,New Client,Bronze
+816,10,35-44,Male,Regular,Bronze
+817,1,45-54,Male,Occasional,Bronze
+818,4,45-54,Male,Regular,Silver
+819,1,35-44,Male,Occasional,Gold
+820,10,35-44,Male,New Client,Silver
+821,5,35-44,Female,Regular,Silver
+822,6,25-34,Female,New Client,Bronze
+823,1,25-34,Female,Occasional,Bronze
+824,7,35-44,Male,Occasional,Bronze
+825,1,25-34,Male,New Client,Bronze
+826,9,25-34,Female,Regular,Bronze
+827,1,45-54,Male,Regular,Silver
+828,1,55+,Female,VIP,Silver
+829,1,35-44,Female,Regular,Platinum
+830,5,25-34,Female,Occasional,Bronze
+831,6,25-34,Female,New Client,Silver
+832,1,55+,Male,New Client,Gold
+833,7,25-34,Female,Occasional,Silver
+834,4,25-34,Male,Occasional,Bronze
+835,5,35-44,Female,VIP,Bronze
+836,4,45-54,Female,Occasional,Bronze
+837,4,45-54,Male,Occasional,Bronze
+838,6,25-34,Female,Occasional,Gold
+839,1,18-24,Female,Regular,Bronze
+840,1,55+,Female,Regular,Bronze
+841,8,25-34,Male,Regular,Gold
+842,10,45-54,Female,Occasional,Gold
+843,3,45-54,Female,Regular,Silver
+844,2,45-54,Female,New Client,Silver
+845,6,35-44,Female,Regular,Silver
+846,4,25-34,Male,Occasional,Bronze
+847,1,35-44,Female,Occasional,Silver
+848,1,55+,Female,Occasional,Silver
+849,6,55+,Female,Regular,Platinum
+850,6,25-34,Female,New Client,Bronze
+851,1,25-34,Male,Regular,Silver
+852,1,55+,Female,Occasional,Bronze
+853,1,45-54,Male,Occasional,Silver
+854,6,55+,Female,New Client,Bronze
+855,1,25-34,Female,Occasional,Bronze
+856,1,35-44,Male,Occasional,Gold
+857,8,45-54,Female,Occasional,Silver
+858,1,45-54,Male,Regular,Silver
+859,6,35-44,Male,Occasional,Bronze
+860,1,18-24,Female,VIP,Bronze
+861,1,35-44,Female,Occasional,Silver
+862,1,25-34,Male,Regular,Gold
+863,6,35-44,Female,New Client,Platinum
+864,8,55+,Female,Occasional,Silver
+865,8,35-44,Female,Occasional,Silver
+866,3,45-54,Female,Occasional,Gold
+867,6,25-34,Male,Regular,Silver
+868,1,45-54,Female,New Client,Silver
+869,2,55+,Female,New Client,Bronze
+870,9,25-34,Male,Regular,Gold
+871,1,18-24,Female,New Client,Silver
+872,1,35-44,Female,Regular,Gold
+873,1,25-34,Male,Occasional,Gold
+874,1,45-54,Female,Regular,Bronze
+875,1,55+,Male,New Client,Gold
+876,6,35-44,Male,New Client,Gold
+877,4,25-34,Female,Occasional,Bronze
+878,9,35-44,Female,VIP,Bronze
+879,8,45-54,Female,Occasional,Bronze
+880,3,18-24,Female,Occasional,Silver
+881,2,35-44,Male,Regular,Bronze
+882,3,45-54,Male,VIP,Silver
+883,6,45-54,Female,Regular,Bronze
+884,2,25-34,Male,VIP,Gold
+885,6,45-54,Male,New Client,Bronze
+886,4,25-34,Male,New Client,Bronze
+887,6,25-34,Female,Regular,Silver
+888,4,55+,Female,Regular,Silver
+889,2,45-54,Female,New Client,Bronze
+890,10,18-24,Male,New Client,Bronze
+891,7,25-34,Female,Regular,Bronze
+892,1,25-34,Female,New Client,Gold
+893,8,25-34,Female,Occasional,Gold
+894,5,25-34,Female,Occasional,Silver
+895,9,25-34,Female,Occasional,Gold
+896,8,35-44,Male,Regular,Gold
+897,4,45-54,Female,Occasional,Bronze
+898,1,35-44,Female,Regular,Platinum
+899,2,45-54,Female,Occasional,Gold
+900,5,25-34,Female,Occasional,Bronze
+901,6,55+,Female,Regular,Bronze
+902,2,45-54,Female,New Client,Bronze
+903,1,45-54,Female,New Client,Bronze
+904,8,45-54,Female,New Client,Gold
+905,10,55+,Female,New Client,Silver
+906,5,35-44,Female,Occasional,Gold
+907,1,25-34,Male,Regular,Gold
+908,2,45-54,Male,Regular,Silver
+909,1,45-54,Female,Regular,Silver
+910,9,45-54,Female,Occasional,Bronze
+911,1,35-44,Male,Occasional,Bronze
+912,6,25-34,Female,Occasional,Silver
+913,2,35-44,Male,New Client,Bronze
+914,6,55+,Male,New Client,Bronze
+915,6,35-44,Female,Occasional,Gold
+916,8,35-44,Female,VIP,Silver
+917,1,25-34,Male,New Client,Bronze
+918,1,35-44,Female,New Client,Silver
+919,1,55+,Female,Regular,Gold
+920,9,45-54,Female,New Client,Bronze
+921,8,45-54,Female,Regular,Bronze
+922,6,35-44,Male,Regular,Platinum
+923,6,45-54,Male,VIP,Bronze
+924,6,25-34,Male,Occasional,Bronze
+925,1,45-54,Female,Regular,Silver
+926,9,35-44,Female,Occasional,Gold
+927,4,35-44,Female,Regular,Bronze
+928,3,45-54,Female,Occasional,Bronze
+929,5,55+,Female,New Client,Bronze
+930,1,25-34,Male,Occasional,Platinum
+931,1,45-54,Male,Occasional,Bronze
+932,7,25-34,Female,Regular,Silver
+933,1,35-44,Male,Regular,Platinum
+934,6,18-24,Female,Regular,Bronze
+935,1,35-44,Female,New Client,Platinum
+936,3,35-44,Male,Regular,Platinum
+937,2,18-24,Female,Occasional,Gold
+938,3,35-44,Male,VIP,Bronze
+939,6,55+,Male,VIP,Silver
+940,2,25-34,Female,New Client,Gold
+941,6,45-54,Male,Regular,Platinum
+942,5,35-44,Female,New Client,Bronze
+943,6,45-54,Female,Occasional,Gold
+944,9,25-34,Female,Occasional,Bronze
+945,7,25-34,Female,New Client,Bronze
+946,1,25-34,Male,Regular,Silver
+947,1,25-34,Female,New Client,Gold
+948,2,25-34,Male,New Client,Silver
+949,6,45-54,Female,Occasional,Silver
+950,1,55+,Female,Regular,Platinum
+951,5,45-54,Male,VIP,Silver
+952,6,45-54,Female,Regular,Silver
+953,3,25-34,Female,Regular,Bronze
+954,7,25-34,Female,Occasional,Silver
+955,1,35-44,Female,New Client,Silver
+956,1,25-34,Female,New Client,Platinum
+957,6,35-44,Male,Occasional,Silver
+958,5,35-44,Female,Regular,Gold
+959,6,35-44,Female,Occasional,Bronze
+960,4,35-44,Male,Regular,Bronze
+961,1,45-54,Female,Occasional,Silver
+962,8,45-54,Male,New Client,Bronze
+963,8,35-44,Female,New Client,Bronze
+964,6,55+,Female,Regular,Silver
+965,2,55+,Male,Regular,Bronze
+966,6,35-44,Male,VIP,Bronze
+967,3,35-44,Male,New Client,Silver
+968,1,35-44,Female,VIP,Silver
+969,9,55+,Female,New Client,Platinum
+970,1,55+,Female,New Client,Silver
+971,10,25-34,Female,VIP,Silver
+972,4,35-44,Male,New Client,Platinum
+973,1,35-44,Female,Regular,Gold
+974,5,35-44,Male,New Client,Bronze
+975,8,25-34,Male,Occasional,Bronze
+976,7,45-54,Female,VIP,Silver
+977,8,45-54,Female,Occasional,Silver
+978,6,45-54,Male,Regular,Gold
+979,6,45-54,Male,New Client,Gold
+980,8,45-54,Female,Regular,Silver
+981,1,35-44,Female,Occasional,Platinum
+982,5,45-54,Female,New Client,Silver
+983,1,25-34,Male,Occasional,Bronze
+984,10,45-54,Female,New Client,Gold
+985,10,25-34,Male,VIP,Bronze
+986,1,45-54,Female,Occasional,Gold
+987,6,25-34,Female,New Client,Platinum
+988,9,25-34,Female,Occasional,Silver
+989,1,25-34,Female,Occasional,Silver
+990,6,18-24,Female,Regular,Silver
+991,9,45-54,Female,VIP,Bronze
+992,1,45-54,Female,Occasional,Bronze
+993,6,35-44,Female,Regular,Silver
+994,2,25-34,Female,Occasional,Gold
+995,9,25-34,Male,New Client,Silver
+996,10,18-24,Female,Regular,Bronze
+997,10,25-34,Female,Occasional,Silver
+998,5,55+,Female,Regular,Gold
+999,8,25-34,Male,VIP,Silver
+1000,8,35-44,Female,Occasional,Silver
+1001,2,25-34,Male,VIP,Gold
+1002,8,25-34,Male,Regular,Silver
+1003,1,35-44,Male,Occasional,Silver
+1004,6,35-44,Female,Regular,Gold
+1005,1,25-34,Male,Occasional,Bronze
+1006,1,18-24,Female,VIP,Platinum
+1007,1,35-44,Male,Regular,Bronze
+1008,6,25-34,Male,New Client,Bronze
+1009,3,25-34,Female,Occasional,Gold
+1010,6,55+,Male,Regular,Bronze
+1011,1,45-54,Female,New Client,Gold
+1012,2,35-44,Male,New Client,Gold
+1013,5,35-44,Female,Occasional,Gold
+1014,8,35-44,Female,Occasional,Platinum
+1015,2,35-44,Female,Occasional,Bronze
+1016,6,45-54,Male,New Client,Gold
+1017,9,45-54,Female,New Client,Bronze
+1018,6,25-34,Female,Regular,Silver
+1019,1,35-44,Female,Occasional,Gold
+1020,1,35-44,Male,New Client,Bronze
+1021,8,55+,Female,Occasional,Silver
+1022,1,45-54,Female,Occasional,Silver
+1023,8,35-44,Female,New Client,Silver
+1024,5,25-34,Female,New Client,Platinum
+1025,9,35-44,Female,New Client,Bronze
+1026,8,25-34,Female,Regular,Silver
+1027,10,35-44,Male,Regular,Gold
+1028,3,25-34,Female,Regular,Silver
+1029,7,45-54,Female,Regular,Bronze
+1030,4,25-34,Female,Regular,Silver
+1031,5,35-44,Male,Occasional,Bronze
+1032,6,55+,Male,Regular,Bronze
+1033,8,25-34,Male,New Client,Gold
+1034,10,35-44,Female,Regular,Silver
+1035,7,35-44,Female,Regular,Platinum
+1036,4,18-24,Female,Occasional,Gold
+1037,4,45-54,Female,Occasional,Silver
+1038,7,25-34,Female,New Client,Bronze
+1039,1,35-44,Male,Regular,Silver
+1040,1,35-44,Male,Regular,Bronze
+1041,3,45-54,Male,Regular,Gold
+1042,2,45-54,Female,Occasional,Bronze
+1043,2,25-34,Male,Regular,Bronze
+1044,1,18-24,Female,Occasional,Silver
+1045,1,45-54,Female,VIP,Bronze
+1046,1,35-44,Male,Occasional,Bronze
+1047,10,45-54,Female,Occasional,Silver
+1048,4,45-54,Female,Occasional,Bronze
+1049,3,45-54,Female,Regular,Bronze
+1050,6,35-44,Male,VIP,Bronze
+1051,1,35-44,Male,New Client,Gold
+1052,10,45-54,Female,New Client,Silver
+1053,8,35-44,Male,VIP,Silver
+1054,1,25-34,Female,Occasional,Silver
+1055,4,45-54,Female,Regular,Bronze
+1056,8,55+,Male,Occasional,Platinum
+1057,10,35-44,Male,New Client,Bronze
+1058,4,25-34,Male,Regular,Silver
+1059,6,35-44,Female,Regular,Gold
+1060,1,45-54,Male,Occasional,Gold
+1061,10,55+,Male,Occasional,Bronze
+1062,1,25-34,Male,Regular,Bronze
+1063,10,25-34,Female,New Client,Gold
+1064,6,55+,Male,VIP,Bronze
+1065,6,35-44,Female,New Client,Gold
+1066,5,35-44,Female,Occasional,Gold
+1067,1,55+,Female,VIP,Gold
+1068,1,25-34,Female,Regular,Bronze
+1069,1,45-54,Female,Occasional,Gold
+1070,1,25-34,Male,Regular,Silver
+1071,7,35-44,Female,Occasional,Gold
+1072,3,45-54,Male,New Client,Bronze
+1073,1,35-44,Female,VIP,Bronze
+1074,10,55+,Female,Regular,Bronze
+1075,9,35-44,Female,Regular,Bronze
+1076,9,35-44,Female,Occasional,Silver
+1077,10,25-34,Female,New Client,Gold
+1078,1,35-44,Female,New Client,Silver
+1079,3,35-44,Female,Occasional,Gold
+1080,7,25-34,Female,Regular,Bronze
+1081,6,35-44,Female,Occasional,Bronze
+1082,1,35-44,Female,Regular,Bronze
+1083,8,45-54,Female,New Client,Bronze
+1084,1,45-54,Male,Occasional,Gold
+1085,1,45-54,Male,New Client,Bronze
+1086,5,18-24,Male,Occasional,Silver
+1087,6,25-34,Female,New Client,Silver
+1088,6,45-54,Male,VIP,Platinum
+1089,1,35-44,Male,New Client,Bronze
+1090,8,18-24,Male,VIP,Bronze
+1091,2,45-54,Female,Occasional,Bronze
+1092,1,45-54,Male,VIP,Silver
+1093,9,35-44,Male,Occasional,Bronze
+1094,10,25-34,Female,VIP,Gold
+1095,8,45-54,Male,New Client,Silver
+1096,8,35-44,Female,Regular,Silver
+1097,6,45-54,Female,VIP,Silver
+1098,6,45-54,Female,New Client,Bronze
+1099,1,45-54,Male,New Client,Silver
+1100,4,35-44,Female,Occasional,Platinum
+1101,3,25-34,Female,VIP,Gold
+1102,2,45-54,Female,Occasional,Gold
+1103,6,45-54,Female,Occasional,Gold
+1104,5,45-54,Female,New Client,Bronze
+1105,1,25-34,Male,New Client,Bronze
+1106,1,25-34,Male,Regular,Bronze
+1107,6,55+,Female,New Client,Bronze
+1108,1,45-54,Female,Regular,Bronze
+1109,8,55+,Female,VIP,Silver
+1110,5,45-54,Male,New Client,Silver
+1111,5,35-44,Female,Regular,Gold
+1112,6,45-54,Female,New Client,Gold
+1113,8,55+,Female,Regular,Platinum
+1114,3,35-44,Male,New Client,Bronze
+1115,6,45-54,Male,Regular,Bronze
+1116,6,25-34,Male,Occasional,Silver
+1117,2,35-44,Male,Occasional,Bronze
+1118,8,45-54,Female,Occasional,Bronze
+1119,8,25-34,Female,New Client,Bronze
+1120,6,25-34,Female,Regular,Bronze
+1121,8,35-44,Female,Occasional,Silver
+1122,8,25-34,Female,Regular,Silver
+1123,6,25-34,Female,New Client,Silver
+1124,8,35-44,Female,Regular,Silver
+1125,6,55+,Male,New Client,Silver
+1126,6,35-44,Male,Occasional,Bronze
+1127,6,25-34,Male,New Client,Bronze
+1128,7,25-34,Male,Regular,Bronze
+1129,1,45-54,Female,New Client,Gold
+1130,9,35-44,Male,VIP,Gold
+1131,8,45-54,Female,VIP,Silver
+1132,1,45-54,Male,New Client,Bronze
+1133,8,45-54,Female,Regular,Silver
+1134,1,25-34,Male,New Client,Silver
+1135,3,45-54,Female,Occasional,Silver
+1136,7,25-34,Female,Regular,Silver
+1137,1,55+,Male,Regular,Silver
+1138,8,45-54,Female,Regular,Silver
+1139,8,35-44,Male,New Client,Gold
+1140,5,25-34,Male,Occasional,Bronze
+1141,1,25-34,Male,New Client,Gold
+1142,2,45-54,Male,Regular,Bronze
+1143,6,25-34,Male,Occasional,Bronze
+1144,10,35-44,Female,Regular,Platinum
+1145,6,25-34,Male,New Client,Platinum
+1146,2,45-54,Male,Occasional,Bronze
+1147,6,45-54,Male,Occasional,Silver
+1148,5,45-54,Female,New Client,Bronze
+1149,7,45-54,Male,Occasional,Silver
+1150,1,25-34,Male,Regular,Gold
+1151,7,25-34,Male,VIP,Platinum
+1152,5,45-54,Female,Occasional,Silver
+1153,10,35-44,Female,Occasional,Bronze
+1154,3,35-44,Female,New Client,Silver
+1155,6,18-24,Male,Regular,Bronze
+1156,9,25-34,Male,New Client,Gold
+1157,1,18-24,Female,VIP,Gold
+1158,9,55+,Female,Occasional,Silver
+1159,6,25-34,Female,Occasional,Bronze
+1160,1,35-44,Female,VIP,Bronze
+1161,2,18-24,Male,New Client,Bronze
+1162,6,45-54,Male,Occasional,Gold
+1163,1,35-44,Female,Occasional,Silver
+1164,6,55+,Female,New Client,Bronze
+1165,3,55+,Female,Occasional,Silver
+1166,6,35-44,Male,Regular,Gold
+1167,1,55+,Female,Regular,Bronze
+1168,8,55+,Female,New Client,Gold
+1169,10,45-54,Female,VIP,Gold
+1170,10,45-54,Male,New Client,Platinum
+1171,7,25-34,Male,New Client,Silver
+1172,1,35-44,Male,New Client,Bronze
+1173,7,25-34,Female,New Client,Bronze
+1174,1,25-34,Female,New Client,Bronze
+1175,1,55+,Female,VIP,Bronze
+1176,2,35-44,Male,Occasional,Silver
+1177,5,45-54,Female,New Client,Silver
+1178,7,45-54,Male,New Client,Gold
+1179,6,45-54,Male,Regular,Bronze
+1180,4,55+,Male,Regular,Silver
+1181,2,25-34,Female,New Client,Gold
+1182,10,18-24,Female,New Client,Gold
+1183,4,35-44,Female,New Client,Gold
+1184,4,25-34,Male,New Client,Gold
+1185,1,18-24,Male,New Client,Platinum
+1186,8,35-44,Female,Occasional,Bronze
+1187,6,45-54,Female,New Client,Silver
+1188,1,35-44,Male,Occasional,Bronze
+1189,1,35-44,Male,New Client,Bronze
+1190,6,45-54,Female,VIP,Bronze
+1191,6,25-34,Female,VIP,Bronze
+1192,2,18-24,Female,Occasional,Bronze
+1193,10,45-54,Female,Occasional,Bronze
+1194,1,45-54,Male,Occasional,Bronze
+1195,4,45-54,Male,Occasional,Gold
+1196,10,18-24,Male,Regular,Bronze
+1197,4,45-54,Female,Occasional,Gold
+1198,6,45-54,Male,Regular,Bronze
+1199,3,35-44,Female,VIP,Gold
+1200,2,45-54,Female,Occasional,Gold
+1201,10,55+,Female,Occasional,Silver
+1202,4,35-44,Female,New Client,Silver
+1203,9,35-44,Male,New Client,Bronze
+1204,1,55+,Male,Occasional,Platinum
+1205,1,45-54,Female,New Client,Gold
+1206,1,35-44,Female,Regular,Gold
+1207,6,45-54,Female,New Client,Silver
+1208,3,35-44,Female,Occasional,Bronze
+1209,8,25-34,Male,Regular,Gold
+1210,5,35-44,Male,Regular,Bronze
+1211,10,55+,Female,Occasional,Silver
+1212,1,55+,Female,Regular,Bronze
+1213,8,35-44,Female,Occasional,Platinum
+1214,7,35-44,Male,Occasional,Bronze
+1215,7,25-34,Female,New Client,Bronze
+1216,8,55+,Female,Occasional,Silver
+1217,7,55+,Male,Regular,Gold
+1218,6,45-54,Female,Regular,Silver
+1219,1,45-54,Female,Regular,Bronze
+1220,1,45-54,Male,Occasional,Bronze
+1221,9,35-44,Male,New Client,Gold
+1222,6,18-24,Male,New Client,Platinum
+1223,8,35-44,Male,Occasional,Gold
+1224,5,45-54,Male,Regular,Silver
+1225,1,45-54,Female,Regular,Gold
+1226,1,35-44,Female,New Client,Silver
+1227,6,55+,Female,Occasional,Silver
+1228,4,25-34,Female,Occasional,Silver
+1229,1,35-44,Male,Occasional,Silver
+1230,5,45-54,Male,New Client,Gold
+1231,1,45-54,Male,New Client,Silver
+1232,6,45-54,Male,New Client,Bronze
+1233,2,25-34,Female,New Client,Bronze
+1234,8,25-34,Female,New Client,Bronze
+1235,2,45-54,Male,New Client,Silver
+1236,4,35-44,Female,Regular,Bronze
+1237,1,25-34,Male,Occasional,Bronze
+1238,1,45-54,Male,VIP,Silver
+1239,3,35-44,Male,New Client,Silver
+1240,5,45-54,Male,Occasional,Gold
+1241,6,45-54,Female,Occasional,Silver
+1242,2,25-34,Male,New Client,Gold
+1243,6,18-24,Male,Regular,Platinum
+1244,8,45-54,Female,New Client,Gold
+1245,7,35-44,Male,VIP,Silver
+1246,1,45-54,Female,VIP,Bronze
+1247,5,45-54,Male,Occasional,Platinum
+1248,1,45-54,Female,Occasional,Bronze
+1249,1,55+,Female,Regular,Bronze
+1250,10,35-44,Female,Occasional,Silver
+1251,1,35-44,Male,Regular,Bronze
+1252,5,35-44,Female,New Client,Platinum
+1253,6,25-34,Female,New Client,Silver
+1254,6,35-44,Female,Occasional,Silver
+1255,6,25-34,Male,Occasional,Silver
+1256,1,55+,Female,VIP,Silver
+1257,2,35-44,Female,New Client,Bronze
+1258,5,35-44,Male,Regular,Silver
+1259,1,35-44,Female,New Client,Gold
+1260,3,18-24,Male,Occasional,Silver
+1261,1,18-24,Female,Occasional,Gold
+1262,1,35-44,Male,Occasional,Bronze
+1263,3,25-34,Female,New Client,Bronze
+1264,1,35-44,Female,Occasional,Bronze
+1265,6,55+,Male,Regular,Bronze
+1266,6,55+,Male,Occasional,Gold
+1267,8,45-54,Male,Occasional,Gold
+1268,1,25-34,Female,Regular,Silver
+1269,1,55+,Female,Regular,Silver
+1270,1,55+,Female,Occasional,Gold
+1271,6,25-34,Male,New Client,Bronze
+1272,6,45-54,Female,VIP,Bronze
+1273,1,25-34,Female,Occasional,Platinum
+1274,9,45-54,Female,New Client,Silver
+1275,1,55+,Female,New Client,Platinum
+1276,5,18-24,Female,Regular,Bronze
+1277,6,55+,Male,New Client,Gold
+1278,8,45-54,Female,VIP,Bronze
+1279,6,55+,Male,New Client,Bronze
+1280,8,35-44,Female,Regular,Silver
+1281,3,45-54,Male,Occasional,Bronze
+1282,8,25-34,Male,Occasional,Bronze
+1283,1,35-44,Female,VIP,Bronze
+1284,9,25-34,Male,Occasional,Bronze
+1285,5,55+,Female,Occasional,Gold
+1286,8,45-54,Male,New Client,Silver
+1287,4,45-54,Male,New Client,Bronze
+1288,6,55+,Female,New Client,Bronze
+1289,5,25-34,Female,Regular,Bronze
+1290,7,35-44,Female,New Client,Silver
+1291,1,25-34,Female,New Client,Bronze
+1292,1,25-34,Female,Occasional,Gold
+1293,1,25-34,Female,Regular,Bronze
+1294,1,35-44,Female,Regular,Bronze
+1295,8,25-34,Male,New Client,Gold
+1296,1,25-34,Female,New Client,Gold
+1297,10,25-34,Female,VIP,Bronze
+1298,3,25-34,Male,New Client,Gold
+1299,1,55+,Female,Regular,Silver
+1300,8,45-54,Female,Regular,Gold
+1301,6,55+,Female,Regular,Silver
+1302,5,35-44,Male,New Client,Silver
+1303,6,25-34,Male,Regular,Platinum
+1304,6,45-54,Female,Regular,Bronze
+1305,1,35-44,Male,Occasional,Silver
+1306,10,25-34,Female,Occasional,Silver
+1307,10,25-34,Male,New Client,Bronze
+1308,6,25-34,Male,New Client,Bronze
+1309,1,25-34,Male,Occasional,Bronze
+1310,6,35-44,Female,Occasional,Silver
+1311,1,45-54,Female,Occasional,Silver
+1312,1,25-34,Female,Occasional,Silver
+1313,2,25-34,Male,Occasional,Bronze
+1314,4,45-54,Female,Regular,Silver
+1315,8,25-34,Male,VIP,Platinum
+1316,6,35-44,Male,New Client,Silver
+1317,7,55+,Female,Occasional,Silver
+1318,4,25-34,Male,New Client,Gold
+1319,3,25-34,Male,Regular,Gold
+1320,3,35-44,Male,Regular,Silver
+1321,10,35-44,Male,VIP,Gold
+1322,1,35-44,Male,New Client,Silver
+1323,8,45-54,Female,VIP,Gold
+1324,6,25-34,Male,New Client,Bronze
+1325,4,35-44,Female,Regular,Bronze
+1326,6,35-44,Male,New Client,Bronze
+1327,5,25-34,Male,VIP,Gold
+1328,8,45-54,Female,Occasional,Silver
+1329,9,25-34,Male,Regular,Bronze
+1330,4,35-44,Female,Regular,Bronze
+1331,2,25-34,Female,New Client,Gold
+1332,6,35-44,Female,New Client,Gold
+1333,9,35-44,Male,Regular,Silver
+1334,1,45-54,Male,Occasional,Silver
+1335,6,18-24,Male,New Client,Silver
+1336,6,35-44,Female,Occasional,Silver
+1337,7,35-44,Male,Occasional,Gold
+1338,1,45-54,Male,New Client,Bronze
+1339,6,35-44,Female,New Client,Silver
+1340,9,45-54,Female,New Client,Bronze
+1341,1,45-54,Female,Occasional,Silver
+1342,1,55+,Male,VIP,Silver
+1343,10,35-44,Male,VIP,Silver
+1344,1,35-44,Male,Regular,Bronze
+1345,8,45-54,Female,New Client,Silver
+1346,5,55+,Male,VIP,Bronze
+1347,1,55+,Female,Occasional,Bronze
+1348,8,35-44,Female,New Client,Bronze
+1349,4,25-34,Male,VIP,Gold
+1350,5,35-44,Female,Regular,Silver
+1351,3,45-54,Male,Regular,Silver
+1352,6,35-44,Female,Regular,Gold
+1353,1,35-44,Male,New Client,Silver
+1354,3,45-54,Female,New Client,Silver
+1355,10,35-44,Male,Regular,Silver
+1356,2,45-54,Female,New Client,Bronze
+1357,6,35-44,Female,Occasional,Silver
+1358,2,35-44,Male,Regular,Silver
+1359,7,35-44,Female,Regular,Gold
+1360,1,45-54,Male,Occasional,Gold
+1361,10,25-34,Male,Regular,Bronze
+1362,4,25-34,Female,Regular,Bronze
+1363,1,55+,Female,Regular,Silver
+1364,1,25-34,Male,New Client,Bronze
+1365,1,35-44,Male,New Client,Bronze
+1366,5,35-44,Male,Occasional,Gold
+1367,3,35-44,Female,New Client,Bronze
+1368,8,45-54,Male,New Client,Platinum
+1369,4,25-34,Female,New Client,Gold
+1370,1,35-44,Male,Occasional,Gold
+1371,6,35-44,Male,VIP,Bronze
+1372,6,45-54,Female,New Client,Bronze
+1373,1,25-34,Female,Regular,Silver
+1374,1,35-44,Female,Regular,Bronze
+1375,1,25-34,Female,New Client,Bronze
+1376,7,25-34,Male,VIP,Bronze
+1377,6,25-34,Female,Occasional,Bronze
+1378,5,25-34,Female,Occasional,Bronze
+1379,8,45-54,Female,Regular,Gold
+1380,8,25-34,Male,New Client,Bronze
+1381,6,55+,Male,Regular,Bronze
+1382,8,55+,Female,New Client,Silver
+1383,1,35-44,Female,Regular,Platinum
+1384,1,25-34,Male,Occasional,Bronze
+1385,2,35-44,Male,Regular,Bronze
+1386,1,45-54,Female,New Client,Silver
+1387,5,35-44,Female,Regular,Gold
+1388,9,25-34,Female,Regular,Gold
+1389,1,35-44,Female,Occasional,Silver
+1390,1,45-54,Male,Regular,Bronze
+1391,4,45-54,Male,Occasional,Silver
+1392,9,25-34,Female,VIP,Bronze
+1393,2,45-54,Male,Occasional,Silver
+1394,5,25-34,Female,Regular,Gold
+1395,1,25-34,Male,Regular,Platinum
+1396,1,55+,Male,Occasional,Bronze
+1397,10,25-34,Female,New Client,Bronze
+1398,10,25-34,Female,Occasional,Silver
+1399,1,18-24,Male,Regular,Gold
+1400,10,55+,Female,New Client,Gold
+1401,6,45-54,Female,Occasional,Bronze
+1402,8,45-54,Female,Regular,Bronze
+1403,4,45-54,Male,Occasional,Silver
+1404,5,25-34,Female,Regular,Bronze
+1405,5,35-44,Male,New Client,Gold
+1406,6,35-44,Female,New Client,Silver
+1407,1,25-34,Male,Regular,Gold
+1408,1,35-44,Male,New Client,Silver
+1409,2,55+,Male,New Client,Gold
+1410,6,18-24,Female,Regular,Bronze
+1411,1,25-34,Male,Occasional,Gold
+1412,6,25-34,Male,VIP,Bronze
+1413,10,25-34,Female,VIP,Silver
+1414,1,55+,Female,New Client,Bronze
+1415,6,35-44,Female,New Client,Silver
+1416,4,35-44,Female,Regular,Bronze
+1417,8,45-54,Male,Occasional,Bronze
+1418,1,25-34,Female,New Client,Platinum
+1419,6,35-44,Female,Regular,Bronze
+1420,8,35-44,Male,New Client,Gold
+1421,10,35-44,Female,Regular,Platinum
+1422,6,55+,Female,New Client,Bronze
+1423,5,45-54,Female,New Client,Silver
+1424,6,35-44,Male,New Client,Bronze
+1425,8,45-54,Male,VIP,Bronze
+1426,6,25-34,Male,Regular,Silver
+1427,1,18-24,Female,Regular,Platinum
+1428,9,25-34,Male,Occasional,Bronze
+1429,6,35-44,Female,Occasional,Silver
+1430,6,35-44,Female,New Client,Silver
+1431,1,45-54,Female,Occasional,Gold
+1432,6,55+,Male,Occasional,Bronze
+1433,3,35-44,Female,Regular,Silver
+1434,6,35-44,Female,New Client,Silver
+1435,1,18-24,Female,VIP,Silver
+1436,6,18-24,Female,New Client,Platinum
+1437,10,35-44,Male,VIP,Gold
+1438,1,35-44,Female,New Client,Bronze
+1439,10,45-54,Male,Occasional,Silver
+1440,4,25-34,Female,Occasional,Silver
+1441,8,18-24,Male,Occasional,Bronze
+1442,8,35-44,Male,Occasional,Silver
+1443,6,25-34,Female,Occasional,Silver
+1444,7,18-24,Female,Occasional,Silver
+1445,8,45-54,Male,Regular,Platinum
+1446,4,25-34,Male,Regular,Bronze
+1447,2,35-44,Female,Regular,Platinum
+1448,6,25-34,Female,New Client,Silver
+1449,8,25-34,Male,Regular,Silver
+1450,7,35-44,Male,Occasional,Gold
+1451,8,45-54,Female,Occasional,Bronze
+1452,4,35-44,Female,Occasional,Silver
+1453,8,45-54,Female,Occasional,Silver
+1454,1,25-34,Male,New Client,Bronze
+1455,5,45-54,Female,New Client,Platinum
+1456,1,25-34,Male,New Client,Gold
+1457,2,45-54,Female,Regular,Bronze
+1458,3,35-44,Female,Regular,Bronze
+1459,3,55+,Female,VIP,Silver
+1460,6,35-44,Male,Regular,Bronze
+1461,3,25-34,Male,New Client,Silver
+1462,4,18-24,Female,VIP,Bronze
+1463,1,45-54,Male,Regular,Silver
+1464,3,35-44,Male,Occasional,Bronze
+1465,1,45-54,Female,Occasional,Bronze
+1466,1,25-34,Female,VIP,Silver
+1467,6,35-44,Female,Occasional,Silver
+1468,6,18-24,Female,VIP,Platinum
+1469,6,55+,Male,New Client,Gold
+1470,4,45-54,Female,New Client,Bronze
+1471,3,55+,Male,Occasional,Bronze
+1472,8,25-34,Female,Occasional,Gold
+1473,5,45-54,Male,Regular,Gold
+1474,5,45-54,Female,VIP,Gold
+1475,1,35-44,Female,Occasional,Bronze
+1476,3,45-54,Female,New Client,Platinum
+1477,3,55+,Female,Regular,Bronze
+1478,3,55+,Male,Regular,Gold
+1479,6,45-54,Female,New Client,Gold
+1480,5,25-34,Male,Occasional,Bronze
+1481,6,25-34,Female,Regular,Gold
+1482,7,55+,Female,Regular,Bronze
+1483,8,18-24,Female,Occasional,Platinum
+1484,6,45-54,Male,Occasional,Bronze
+1485,10,45-54,Male,VIP,Platinum
+1486,1,45-54,Female,Regular,Bronze
+1487,1,55+,Female,Occasional,Gold
+1488,1,35-44,Female,New Client,Silver
+1489,6,35-44,Male,Regular,Silver
+1490,9,25-34,Male,New Client,Bronze
+1491,1,35-44,Female,New Client,Gold
+1492,9,25-34,Male,Occasional,Bronze
+1493,1,35-44,Female,New Client,Silver
+1494,9,45-54,Male,Regular,Bronze
+1495,3,55+,Female,New Client,Platinum
+1496,1,25-34,Male,Regular,Bronze
+1497,5,35-44,Female,New Client,Bronze
+1498,2,55+,Male,New Client,Bronze
+1499,2,25-34,Male,New Client,Silver
+1500,2,25-34,Male,VIP,Bronze
+1501,8,25-34,Male,Regular,Silver
+1502,5,35-44,Male,New Client,Gold
+1503,2,25-34,Female,Regular,Gold
+1504,6,55+,Female,Regular,Silver
+1505,6,35-44,Female,VIP,Bronze
+1506,2,35-44,Male,Occasional,Silver
+1507,4,25-34,Female,Regular,Bronze
+1508,1,35-44,Male,New Client,Gold
+1509,1,45-54,Male,Occasional,Bronze
+1510,6,45-54,Female,VIP,Silver
+1511,1,45-54,Female,Occasional,Bronze
+1512,5,35-44,Female,New Client,Gold
+1513,6,55+,Female,New Client,Bronze
+1514,1,45-54,Female,Regular,Silver
+1515,6,45-54,Female,Regular,Bronze
+1516,2,18-24,Male,Occasional,Gold
+1517,10,18-24,Male,VIP,Gold
+1518,5,25-34,Female,New Client,Silver
+1519,8,45-54,Female,Occasional,Silver
+1520,6,35-44,Female,VIP,Platinum
+1521,1,35-44,Male,Occasional,Silver
+1522,6,55+,Male,New Client,Silver
+1523,10,55+,Female,Occasional,Silver
+1524,6,55+,Female,Regular,Silver
+1525,8,35-44,Male,New Client,Bronze
+1526,9,45-54,Male,VIP,Gold
+1527,1,25-34,Female,Regular,Silver
+1528,1,25-34,Male,New Client,Bronze
+1529,6,25-34,Female,Regular,Gold
+1530,4,35-44,Female,Occasional,Bronze
+1531,8,35-44,Male,Occasional,Bronze
+1532,9,45-54,Male,Regular,Silver
+1533,3,25-34,Female,VIP,Gold
+1534,1,45-54,Male,New Client,Gold
+1535,8,35-44,Female,Occasional,Platinum
+1536,2,25-34,Male,Occasional,Gold
+1537,8,35-44,Female,Occasional,Bronze
+1538,4,25-34,Male,Occasional,Silver
+1539,6,35-44,Male,New Client,Gold
+1540,1,35-44,Female,Regular,Bronze
+1541,6,25-34,Male,Occasional,Silver
+1542,4,25-34,Male,New Client,Silver
+1543,6,35-44,Male,Regular,Bronze
+1544,1,55+,Female,Regular,Gold
+1545,7,35-44,Male,Occasional,Silver
+1546,8,45-54,Male,New Client,Silver
+1547,1,45-54,Female,Regular,Platinum
+1548,1,55+,Male,New Client,Silver
+1549,1,45-54,Female,New Client,Bronze
+1550,6,35-44,Female,Regular,Silver
+1551,6,45-54,Female,New Client,Gold
+1552,5,55+,Female,New Client,Gold
+1553,1,35-44,Male,New Client,Gold
+1554,3,35-44,Female,New Client,Gold
+1555,6,18-24,Male,New Client,Bronze
+1556,5,45-54,Female,VIP,Gold
+1557,10,45-54,Female,New Client,Gold
+1558,1,25-34,Female,New Client,Bronze
+1559,6,35-44,Female,New Client,Bronze
+1560,4,35-44,Male,VIP,Platinum
+1561,4,25-34,Male,Occasional,Gold
+1562,6,55+,Male,Occasional,Gold
+1563,6,25-34,Female,Regular,Gold
+1564,10,25-34,Female,Occasional,Silver
+1565,1,35-44,Female,Occasional,Silver
+1566,1,45-54,Female,New Client,Silver
+1567,6,18-24,Female,Occasional,Bronze
+1568,6,45-54,Male,Occasional,Gold
+1569,2,35-44,Female,Regular,Silver
+1570,1,25-34,Male,New Client,Silver
+1571,1,25-34,Female,Occasional,Silver
+1572,9,35-44,Female,New Client,Silver
+1573,1,25-34,Male,New Client,Bronze
+1574,2,55+,Female,Occasional,Bronze
+1575,1,45-54,Male,VIP,Bronze
+1576,3,55+,Male,Occasional,Bronze
+1577,1,25-34,Female,Regular,Platinum
+1578,5,55+,Male,New Client,Bronze
+1579,1,35-44,Female,New Client,Bronze
+1580,8,35-44,Female,New Client,Silver
+1581,1,18-24,Male,Occasional,Silver
+1582,5,18-24,Female,New Client,Bronze
+1583,9,45-54,Male,New Client,Gold
+1584,6,35-44,Male,Regular,Gold
+1585,5,25-34,Male,New Client,Bronze
+1586,2,45-54,Female,Occasional,Bronze
+1587,3,25-34,Female,Occasional,Platinum
+1588,6,35-44,Male,Occasional,Gold
+1589,10,35-44,Female,Occasional,Silver
+1590,6,45-54,Female,Occasional,Bronze
+1591,6,45-54,Female,New Client,Silver
+1592,7,35-44,Female,Regular,Silver
+1593,4,35-44,Female,Regular,Bronze
+1594,1,35-44,Male,New Client,Silver
+1595,6,45-54,Male,New Client,Silver
+1596,10,35-44,Female,VIP,Bronze
+1597,1,25-34,Female,Occasional,Gold
+1598,6,25-34,Female,Occasional,Gold
+1599,1,35-44,Male,Occasional,Bronze
+1600,5,35-44,Female,New Client,Gold
+1601,1,45-54,Male,Occasional,Bronze
+1602,4,25-34,Female,Occasional,Gold
+1603,7,35-44,Male,New Client,Bronze
+1604,3,45-54,Female,Occasional,Bronze
+1605,6,45-54,Male,Regular,Silver
+1606,8,35-44,Female,Occasional,Silver
+1607,9,35-44,Male,New Client,Gold
+1608,1,35-44,Female,Occasional,Bronze
+1609,3,55+,Male,Regular,Bronze
+1610,1,25-34,Male,Regular,Silver
+1611,10,55+,Female,Regular,Silver
+1612,9,45-54,Male,New Client,Bronze
+1613,5,35-44,Male,Regular,Silver
+1614,8,18-24,Female,Regular,Gold
+1615,5,35-44,Female,New Client,Gold
+1616,6,35-44,Female,Occasional,Platinum
+1617,1,25-34,Male,Occasional,Bronze
+1618,7,45-54,Male,Regular,Gold
+1619,1,55+,Female,New Client,Silver
+1620,8,35-44,Female,Occasional,Silver
+1621,8,45-54,Male,VIP,Silver
+1622,6,25-34,Male,Regular,Platinum
+1623,1,35-44,Female,VIP,Gold
+1624,2,25-34,Male,VIP,Platinum
+1625,2,45-54,Female,New Client,Gold
+1626,3,55+,Female,Regular,Gold
+1627,1,45-54,Male,Occasional,Gold
+1628,9,25-34,Female,Regular,Silver
+1629,6,35-44,Female,New Client,Bronze
+1630,2,35-44,Female,VIP,Bronze
+1631,3,35-44,Male,Regular,Bronze
+1632,4,45-54,Male,Regular,Silver
+1633,6,45-54,Female,New Client,Silver
+1634,5,45-54,Female,New Client,Silver
+1635,9,35-44,Female,Regular,Platinum
+1636,5,25-34,Female,New Client,Gold
+1637,10,25-34,Female,Regular,Bronze
+1638,8,35-44,Male,New Client,Bronze
+1639,1,35-44,Female,Regular,Silver
+1640,9,45-54,Female,Occasional,Bronze
+1641,1,45-54,Female,Regular,Gold
+1642,8,25-34,Female,Regular,Silver
+1643,3,35-44,Male,Occasional,Silver
+1644,8,25-34,Female,New Client,Gold
+1645,8,25-34,Female,New Client,Gold
+1646,8,45-54,Female,Occasional,Bronze
+1647,8,18-24,Female,Occasional,Gold
+1648,2,35-44,Female,Regular,Silver
+1649,1,25-34,Female,Occasional,Bronze
+1650,4,55+,Female,Occasional,Bronze
+1651,1,35-44,Female,Occasional,Silver
+1652,6,25-34,Female,New Client,Bronze
+1653,3,35-44,Female,Occasional,Bronze
+1654,10,45-54,Male,VIP,Silver
+1655,6,55+,Female,Regular,Gold
+1656,8,25-34,Female,Occasional,Bronze
+1657,1,55+,Female,Occasional,Bronze
+1658,8,55+,Female,Regular,Gold
+1659,9,55+,Male,Occasional,Bronze
+1660,5,45-54,Female,New Client,Platinum
+1661,6,45-54,Male,New Client,Silver
+1662,7,35-44,Female,Occasional,Bronze
+1663,1,45-54,Female,VIP,Bronze
+1664,5,35-44,Male,Regular,Bronze
+1665,3,45-54,Female,New Client,Bronze
+1666,1,35-44,Female,New Client,Bronze
+1667,3,45-54,Female,Regular,Silver
+1668,1,45-54,Male,Regular,Bronze
+1669,1,25-34,Female,Regular,Silver
+1670,1,45-54,Male,Regular,Silver
+1671,10,35-44,Female,New Client,Bronze
+1672,5,45-54,Male,Regular,Bronze
+1673,10,35-44,Female,Regular,Bronze
+1674,4,35-44,Male,New Client,Bronze
+1675,2,55+,Female,Regular,Gold
+1676,5,25-34,Male,New Client,Bronze
+1677,4,45-54,Female,New Client,Gold
+1678,1,35-44,Female,New Client,Silver
+1679,6,35-44,Female,New Client,Silver
+1680,1,35-44,Female,Occasional,Silver
+1681,6,35-44,Female,Occasional,Gold
+1682,6,35-44,Male,Occasional,Bronze
+1683,1,18-24,Male,Occasional,Bronze
+1684,1,25-34,Female,New Client,Silver
+1685,8,18-24,Male,New Client,Bronze
+1686,4,55+,Female,Regular,Silver
+1687,1,55+,Female,Occasional,Silver
+1688,10,35-44,Male,New Client,Silver
+1689,1,45-54,Male,Regular,Silver
+1690,6,35-44,Male,Regular,Silver
+1691,10,45-54,Female,Regular,Gold
+1692,1,45-54,Male,Occasional,Gold
+1693,1,55+,Female,New Client,Silver
+1694,1,35-44,Female,Regular,Silver
+1695,2,45-54,Female,New Client,Gold
+1696,1,25-34,Male,Occasional,Silver
+1697,6,55+,Male,New Client,Silver
+1698,1,18-24,Male,Regular,Gold
+1699,5,35-44,Female,New Client,Silver
+1700,10,45-54,Female,VIP,Bronze
+1701,8,45-54,Female,Regular,Gold
+1702,6,25-34,Female,Occasional,Bronze
+1703,2,55+,Female,Regular,Gold
+1704,6,25-34,Male,Regular,Gold
+1705,5,45-54,Female,Regular,Platinum
+1706,4,25-34,Female,Occasional,Bronze
+1707,1,35-44,Female,Regular,Silver
+1708,9,35-44,Female,Occasional,Silver
+1709,4,35-44,Female,VIP,Bronze
+1710,1,25-34,Male,Occasional,Bronze
+1711,3,25-34,Male,Occasional,Silver
+1712,4,35-44,Male,Regular,Silver
+1713,8,45-54,Female,Regular,Bronze
+1714,7,55+,Female,Occasional,Silver
+1715,7,25-34,Female,New Client,Gold
+1716,1,35-44,Male,Occasional,Gold
+1717,4,25-34,Male,VIP,Gold
+1718,5,18-24,Female,Regular,Silver
+1719,1,45-54,Female,Regular,Platinum
+1720,2,35-44,Female,New Client,Gold
+1721,7,25-34,Male,Occasional,Bronze
+1722,1,25-34,Male,Regular,Bronze
+1723,5,18-24,Female,Regular,Silver
+1724,1,45-54,Female,New Client,Silver
+1725,1,55+,Female,Regular,Silver
+1726,1,25-34,Female,Occasional,Silver
+1727,10,25-34,Female,New Client,Gold
+1728,8,55+,Female,Occasional,Silver
+1729,10,55+,Male,New Client,Bronze
+1730,5,35-44,Male,Occasional,Gold
+1731,1,18-24,Female,New Client,Bronze
+1732,5,18-24,Male,New Client,Platinum
+1733,4,35-44,Female,Regular,Bronze
+1734,8,35-44,Female,New Client,Platinum
+1735,1,18-24,Female,New Client,Bronze
+1736,5,35-44,Female,Occasional,Bronze
+1737,1,18-24,Female,Occasional,Bronze
+1738,2,45-54,Female,Regular,Gold
+1739,7,35-44,Female,Occasional,Gold
+1740,5,18-24,Male,Regular,Silver
+1741,3,35-44,Female,Regular,Platinum
+1742,3,35-44,Female,New Client,Silver
+1743,4,55+,Female,New Client,Silver
+1744,8,35-44,Male,Occasional,Gold
+1745,9,25-34,Female,Occasional,Bronze
+1746,10,45-54,Male,Regular,Bronze
+1747,8,25-34,Female,Occasional,Gold
+1748,2,55+,Female,Occasional,Gold
+1749,6,35-44,Female,New Client,Platinum
+1750,4,35-44,Female,New Client,Gold
+1751,2,18-24,Female,Occasional,Bronze
+1752,8,35-44,Female,Occasional,Gold
+1753,1,45-54,Male,Occasional,Silver
+1754,9,45-54,Female,New Client,Platinum
+1755,4,25-34,Female,Regular,Silver
+1756,6,25-34,Male,Regular,Silver
+1757,6,45-54,Female,New Client,Silver
+1758,9,55+,Male,Occasional,Bronze
+1759,6,25-34,Male,VIP,Bronze
+1760,6,35-44,Female,Occasional,Gold
+1761,1,35-44,Female,Occasional,Gold
+1762,5,55+,Female,New Client,Bronze
+1763,1,25-34,Male,Regular,Gold
+1764,7,25-34,Male,New Client,Silver
+1765,5,45-54,Male,VIP,Silver
+1766,6,18-24,Male,Regular,Bronze
+1767,1,35-44,Male,Regular,Gold
+1768,1,35-44,Female,Regular,Gold
+1769,6,35-44,Female,Occasional,Silver
+1770,1,35-44,Male,Occasional,Silver
+1771,1,35-44,Female,Regular,Bronze
+1772,1,25-34,Female,VIP,Silver
+1773,10,35-44,Male,Occasional,Bronze
+1774,7,45-54,Female,VIP,Bronze
+1775,3,45-54,Male,Occasional,Silver
+1776,2,25-34,Male,Occasional,Gold
+1777,3,25-34,Female,Occasional,Silver
+1778,7,25-34,Male,New Client,Bronze
+1779,6,35-44,Female,New Client,Silver
+1780,1,35-44,Female,New Client,Gold
+1781,1,45-54,Female,Occasional,Gold
+1782,1,18-24,Female,Occasional,Gold
+1783,6,18-24,Female,Occasional,Silver
+1784,7,35-44,Female,VIP,Gold
+1785,2,45-54,Female,Occasional,Bronze
+1786,1,25-34,Female,Occasional,Bronze
+1787,1,45-54,Male,New Client,Silver
+1788,10,25-34,Male,New Client,Silver
+1789,2,55+,Female,Regular,Platinum
+1790,7,55+,Female,Occasional,Gold
+1791,6,25-34,Female,Regular,Bronze
+1792,3,25-34,Female,New Client,Bronze
+1793,1,35-44,Male,Occasional,Bronze
+1794,1,25-34,Male,New Client,Bronze
+1795,6,45-54,Female,New Client,Silver
+1796,7,45-54,Female,New Client,Gold
+1797,6,45-54,Female,New Client,Platinum
+1798,5,45-54,Male,Occasional,Silver
+1799,1,35-44,Female,New Client,Gold
+1800,10,25-34,Male,VIP,Silver
+1801,8,45-54,Male,Occasional,Bronze
+1802,2,35-44,Female,New Client,Silver
+1803,10,45-54,Female,New Client,Silver
+1804,6,25-34,Male,Occasional,Gold
+1805,6,25-34,Female,New Client,Bronze
+1806,7,55+,Female,Regular,Bronze
+1807,8,25-34,Female,VIP,Bronze
+1808,6,55+,Male,New Client,Platinum
+1809,1,55+,Male,Occasional,Silver
+1810,3,45-54,Male,New Client,Gold
+1811,9,45-54,Male,Regular,Gold
+1812,1,35-44,Male,Occasional,Bronze
+1813,3,55+,Male,New Client,Silver
+1814,4,25-34,Female,New Client,Gold
+1815,4,35-44,Female,Regular,Silver
+1816,6,45-54,Male,Occasional,Platinum
+1817,10,35-44,Male,New Client,Bronze
+1818,1,35-44,Male,Regular,Bronze
+1819,1,35-44,Female,Occasional,Gold
+1820,1,35-44,Male,Regular,Gold
+1821,9,45-54,Male,New Client,Platinum
+1822,6,25-34,Female,Regular,Silver
+1823,2,55+,Female,Regular,Platinum
+1824,8,45-54,Female,New Client,Gold
+1825,8,45-54,Female,Regular,Gold
+1826,8,35-44,Female,Occasional,Silver
+1827,9,45-54,Female,VIP,Silver
+1828,2,18-24,Female,New Client,Platinum
+1829,7,45-54,Male,Regular,Silver
+1830,4,18-24,Male,Occasional,Silver
+1831,8,55+,Male,VIP,Silver
+1832,6,55+,Female,Occasional,Silver
+1833,7,25-34,Female,VIP,Silver
+1834,6,25-34,Male,VIP,Bronze
+1835,1,45-54,Female,New Client,Gold
+1836,5,25-34,Male,Regular,Silver
+1837,10,55+,Male,VIP,Silver
+1838,9,25-34,Female,New Client,Bronze
+1839,1,25-34,Male,Occasional,Bronze
+1840,1,55+,Female,Occasional,Bronze
+1841,1,45-54,Female,New Client,Gold
+1842,6,45-54,Male,New Client,Bronze
+1843,8,35-44,Female,New Client,Gold
+1844,1,45-54,Male,New Client,Bronze
+1845,5,35-44,Female,Occasional,Bronze
+1846,8,35-44,Female,New Client,Bronze
+1847,7,45-54,Male,Regular,Bronze
+1848,5,35-44,Male,Regular,Gold
+1849,6,35-44,Female,New Client,Gold
+1850,5,25-34,Female,Regular,Silver
+1851,2,45-54,Male,Regular,Bronze
+1852,6,25-34,Female,VIP,Bronze
+1853,6,45-54,Male,New Client,Silver
+1854,8,25-34,Female,New Client,Platinum
+1855,6,45-54,Male,VIP,Bronze
+1856,7,45-54,Male,VIP,Gold
+1857,1,25-34,Female,Regular,Silver
+1858,4,18-24,Female,Regular,Bronze
+1859,1,25-34,Male,New Client,Silver
+1860,1,35-44,Female,Occasional,Bronze
+1861,6,45-54,Male,New Client,Gold
+1862,10,18-24,Female,New Client,Bronze
+1863,1,45-54,Female,Regular,Gold
+1864,4,35-44,Female,New Client,Bronze
+1865,8,35-44,Male,Occasional,Platinum
+1866,1,55+,Female,VIP,Bronze
+1867,6,35-44,Male,New Client,Gold
+1868,7,35-44,Male,VIP,Gold
+1869,6,18-24,Female,VIP,Platinum
+1870,1,25-34,Female,Occasional,Silver
+1871,3,25-34,Male,New Client,Gold
+1872,8,18-24,Female,Occasional,Bronze
+1873,6,45-54,Male,Occasional,Bronze
+1874,1,35-44,Female,Occasional,Silver
+1875,7,35-44,Female,New Client,Bronze
+1876,1,25-34,Male,VIP,Platinum
+1877,7,25-34,Female,New Client,Bronze
+1878,1,45-54,Female,Regular,Silver
+1879,10,55+,Female,New Client,Silver
+1880,3,18-24,Female,Occasional,Silver
+1881,2,55+,Female,VIP,Silver
+1882,1,35-44,Male,New Client,Bronze
+1883,2,35-44,Female,New Client,Silver
+1884,8,35-44,Female,Regular,Bronze
+1885,10,25-34,Male,Regular,Platinum
+1886,3,25-34,Female,Regular,Gold
+1887,4,35-44,Female,Occasional,Platinum
+1888,6,35-44,Male,New Client,Bronze
+1889,9,55+,Male,VIP,Bronze
+1890,6,35-44,Female,VIP,Bronze
+1891,3,25-34,Male,Occasional,Bronze
+1892,4,45-54,Female,Regular,Bronze
+1893,6,25-34,Male,Occasional,Silver
+1894,1,35-44,Female,Occasional,Bronze
+1895,6,45-54,Female,New Client,Silver
+1896,3,55+,Female,Occasional,Gold
+1897,8,45-54,Female,Occasional,Silver
+1898,1,45-54,Female,New Client,Silver
+1899,6,45-54,Male,Occasional,Bronze
+1900,5,55+,Female,Regular,Silver
+1901,6,25-34,Female,Regular,Bronze
+1902,1,18-24,Female,Regular,Silver
+1903,6,25-34,Female,VIP,Bronze
+1904,6,25-34,Male,New Client,Gold
+1905,6,45-54,Female,Occasional,Gold
+1906,6,45-54,Female,Regular,Silver
+1907,6,35-44,Female,Occasional,Bronze
+1908,8,18-24,Male,Occasional,Bronze
+1909,2,45-54,Female,New Client,Gold
+1910,8,35-44,Female,VIP,Silver
+1911,5,45-54,Female,Occasional,Bronze
+1912,1,35-44,Female,Regular,Bronze
+1913,1,35-44,Female,Occasional,Bronze
+1914,3,25-34,Male,Regular,Gold
+1915,8,25-34,Male,Regular,Bronze
+1916,6,45-54,Male,Regular,Silver
+1917,8,55+,Female,Occasional,Silver
+1918,5,45-54,Female,Occasional,Silver
+1919,4,25-34,Female,Regular,Gold
+1920,1,35-44,Male,Occasional,Gold
+1921,2,45-54,Male,Occasional,Silver
+1922,4,45-54,Male,New Client,Bronze
+1923,1,25-34,Female,VIP,Silver
+1924,1,18-24,Female,New Client,Silver
+1925,6,45-54,Female,Regular,Silver
+1926,7,35-44,Female,Occasional,Silver
+1927,10,25-34,Male,Occasional,Bronze
+1928,9,18-24,Male,Regular,Silver
+1929,6,35-44,Female,New Client,Bronze
+1930,4,45-54,Female,Occasional,Gold
+1931,6,55+,Male,Regular,Bronze
+1932,8,35-44,Male,Regular,Gold
+1933,1,35-44,Female,New Client,Bronze
+1934,4,25-34,Female,VIP,Silver
+1935,8,35-44,Female,Regular,Gold
+1936,3,35-44,Female,VIP,Bronze
+1937,6,35-44,Female,Occasional,Gold
+1938,6,35-44,Male,Occasional,Silver
+1939,1,25-34,Female,VIP,Silver
+1940,3,25-34,Female,VIP,Bronze
+1941,3,35-44,Female,Occasional,Silver
+1942,1,25-34,Male,New Client,Silver
+1943,1,25-34,Male,Occasional,Silver
+1944,8,55+,Female,Occasional,Silver
+1945,2,35-44,Male,New Client,Silver
+1946,5,35-44,Male,New Client,Bronze
+1947,2,55+,Female,Regular,Bronze
+1948,10,55+,Female,New Client,Bronze
+1949,2,35-44,Male,Regular,Bronze
+1950,4,45-54,Male,New Client,Gold
+1951,8,35-44,Male,Occasional,Gold
+1952,8,35-44,Male,New Client,Bronze
+1953,1,35-44,Male,New Client,Platinum
+1954,8,45-54,Female,Regular,Silver
+1955,4,45-54,Female,VIP,Gold
+1956,5,35-44,Female,New Client,Gold
+1957,1,25-34,Female,Occasional,Gold
+1958,1,45-54,Male,Occasional,Bronze
+1959,6,25-34,Female,Regular,Bronze
+1960,5,35-44,Male,Regular,Bronze
+1961,4,45-54,Female,Occasional,Gold
+1962,6,45-54,Female,Regular,Bronze
+1963,7,45-54,Female,Regular,Gold
+1964,1,55+,Female,New Client,Bronze
+1965,6,35-44,Male,Occasional,Gold
+1966,1,45-54,Male,VIP,Bronze
+1967,7,45-54,Male,Regular,Bronze
+1968,6,25-34,Female,Occasional,Bronze
+1969,10,18-24,Female,Occasional,Silver
+1970,1,25-34,Female,Occasional,Bronze
+1971,1,35-44,Female,Occasional,Gold
+1972,2,45-54,Male,Regular,Bronze
+1973,2,45-54,Male,Occasional,Bronze
+1974,1,25-34,Male,Regular,Gold
+1975,9,25-34,Female,Regular,Bronze
+1976,1,55+,Male,New Client,Platinum
+1977,2,25-34,Female,Occasional,Platinum
+1978,7,35-44,Male,Occasional,Bronze
+1979,4,35-44,Female,Regular,Bronze
+1980,7,35-44,Female,New Client,Bronze
+1981,1,25-34,Female,Regular,Gold
+1982,5,18-24,Male,Regular,Silver
+1983,1,25-34,Female,Occasional,Silver
+1984,1,35-44,Female,VIP,Gold
+1985,9,35-44,Male,VIP,Bronze
+1986,1,25-34,Female,New Client,Gold
+1987,5,45-54,Female,New Client,Gold
+1988,4,45-54,Female,VIP,Silver
+1989,3,18-24,Female,VIP,Gold
+1990,9,35-44,Male,New Client,Gold
+1991,1,45-54,Male,New Client,Bronze
+1992,6,25-34,Female,New Client,Silver
+1993,10,35-44,Male,VIP,Silver
+1994,6,45-54,Female,New Client,Bronze
+1995,9,55+,Female,Occasional,Platinum
+1996,1,45-54,Female,Regular,Bronze
+1997,4,35-44,Female,New Client,Silver
+1998,2,45-54,Female,Regular,Silver
+1999,7,35-44,Male,New Client,Bronze
+2000,10,45-54,Male,Regular,Platinum
+2001,2,35-44,Female,New Client,Gold
+2002,6,25-34,Male,Regular,Silver
+2003,1,45-54,Male,Regular,Bronze
+2004,6,35-44,Male,New Client,Bronze
+2005,4,35-44,Male,New Client,Bronze
+2006,10,55+,Female,Occasional,Bronze
+2007,6,18-24,Male,New Client,Silver
+2008,3,35-44,Female,Regular,Platinum
+2009,1,18-24,Female,Regular,Silver
+2010,1,45-54,Female,Occasional,Gold
+2011,1,45-54,Female,Regular,Silver
+2012,2,35-44,Female,Regular,Silver
+2013,8,45-54,Female,Regular,Gold
+2014,6,35-44,Female,Occasional,Silver
+2015,5,45-54,Male,New Client,Gold
+2016,1,35-44,Female,New Client,Bronze
+2017,8,35-44,Male,Occasional,Bronze
+2018,6,55+,Female,Occasional,Gold
+2019,1,25-34,Male,Occasional,Silver
+2020,6,25-34,Female,New Client,Gold
+2021,5,35-44,Female,Regular,Platinum
+2022,1,55+,Female,New Client,Bronze
+2023,4,35-44,Male,New Client,Silver
+2024,5,25-34,Male,Occasional,Bronze
+2025,1,35-44,Female,New Client,Silver
+2026,10,35-44,Female,Occasional,Gold
+2027,8,25-34,Male,Occasional,Bronze
+2028,6,45-54,Female,Occasional,Silver
+2029,4,55+,Male,Occasional,Gold
+2030,4,35-44,Female,New Client,Bronze
+2031,6,35-44,Female,New Client,Gold
+2032,5,35-44,Female,VIP,Silver
+2033,1,25-34,Female,Occasional,Platinum
+2034,5,55+,Male,Occasional,Bronze
+2035,8,35-44,Male,New Client,Bronze
+2036,4,35-44,Female,Occasional,Silver
+2037,1,45-54,Male,Occasional,Bronze
+2038,8,35-44,Female,Occasional,Platinum
+2039,1,45-54,Female,Regular,Bronze
+2040,2,25-34,Female,New Client,Gold
+2041,1,45-54,Male,New Client,Silver
+2042,3,55+,Male,Regular,Bronze
+2043,7,45-54,Male,VIP,Bronze
+2044,5,55+,Male,New Client,Silver
+2045,1,25-34,Male,Occasional,Silver
+2046,8,35-44,Male,New Client,Bronze
+2047,8,35-44,Male,New Client,Gold
+2048,8,35-44,Male,Occasional,Bronze
+2049,1,35-44,Female,New Client,Silver
+2050,4,35-44,Female,Regular,Silver
+2051,10,25-34,Female,Occasional,Bronze
+2052,7,35-44,Female,New Client,Platinum
+2053,1,25-34,Male,New Client,Bronze
+2054,1,45-54,Female,Regular,Bronze
+2055,4,25-34,Male,New Client,Silver
+2056,9,18-24,Female,Regular,Silver
+2057,5,35-44,Female,Occasional,Silver
+2058,5,35-44,Female,Occasional,Silver
+2059,1,55+,Male,Occasional,Bronze
+2060,6,35-44,Female,New Client,Bronze
+2061,8,35-44,Female,New Client,Gold
+2062,3,45-54,Male,New Client,Bronze
+2063,7,35-44,Male,Occasional,Gold
+2064,10,25-34,Female,Regular,Bronze
+2065,1,35-44,Female,New Client,Gold
+2066,5,55+,Female,New Client,Bronze
+2067,2,35-44,Male,Occasional,Silver
+2068,8,25-34,Female,Regular,Bronze
+2069,6,25-34,Female,VIP,Bronze
+2070,6,25-34,Female,Occasional,Bronze
+2071,8,35-44,Female,Occasional,Bronze
+2072,3,35-44,Male,Occasional,Bronze
+2073,9,25-34,Female,VIP,Silver
+2074,5,55+,Female,Regular,Silver
+2075,1,45-54,Female,Occasional,Gold
+2076,6,35-44,Female,New Client,Silver
+2077,8,45-54,Female,New Client,Silver
+2078,2,25-34,Male,Occasional,Silver
+2079,8,35-44,Male,Regular,Silver
+2080,9,45-54,Male,Occasional,Silver
+2081,2,45-54,Male,New Client,Gold
+2082,10,45-54,Male,Regular,Bronze
+2083,1,25-34,Female,Regular,Bronze
+2084,1,55+,Male,New Client,Silver
+2085,1,25-34,Male,Regular,Bronze
+2086,9,55+,Male,Occasional,Gold
+2087,6,55+,Female,VIP,Gold
+2088,1,25-34,Female,Regular,Bronze
+2089,4,45-54,Male,Occasional,Bronze
+2090,6,18-24,Male,Regular,Silver
+2091,1,35-44,Male,VIP,Silver
+2092,9,35-44,Female,Occasional,Bronze
+2093,8,35-44,Female,Occasional,Gold
+2094,5,55+,Female,Regular,Silver
+2095,10,45-54,Male,New Client,Bronze
+2096,4,35-44,Female,Occasional,Bronze
+2097,10,45-54,Female,Regular,Gold
+2098,6,55+,Male,Regular,Bronze
+2099,6,18-24,Female,Occasional,Gold
+2100,1,55+,Male,New Client,Silver
+2101,9,25-34,Female,Occasional,Silver
+2102,4,45-54,Male,New Client,Gold
+2103,1,25-34,Female,New Client,Gold
+2104,1,25-34,Male,Regular,Bronze
+2105,6,35-44,Male,New Client,Bronze
+2106,5,45-54,Female,Occasional,Gold
+2107,6,35-44,Female,Occasional,Silver
+2108,9,18-24,Female,VIP,Bronze
+2109,1,35-44,Male,Occasional,Gold
+2110,7,55+,Male,New Client,Bronze
+2111,1,35-44,Female,New Client,Bronze
+2112,8,25-34,Male,Occasional,Bronze
+2113,8,35-44,Female,Occasional,Silver
+2114,5,18-24,Male,Occasional,Silver
+2115,6,45-54,Male,Occasional,Bronze
+2116,2,45-54,Female,New Client,Bronze
+2117,5,35-44,Female,Occasional,Bronze
+2118,8,35-44,Female,Occasional,Silver
+2119,4,45-54,Female,New Client,Bronze
+2120,3,35-44,Female,New Client,Platinum
+2121,5,45-54,Female,New Client,Bronze
+2122,8,45-54,Female,New Client,Platinum
+2123,3,45-54,Female,Regular,Bronze
+2124,1,35-44,Female,New Client,Gold
+2125,6,35-44,Male,New Client,Bronze
+2126,8,55+,Female,New Client,Bronze
+2127,1,35-44,Male,VIP,Gold
+2128,1,35-44,Male,Regular,Gold
+2129,1,25-34,Female,New Client,Silver
+2130,3,45-54,Female,Occasional,Gold
+2131,4,35-44,Male,New Client,Silver
+2132,7,25-34,Male,Occasional,Gold
+2133,6,18-24,Female,New Client,Bronze
+2134,6,35-44,Female,Regular,Silver
+2135,3,45-54,Female,Occasional,Silver
+2136,8,35-44,Female,VIP,Bronze
+2137,5,25-34,Female,New Client,Gold
+2138,10,45-54,Female,Regular,Bronze
+2139,6,25-34,Male,Regular,Bronze
+2140,1,35-44,Female,New Client,Silver
+2141,6,25-34,Female,Occasional,Silver
+2142,2,25-34,Female,New Client,Bronze
+2143,6,25-34,Female,New Client,Silver
+2144,1,35-44,Female,New Client,Platinum
+2145,1,18-24,Female,Occasional,Bronze
+2146,8,35-44,Male,Occasional,Silver
+2147,1,35-44,Female,VIP,Gold
+2148,8,35-44,Male,New Client,Silver
+2149,2,35-44,Male,VIP,Platinum
+2150,6,45-54,Female,New Client,Gold
+2151,6,25-34,Female,Regular,Silver
+2152,5,35-44,Female,Occasional,Silver
+2153,2,25-34,Male,New Client,Silver
+2154,1,25-34,Male,Regular,Silver
+2155,1,35-44,Male,Occasional,Gold
+2156,2,35-44,Female,Regular,Bronze
+2157,6,55+,Male,Occasional,Bronze
+2158,9,35-44,Female,Occasional,Bronze
+2159,8,55+,Female,Occasional,Bronze
+2160,7,18-24,Female,Regular,Bronze
+2161,8,25-34,Female,New Client,Gold
+2162,6,18-24,Male,Regular,Silver
+2163,2,25-34,Female,VIP,Silver
+2164,9,35-44,Female,New Client,Silver
+2165,6,45-54,Female,New Client,Gold
+2166,6,18-24,Male,Regular,Silver
+2167,1,55+,Male,Occasional,Gold
+2168,4,45-54,Female,Occasional,Bronze
+2169,4,25-34,Female,New Client,Platinum
+2170,8,25-34,Female,Occasional,Silver
+2171,5,25-34,Male,New Client,Bronze
+2172,3,25-34,Male,Occasional,Silver
+2173,10,25-34,Female,Regular,Silver
+2174,1,35-44,Male,New Client,Bronze
+2175,4,25-34,Female,Occasional,Silver
+2176,1,35-44,Male,VIP,Bronze
+2177,7,55+,Female,Regular,Bronze
+2178,9,45-54,Female,Regular,Platinum
+2179,2,55+,Female,Occasional,Silver
+2180,8,25-34,Female,Regular,Gold
+2181,2,35-44,Male,New Client,Silver
+2182,9,35-44,Female,New Client,Bronze
+2183,7,25-34,Male,New Client,Silver
+2184,8,18-24,Male,Occasional,Silver
+2185,1,45-54,Female,Regular,Platinum
+2186,10,45-54,Female,Occasional,Bronze
+2187,6,35-44,Female,Regular,Gold
+2188,2,35-44,Male,Regular,Platinum
+2189,8,35-44,Female,Occasional,Silver
+2190,2,18-24,Female,Occasional,Platinum
+2191,8,35-44,Female,Occasional,Silver
+2192,1,25-34,Male,Occasional,Platinum
+2193,6,25-34,Female,New Client,Gold
+2194,5,55+,Female,VIP,Bronze
+2195,1,35-44,Female,New Client,Gold
+2196,1,45-54,Female,New Client,Silver
+2197,1,35-44,Male,Regular,Silver
+2198,4,35-44,Female,Occasional,Silver
+2199,2,25-34,Male,Regular,Bronze
+2200,6,25-34,Male,Occasional,Silver

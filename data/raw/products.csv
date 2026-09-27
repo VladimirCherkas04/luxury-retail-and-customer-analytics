@@ -1,0 +1,29 @@
+product_id,product_category,product_type,unit_price
+1,Leather Goods,Handbag,1844.17
+2,Leather Goods,Handbag,2881.29
+3,Leather Goods,Wallet,2487.59
+4,Leather Goods,Wallet,2247.59
+5,Leather Goods,Belt,1450.83
+6,Leather Goods,Belt,1450.79
+7,Watches,Luxury Watch,4390.12
+8,Watches,Luxury Watch,9400.29
+9,Watches,Classic Watch,7756.91
+10,Watches,Classic Watch,8420.05
+11,Jewelry,Necklace,3218.81
+12,Jewelry,Necklace,7775.57
+13,Jewelry,Bracelet,7115.72
+14,Jewelry,Bracelet,4139.23
+15,Jewelry,Ring,3992.76
+16,Jewelry,Ring,4000.34
+17,Fashion,Ready-to-Wear,1526.79
+18,Fashion,Ready-to-Wear,1879.61
+19,Fashion,Shoes,1731.11
+20,Fashion,Shoes,1505.97
+21,Fashion,Accessories,2018.96
+22,Fashion,Accessories,1263.19
+23,Beauty,Fragrance,395.7
+24,Beauty,Fragrance,426.87
+25,Beauty,Skincare,464.55
+26,Beauty,Skincare,602.77
+27,Beauty,Makeup,356.86
+28,Beauty,Makeup,488.98

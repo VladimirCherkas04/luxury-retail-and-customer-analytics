@@ -1,0 +1,7 @@
+SYNTHETIC DATA NOTE
+
+All datasets in this project are fully synthetic and were created for portfolio and educational purposes.
+
+They do not represent LVMH, any LVMH maison, real customers, real transactions, official company statistics, or confidential business information.
+
+The project demonstrates SQL, Python/pandas, Tableau, retail analytics, customer analytics, and business analysis skills.

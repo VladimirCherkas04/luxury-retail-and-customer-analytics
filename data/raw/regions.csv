@@ -1,0 +1,11 @@
+region_id,country,subregion,market
+1,France,Western Europe,Europe
+2,United Kingdom,Northern Europe,Europe
+3,Italy,Southern Europe,Europe
+4,Spain,Southern Europe,Europe
+5,Germany,Central Europe,Europe
+6,United States,North America,North America
+7,Canada,North America,North America
+8,Japan,East Asia,Asia
+9,South Korea,East Asia,Asia
+10,United Arab Emirates,Middle East,Middle East
